@@ -1,17 +1,5 @@
 #install.packages("readr")
 library(readr)
-overlap <- function(x1,y1,x2,y2){
-  overlap <- 0
-  if (x2 >= x1) {
-    if (x2 <= y1) {
-      overlap <- 2
-    }
-  }
-  else if (y2 >= x1) {
-    overlap <- 1
-  }
-  overlap
-}
 
 f <- read_log( "access.log", skip=0, col_names=FALSE )
 df <- f[,c("X4","X2","X7")]
@@ -42,16 +30,14 @@ for (i in 1:n) {
   if (rowsn > 1)
   {
     for (j in 1:(rowsn-1)) {
-      x1 <- byLabel[[i]]$timeStamp[j]
       y1 <- byLabel[[i]]$end[j]
       for (k in (j+1):rowsn) {
         x2 <- byLabel[[i]]$timeStamp[k]
-        y2 <- byLabel[[i]]$end[k]
-        overlapCheck <- overlap(x1, y1, x2, y2)
-        if (overlapCheck == 1) {
-          byLabel[[i]]$concurrency[j] <- byLabel[[i]]$concurrency[j] + 1 }
-        else if (overlapCheck == 2) {
-          byLabel[[i]]$concurrency[k] <- byLabel[[i]]$concurrency[k] + 1
+        if (x2 > y1) {
+          break  
+          }
+        else {
+            byLabel[[i]]$concurrency[k] <- byLabel[[i]]$concurrency[k] + 1
         }
       }
     }
