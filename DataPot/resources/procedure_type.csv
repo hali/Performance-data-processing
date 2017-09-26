@@ -1,0 +1,5 @@
+id,type,description,
+1,A,Anesthesia,
+2,D,Diagnostic procedure,
+3,I,Invasive procedure not classified elsewhere (e.g. IV or catheter etc.),
+4,P,Procedure for treatment (therapeutic including operations),

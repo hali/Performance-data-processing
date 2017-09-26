@@ -1,0 +1,17 @@
+id,marital_id,description
+1,A,Separated
+2,B,Unmarried
+3,C,Common law
+4,D,Divorced
+5,E,Legally separated
+6,G,Living together
+7,I,Interlocutory
+8,M,Married
+9,N,Annulled
+10,O,Other
+11,P,Domestic partner
+12,R,Registered domestic partner
+13,S,Single
+14,T,Unreported
+15,U,Unknown
+16,W,Widowed

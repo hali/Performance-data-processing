@@ -1,0 +1,5 @@
+id,severity,description
+1,SV,Severe
+2,MO,Moderate
+3,MI,Mild
+4,U,Unknown

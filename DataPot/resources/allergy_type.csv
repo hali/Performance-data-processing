@@ -1,0 +1,9 @@
+id,type,description
+1,DA,Drug allergy
+2,FA,Food allergy
+3,MA,Miscellaneous allergy
+4,MC,Miscellaneous contraindication
+5,EA,Environmental Allergy
+6,AA,Animal Allergy
+7,PA,Plant Allergy
+8,LA,Pollen Allergy

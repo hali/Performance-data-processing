@@ -1,0 +1,469 @@
+id,language_id,description
+1,AAR,Afar
+2,ABK,Abkhazian
+3,ACE,Achinese
+4,ACH,Acoli
+5,ADA,Adangme
+6,ADY,Adyghe; Adygei
+7,AFA,Afro-Asiatic languages
+8,AFH,Afrihili
+9,AFR,Afrikaans
+10,AIN,Ainu
+11,AKA,Akan
+12,AKK,Akkadian
+13,ALB,Albanian
+14,ALE,Aleut
+15,ALG,Algonquian languages
+16,ALT,Southern Altai
+17,AMH,Amharic
+18,ANP,Angika
+19,APA,Apache languages
+20,ARA,Arabic
+21,ARG,Aragonese
+22,ARM,Armenian
+23,ARN,Mapudungun; Mapuche
+24,ARP,Arapaho
+25,ARW,Arawak
+26,ASM,Assamese
+27,AST,Asturian; Bable; Leonese; Asturleonese
+28,ATH,Athapascan languages
+29,AUS,Australian languages
+30,AVA,Avaric
+31,AVE,Avestan
+32,AWA,Awadhi
+33,AYM,Aymara
+34,AZE,Azerbaijani
+35,BAD,Banda languages
+36,BAI,Bamileke languages
+37,BAK,Bashkir
+38,BAL,Baluchi
+39,BAM,Bambara
+40,BAN,Balinese
+41,BAQ,Basque
+42,BAS,Basa
+43,BAT,Baltic languages
+44,BEJ,Beja; Bedawiyet
+45,BEL,Belarusian
+46,BEM,Bemba
+47,BEN,Bengali
+48,BER,Berber languages
+49,BHO,Bhojpuri
+50,BIH,Bihari languages
+51,BIK,Bikol
+52,BIN,Bini; Edo
+53,BIS,Bislama
+54,BLA,Siksika
+55,BNT,Bantu languages
+56,BOS,Bosnian
+57,BRA,Braj
+58,BRE,Breton
+59,BTK,Batak languages
+60,BUA,Buriat
+61,BUG,Buginese
+62,BUL,Bulgarian
+63,BUR,Burmese
+64,BYN,Blin; Bilin
+65,CAD,Caddo
+66,CAI,Central American Indian languages
+67,CAR,Galibi Carib
+68,CAT,Catalan; Valencian
+69,CAU,Caucasian languages
+70,CEB,Cebuano
+71,CEL,Celtic languages
+72,CHA,Chamorro
+73,CHB,Chibcha
+74,CHE,Chechen
+75,CHG,Chagatai
+76,CHI,Chinese
+77,CHK,Chuukese
+78,CHM,Mari
+79,CHN,Chinook jargon
+80,CHO,Choctaw
+81,CHP,Chipewyan; Dene Suline
+82,CHR,Cherokee
+83,CHV,Chuvash
+84,CHY,Cheyenne
+85,CMC,Chamic languages
+86,COP,Coptic
+87,COR,Cornish
+88,COS,Corsican
+89,CPE,Creoles and pidgins, English based
+90,CPF,Creoles and pidgins, French-based
+91,CPP,Creoles and pidgins, Portuguese-based
+92,CRE,Cree
+93,CRH,Crimean Tatar; Crimean Turkish
+94,CRP,Creoles and pidgins
+95,CSB,Kashubian
+96,CUS,Cushitic languages
+97,CZE,Czech
+98,DAK,Dakota
+99,DAN,Danish
+100,DAR,Dargwa
+101,DAY,Land Dayak languages
+102,DEL,Delaware
+103,DEN,Slave (Athapascan)
+104,DGR,Dogrib
+105,DIN,Dinka
+106,DIV,Divehi; Dhivehi; Maldivian
+107,DOI,Dogri
+108,DRA,Dravidian languages
+109,DSB,Lower Sorbian
+110,DUA,Duala
+111,DUT,Dutch; Flemish
+112,DYU,Dyula
+113,DZO,Dzongkha
+114,EFI,Efik
+115,EGY,Egyptian (Ancient)
+116,EKA,Ekajuk
+117,ELX,Elamite
+118,ENGL,English
+119,EPO,Esperanto
+120,EST,Estonian
+121,EWE,Ewe
+122,EWO,Ewondo
+123,FAN,Fang
+124,FAO,Faroese
+125,FAT,Fanti
+126,FIJ,Fijian
+127,FIL,Filipino; Pilipino
+128,FIN,Finnish
+129,FIU,Finno-Ugrian languages
+130,FON,Fon
+131,FRE,French
+132,FRR,Northern Frisian
+133,FRS,Eastern Frisian
+134,FRY,Western Frisian
+135,FUL,Fulah
+136,FUR,Friulian
+137,GAA,Ga
+138,GAY,Gayo
+139,GBA,Gbaya
+140,GEM,Germanic languages
+141,GEO,Georgian
+142,GER,German
+143,GEZ,Geez
+144,GIL,Gilbertese
+145,GLA,Gaelic; Scottish Gaelic
+146,GLE,Irish
+147,GLG,Galician
+148,GLV,Manx
+149,GON,Gondi
+150,GOR,Gorontalo
+151,GOT,Gothic
+152,GRB,Grebo
+153,GRE,Greek
+154,GRN,Guarani
+155,GSW,Swiss German; Alemannic; Alsatian
+156,GUJ,Gujarati
+157,GWI,Gwich'in
+158,HAI,Haida
+159,HAT,Haitian; Haitian Creole
+160,HAU,Hausa
+161,HAW,Hawaiian
+162,HEB,Hebrew
+163,HER,Herero
+164,HIL,Hiligaynon
+165,HIM,Himachali languages; Western Pahari languages
+166,HIN,Hindi
+167,HIT,Hittite
+168,HMN,Hmong; Mong
+169,HMO,Hiri Motu
+170,HRV,Croatian
+171,HSB,Upper Sorbian
+172,HUN,Hungarian
+173,HUP,Hupa
+174,IBA,Iban
+175,IBO,Igbo
+176,ICE,Icelandic
+177,IDO,Ido
+178,III,Sichuan Yi; Nuosu
+179,IJO,Ijo languages
+180,IKU,Inuktitut
+181,ILE,Interlingue; Occidental
+182,ILO,Iloko
+183,INC,Indic languages
+184,IND,Indonesian
+185,INE,Indo-European languages
+186,INH,Ingush
+187,IPK,Inupiaq
+188,IRA,Iranian languages
+189,IRO,Iroquoian languages
+190,ITA,Italian
+191,JAV,Javanese
+192,JBO,Lojban
+193,JPN,Japanese
+194,JPR,Judeo-Persian
+195,JRB,Judeo-Arabic
+196,KAA,Kara-Kalpak
+197,KAB,Kabyle
+198,KAC,Kachin; Jingpho
+199,KAL,Kalaallisut; Greenlandic
+200,KAM,Kamba
+201,KAN,Kannada
+202,KAR,Karen languages
+203,KAS,Kashmiri
+204,KAU,Kanuri
+205,KAW,Kawi
+206,KAZ,Kazakh
+207,KBD,Kabardian
+208,KHA,Khasi
+209,KHI,Khoisan languages
+210,KHM,Central Khmer
+211,KHO,Khotanese; Sakan
+212,KIK,Kikuyu; Gikuyu
+213,KIN,Kinyarwanda
+214,KIR,Kirghiz; Kyrgyz
+215,KMB,Kimbundu
+216,KOK,Konkani
+217,KOM,Komi
+218,KON,Kongo
+219,KOR,Korean
+220,KOS,Kosraean
+221,KPE,Kpelle
+222,KRC,Karachay-Balkar
+223,KRL,Karelian
+224,KRO,Kru languages
+225,KRU,Kurukh
+226,KUA,Kuanyama; Kwanyama
+227,KUM,Kumyk
+228,KUR,Kurdish
+229,KUT,Kutenai
+230,LAD,Ladino
+231,LAH,Lahnda
+232,LAM,Lamba
+233,LAO,Lao
+234,LAT,Latin
+235,LAV,Latvian
+236,LEZ,Lezghian
+237,LIM,Limburgan; Limburger; Limburgish
+238,LIN,Lingala
+239,LIT,Lithuanian
+240,LOL,Mongo
+241,LOZ,Lozi
+242,LTZ,Luxembourgish; Letzeburgesch
+243,LUA,Luba-Lulua
+244,LUB,Luba-Katanga
+245,LUG,Ganda
+246,LUI,Luiseno
+247,LUN,Lunda
+248,LUO,Luo (Kenya and Tanzania)
+249,LUS,Lushai
+250,MAC,Macedonian
+251,MAD,Madurese
+252,MAG,Magahi
+253,MAH,Marshallese
+254,MAI,Maithili
+255,MAK,Makasar
+256,MAL,Malayalam
+257,MAN,Mandingo
+258,MAO,Maori
+259,MAP,Austronesian languages
+260,MAR,Marathi
+261,MAS,Masai
+262,MAY,Malay
+263,MDF,Moksha
+264,MDR,Mandar
+265,MEN,Mende
+266,MGA,Irish, Middle (900-1200)
+267,MIC,Mi'kmaq; Micmac
+268,MIN,Minangkabau
+269,MIS,Uncoded languages
+270,MKH,Mon-Khmer languages
+271,MLG,Malagasy
+272,MLT,Maltese
+273,MNC,Manchu
+274,MNI,Manipuri
+275,MNO,Manobo languages
+276,MOH,Mohawk
+277,MON,Mongolian
+278,MOS,Mossi
+279,MUL,Multiple languages
+280,MUN,Munda languages
+281,MUS,Creek
+282,MWL,Mirandese
+283,MWR,Marwari
+284,MYN,Mayan languages
+285,MYV,Erzya
+286,NAH,Nahuatl languages
+287,NAI,North American Indian languages
+288,NAP,Neapolitan
+289,NAU,Nauru
+290,NAV,Navajo; Navaho
+291,NBL,Ndebele, South; South Ndebele
+292,NDE,Ndebele, North; North Ndebele
+293,NDO,Ndonga
+294,NDS,Low German; Low Saxon; German, Low; Saxon, Low
+295,NEP,Nepali
+296,NEW,Nepal Bhasa; Newari
+297,NIA,Nias
+298,NIC,Niger-Kordofanian languages
+299,NIU,Niuean
+300,NNO,Norwegian Nynorsk; Nynorsk, Norwegian
+301,NOB,BokmŒl, Norwegian; Norwegian BokmŒl
+302,NOG,Nogai
+303,NON,Norse, Old
+304,NOR,Norwegian
+305,NQO,N'Ko
+306,NSO,Pedi; Sepedi; Northern Sotho
+307,NUB,Nubian languages
+308,NWC,Classical Newari; Old Newari; Classical Nepal Bhasa
+309,NYA,Chichewa; Chewa; Nyanja
+310,NYM,Nyamwezi
+311,NYN,Nyankole
+312,NYO,Nyoro
+313,NZI,Nzima
+314,OCI,Occitan (post 1500)
+315,OJI,Ojibwa
+316,ORI,Oriya
+317,ORM,Oromo
+318,OSA,Osage
+319,OSS,Ossetian; Ossetic
+320,OTO,Otomian languages
+321,PAA,Papuan languages
+322,PAG,Pangasinan
+323,PAL,Pahlavi
+324,PAM,Pampanga; Kapampangan
+325,PAN,Panjabi; Punjabi
+326,PAP,Papiamento
+327,PAU,Palauan
+328,PER,Persian
+329,PHI,Philippine languages
+330,PHN,Phoenician
+331,PLI,Pali
+332,POL,Polish
+333,PON,Pohnpeian
+334,POR,Portuguese
+335,PRA,Prakrit languages
+336,PUS,Pushto; Pashto
+337,QUE,Quechua
+338,RAJ,Rajasthani
+339,RAP,Rapanui
+340,RAR,Rarotongan; Cook Islands Maori
+341,ROA,Romance languages
+342,ROH,Romansh
+343,ROM,Romany
+344,RUM,Romanian; Moldavian; Moldovan
+345,RUN,Rundi
+346,RUP,Aromanian; Arumanian; Macedo-Romanian
+347,RUS,Russian
+348,SAD,Sandawe
+349,SAG,Sango
+350,SAH,Yakut
+351,SAI,South American Indian languages
+352,SAL,Salishan languages
+353,SAM,Samaritan Aramaic
+354,SAN,Sanskrit
+355,SAS,Sasak
+356,SAT,Santali
+357,SCN,Sicilian
+358,SCO,Scots
+359,SEL,Selkup
+360,SEM,Semitic languages
+361,SGA,Irish, Old (to 900)
+362,SGN,Sign Languages
+363,SHN,Shan
+364,SID,Sidamo
+365,SIN,Sinhala; Sinhalese
+366,SIO,Siouan languages
+367,SIT,Sino-Tibetan languages
+368,SLA,Slavic languages
+369,SLO,Slovak
+370,SLV,Slovenian
+371,SMA,Southern Sami
+372,SME,Northern Sami
+373,SMI,Sami languages
+374,SMJ,Lule Sami
+375,SMN,Inari Sami
+376,SMO,Samoan
+377,SMS,Skolt Sami
+378,SNA,Shona
+379,SND,Sindhi
+380,SNK,Soninke
+381,SOG,Sogdian
+382,SOM,Somali
+383,SON,Songhai languages
+384,SOT,Sotho, Southern
+385,SPA,Spanish; Castilian
+386,SRD,Sardinian
+387,SRN,Sranan Tongo
+388,SRP,Serbian
+389,SRR,Serer
+390,SSA,Nilo-Saharan languages
+391,SSW,Swati
+392,SUK,Sukuma
+393,SUN,Sundanese
+394,SUS,Susu
+395,SUX,Sumerian
+396,SWA,Swahili
+397,SWE,Swedish
+398,SYR,Syriac
+399,TAH,Tahitian
+400,TAI,Tai languages
+401,TAM,Tamil
+402,TAT,Tatar
+403,TEL,Telugu
+404,TEM,Timne
+405,TER,Tereno
+406,TET,Tetum
+407,TGK,Tajik
+408,TGL,Tagalog
+409,THA,Thai
+410,TIB,Tibetan
+411,TIG,Tigre
+412,TIR,Tigrinya
+413,TIV,Tiv
+414,TKL,Tokelau
+415,TLH,Klingon; tlhIngan-Hol
+416,TLI,Tlingit
+417,TMH,Tamashek
+418,TOG,Tonga (Nyasa)
+419,TON,Tonga (Tonga Islands)
+420,TPI,Tok Pisin
+421,TSI,Tsimshian
+422,TSN,Tswana
+423,TSO,Tsonga
+424,TUK,Turkmen
+425,TUM,Tumbuka
+426,TUP,Tupi languages
+427,TUR,Turkish
+428,TUT,Altaic languages
+429,TVL,Tuvalu
+430,TWI,Twi
+431,TYV,Tuvinian
+432,UDM,Udmurt
+433,UGA,Ugaritic
+434,UIG,Uighur; Uyghur
+435,UKR,Ukrainian
+436,UMB,Umbundu
+437,UND,Undetermined
+438,URD,Urdu
+439,UZB,Uzbek
+440,VAI,Vai
+441,VEN,Venda
+442,VIE,Vietnamese
+443,VOL,VolapŸk
+444,VOT,Votic
+445,WAK,Wakashan languages
+446,WAL,Wolaitta; Wolaytta
+447,WAR,Waray
+448,WAS,Washo
+449,WEL,Welsh
+450,WEN,Sorbian languages
+451,WLN,Walloon
+452,WOL,Wolof
+453,XAL,Kalmyk; Oirat
+454,XHO,Xhosa
+455,YAO,Yao
+456,YAP,Yapese
+457,YID,Yiddish
+458,YOR,Yoruba
+459,YPK,Yupik languages
+460,ZAP,Zapotec
+461,ZBL,Blissymbols; Blissymbolics; Bliss
+462,ZEN,Zenaga
+463,ZGH,Standard Moroccan Tamazight
+464,ZHA,Zhuang; Chuang
+465,ZND,Zande languages
+466,ZUL,Zulu
+467,ZUN,Zuni
+468,ZZA,Zaza; Dimili; Dimli; Kirdki; Kirmanjki; Zazaki

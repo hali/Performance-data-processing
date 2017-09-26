@@ -1,0 +1,84 @@
+id,religion_id,description
+1,ABC,Christian: American Baptist Church
+2,AGN,Agnostic
+3,AME,Christian: African Methodist Episcopal Zion
+4,AMT,Christian: African Methodist Episcopal
+5,ANG,Christian: Anglican
+6,AOG,Christian: Assembly of God
+7,ATH,Atheist
+8,BAH,Baha'i
+9,BAP,Christian: Baptist
+10,BMA,Buddhist: Mahayana
+11,BOT,Buddhist: Other
+12,BTA,Buddhist: Tantrayana
+13,BTH,Buddhist: Theravada
+14,BUD,Buddhist
+15,CAT,Christian: Roman Catholic
+16,CFR,Chinese Folk Religionist
+17,CHR,Christian
+18,CHS,Christian: Christian Science
+19,CMA,Christian: Christian Missionary Alliance
+20,CNF,Confucian
+21,COC,Christian: Church of Christ
+22,COG,Christian: Church of God
+23,COI,Christian: Church of God in Christ
+24,COL,Christian: Congregational
+25,COM,Christian: Community
+26,COP,Christian: Other Pentecostal
+27,COT,Christian: Other
+28,CRR,Christian: Christian Reformed
+29,EOT,Christian: Eastern Orthodox
+30,EPI,Christian: Episcopalian
+31,ERL,Ethnic Religionist
+32,EVC,Christian: Evangelical Church
+33,FRQ,Christian: Friends
+34,FWB,Christian: Free Will Baptist
+35,GRE,Christian: Greek Orthodox
+36,HIN,Hindu
+37,HOT,Hindu: Other
+38,HSH,Hindu: Shaivites
+39,HVA,Hindu: Vaishnavites
+40,JAI,Jain
+41,JCO,Jewish: Conservative
+42,JEW,Jewish
+43,JOR,Jewish: Orthodox
+44,JOT,Jewish: Other
+45,JRC,Jewish: Reconstructionist
+46,JRF,Jewish: Reform
+47,JRN,Jewish: Renewal
+48,JWN,Christian: Jehovah's Witness
+49,LMS,Christian: Lutheran Missouri Synod
+50,LUT,Christian: Lutheran
+51,MEN,Christian: Mennonite
+52,MET,Christian: Methodist
+53,MOM,Christian: Latter-day Saints
+54,MOS,Muslim
+55,MOT,Muslim: Other
+56,MSH,Muslim: Shiite
+57,MSU,Muslim: Sunni
+58,NAM,Native American
+59,NAZ,Christian: Church of the Nazarene
+60,NOE,Nonreligious
+61,NRL,New Religionist
+62,ORT,Christian: Orthodox
+63,OTH,Other
+64,PEN,Christian: Pentecostal
+65,PRC,Christian: Other Protestant
+66,PRE,Christian: Presbyterian
+67,PRO,Christian: Protestant
+68,QUA,Christian: Friends
+69,REC,Christian: Reformed Church
+70,REO,Christian: Reorganized Church of Jesus Christ-LDS
+71,SAA,Christian: Salvation Army
+72,SEV,Christian: Seventh Day Adventist
+73,SHN,Shintoist
+74,SIK,Sikh
+75,SOU,Christian: Southern Baptist
+76,SPI,Spiritist
+77,UCC,Christian: United Church of Christ
+78,UMD,Christian: United Methodist
+79,UNI,Christian: Unitarian
+80,UNU,Christian: Unitarian Universalist
+81,VAR,Unknown
+82,WES,Christian: Wesleyan
+83,WMC,Christian: Wesleyan Methodist

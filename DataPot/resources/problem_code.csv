@@ -1,0 +1,1001 @@
+id,code,description
+1,109006,Anxiety disorder of childhood OR adolescence
+2,122003,Choroidal hemorrhage
+3,127009,Spontaneous abortion with laceration of cervix
+4,129007,Homoiothermia
+5,134006,Decreased hair growth
+6,140004,Chronic pharyngitis
+7,144008,Normal peripheral vision
+8,147001,Superficial foreign body of scrotum without major open wound but with infection
+9,150003,Abnormal bladder continence
+10,151004,Gonococcal meningitis
+11,162004,Severe manic bipolar I disorder without psychotic features
+12,165002,Accident-prone
+13,168000,Typhlolithiasis
+14,171008,Injury of ascending right colon without open wound into abdominal cavity
+15,172001,Endometritis following molar AND/OR ectopic pregnancy
+16,175004,Supraorbital neuralgia
+17,177007,Poisoning by sawfly larvae
+18,179005,Apraxia of dressing
+19,181007,Hemorrhagic bronchopneumonia
+20,183005,Autoimmune pancytopenia
+21,184004,Withdrawal arrhythmia
+22,188001,Injury of intercostal artery
+23,192008,Congenital syphilitic hepatomegaly
+24,193003,Benign hypertensive renal disease
+25,195005,Illegal abortion with endometritis
+26,198007,Disease due to Filoviridae
+27,199004,Decreased lactation
+28,208008,Neurocutaneous melanosis sequence
+29,216004,Delusion of persecution
+30,219006,Alcohol user
+31,222008,Acute epiglottitis with obstruction
+32,223003,Tumor of body of uterus affecting pregnancy
+33,228007,Lucio phenomenon
+34,241006,Epilepsia partialis continua
+35,242004,Noninfectious jejunitis
+36,253005,Sycosis
+37,257006,Acne rosacea and erythematous telangiectatic type
+38,258001,Pseudoknuckle pad
+39,264008,Blind hypertensive eye
+40,276008,Poisoning by oxytocin
+41,279001,Senile myocarditis
+42,281004,Dementia associated with alcoholism
+43,282006,Acute myocardial infarction of basal-lateral wall
+44,290006,Melnick-Fraser syndrome
+45,292003,EEG finding
+46,297009,Acute myringitis
+47,299007,Paraffinoma of skin
+48,303002,Apoplectic pancreatitis
+49,308006,Pearly penile papules
+50,310008,Boil of penis
+51,313005,Déjà vu
+52,317006,Reactive hypoglycemia
+53,320003,Cervical dilatation,1cm
+54,324007,Plaster ulcer
+55,330007,Occipital headache
+56,335002,Pylorospasm
+57,341009,ABO incompatibility reaction
+58,349006,Absent tendon reflex
+59,355001,Hemorrhagic shock
+60,357009,Closed fracture of trapezoidal bone of wrist
+61,358004,Poisoning by smallpox vaccine
+62,359007,Kernicterus due to isoimmunization
+63,360002,Acute radiation disease
+64,364006,Acute left-sided heart failure
+65,366008,Hidromeiosis
+66,368009,Heart valve disorder
+67,369001,Normal jugular venous pressure
+68,378007,Morquio syndrome
+69,382009,Legal history finding relating to child
+70,383004,Passive range of hip extension - finding
+71,385006,Secondary peripheral neuropathy
+72,387003,Melanuria
+73,398002,Left axis deviation greater than -90 degrees by EKG
+74,407000,Congenital hepatomegaly
+75,408005,Tooth chattering
+76,409002,Food allergy diet
+77,426008,Superficial injury of ankle without infection
+78,431005,Hypertrophy of scrotum
+79,437009,Abnormal composition of urine
+80,440009,Persistent hyperphenylalaninemia
+81,442001,Secondary hypopituitarism
+82,443006,Cystocele affecting pregnancy
+83,447007,Coach in sports activity accident
+84,450005,Ulcerative stomatitis
+85,452002,Blister of groin without infection
+86,460001,Squamous metaplasia of prostate gland
+87,467003,Old laceration of muscles of pelvic floor
+88,470004,Vitreous touch syndrome
+89,479003,Graves' disease with pretibial myxedema AND with thyrotoxic crisis
+90,486006,Acute vascular insufficiency
+91,488007,Fibroid myocarditis
+92,490008,Upper respiratory tract hypersensitivity reaction
+93,496002,Closed traumatic dislocation of third cervical vertebra
+94,504009,Androgen-dependent hirsutism
+95,517007,Foreign body in hypopharynx
+96,518002,Multiple aggregation
+97,520004,Congenital bent nose
+98,527001,Spontaneous fetal evolution and Roederer's method
+99,536002,Glissonian cirrhosis
+100,539009,Conjunctival argyrosis
+101,547009,Hypersecretion of calcitonin
+102,548004,13p partial trisomy syndrome
+103,554003,2p partial trisomy syndrome
+104,555002,Dicentra species poisoning
+105,563001,Nystagmus
+106,568005,Tic disorder
+107,586008,Contact dermatitis due to primrose
+108,590005,Congenital aneurysm of anterior communicating artery
+109,596004,Premenstrual dysphoric disorder
+110,599006,Chronic pneumothorax
+111,600009,Pyromania
+112,602001,Ross river fever
+113,607007,Decreased vital capacity
+114,610000,Spastic aphonia
+115,613003,Fragile X syndrome
+116,615005,Obstruction due to foreign body accidentally left in operative wound AND/OR body cavity during a procedure
+117,616006,Sensorimotor disorder of eyelid
+118,626004,Hypercortisolism due to nonpituitary tumor
+119,631002,Transfusion reaction due to minor incompatibility
+120,634005,Saddle boil
+121,640003,Injury of pneumogastric nerve
+122,643001,Hypertrophy of lip
+123,646009,Idiopathic cyst of anterior chamber
+124,649002,Open fracture of distal end of ulna
+125,651003,Root work
+126,652005,Gangrenous tonsillitis
+127,655007,Abnormal fetal heart beat noted before labor in liveborn infant
+128,658009,Injury of colon without open wound into abdominal cavity
+129,663008,Pulmonary embolism following molar AND/OR ectopic pregnancy
+130,664002,Delayed ovulation
+131,666000,Poisoning by antivaricose drug AND/OR sclerosing agent
+132,675003,Torsion of intestine
+133,682004,Thrombosis complicating pregnancy AND/OR puerperium
+134,685002,Acquired telangiectasia of small AND/OR large intestines
+135,701003,Adult osteochondritis of spine
+136,703000,Congenital adhesions of tongue
+137,714002,Abrasion AND/OR friction burn of toe with infection
+138,715001,Nontraumatic rupture of urethra
+139,718004,Acute bronchiolitis with obstruction
+140,733007,Superficial foreign body of groin without major open wound but with infection
+141,734001,Opocephalus
+142,736004,Abscess of hip
+143,750009,Schistosoma mansoni infection
+144,755004,Postgastrectomy phytobezoar
+145,756003,Chronic rheumatic myopericarditis
+146,758002,Cyst of uterus
+147,775008,Open wound of head with complication
+148,776009,Partial arterial retinal occlusion
+149,781000,Cestrum diurnum poisoning
+150,786005,Clinical stage I B
+151,787001,Rheumatic mitral stenosis with regurgitation
+152,788006,Disease-related diet
+153,792004,Jakob-Creutzfeldt disease
+154,799008,Sigmoid colon ulcer
+155,801006,Nonvenomous insect bite of foot with infection
+156,805002,Pneumoconiosis due to silica
+157,811004,Flail motion
+158,813001,Ankle instability
+159,815008,Episcleritis
+160,816009,Genetic recombination
+161,818005,Third degree burn of multiple sites of lower limb
+162,825003,Superficial injury of axilla with infection
+163,827006,Late congenital syphilis and latent (+ sero. and - C.S.F. for 2 years OR more)
+164,832007,Moderate major depression
+165,834008,Chair-seated facing coital position
+166,841002,Congenital absence of skull bone
+167,842009,Consanguinity
+168,843004,Poliomyelomalacia
+169,844005,Behavior finding
+170,845006,Injury of inferior mesenteric artery
+171,849000,Total cataract
+172,857002,Erythema simplex
+173,862001,Anemia due to chlorate
+174,865004,Hyperalimentation formula for ileus
+175,871005,Contracted pelvis
+176,874002,Therapeutic diuresis
+177,875001,Chalcosis of eye
+178,888003,Foetal or neonatal effect of maternal blood loss
+179,890002,Deep third degree burn of elbow
+180,899001,Axis I diagnosis
+181,903008,Chorioretinal infarction
+182,904002,Pinard's sign
+183,908004,Superficial injury of interscapular region without infection
+184,919001,Pseudohomosexual state
+185,928000,Disorder of musculoskeletal system
+186,931004,Gestation period,9 weeks
+187,932006,Flat affect
+188,934007,Thalassemia intermedia
+189,943003,Congenital retinal aneurysm
+190,954008,Renon-Delille syndrome
+191,961007,Erythema nodosum and acute form
+192,962000,Disability evaluation,disability 6%
+193,964004,Open wound of pharynx without complication
+194,965003,Toxic amblyopia
+195,975000,Anorectal agenesis
+196,978003,Chronic infantile eczema
+197,981008,Hemorrhagic proctitis
+198,984000,Perirectal cellulitis
+199,987007,Cellulitis of temple region
+200,991002,Wide QRS complex
+201,998008,Chagas' disease with heart involvement
+202,1003002,Religious discrimination
+203,1020003,Disease due to Nairovirus
+204,1023001,Apnea
+205,1027000,Alkaline reflux disease
+206,1031006,Open wound of trachea without complication
+207,1033009,Thoracic arthritis
+208,1034003,Mesenteric-portal fistula
+209,1038000,Disacchariduria
+210,1045000,Colonospasm
+211,1046004,Ureteritis glandularis
+212,1051005,Hyperplasia of islet alpha cells with gastrin excess
+213,1055001,Stenosis of precerebral artery
+214,1059007,Opisthorchiasis
+215,1070000,Facial myokymia
+216,1073003,Xeroderma pigmentosum and group B
+217,1074009,Glucocorticoid-responsive primary aldosteronism
+218,1077002,Septal infarction by EKG
+219,1079004,Macular retinal cyst
+220,1085006,Candidiasis of vulva
+221,1089000,Intrauterine sepsis of fetus
+222,1102005,Intraerythrocytic parasitosis by Nuttallia
+223,1107004,Early latent syphilis and positive serology and negative cerebrospinal fluid and with relapse after treatment
+224,1108009,Female pattern alopecia
+225,1111005,Normal sebaceous gland activity
+226,1112003,Degenerative disorder of eyelid
+227,1116000,Chronic aggressive type B viral hepatitis
+228,1124005,Postpartum period,6 days
+229,1125006,Septicemia during labor
+230,1126007,Knee locking
+231,1131009,Congenital valvular insufficiency
+232,1134001,Muehrcke's lines
+233,1135000,Solar retinopathy
+234,1139006,Confrontation (visual) test
+235,1140008,Thermal hypesthesia
+236,1141007,Circumoral paresthesia
+237,1145003,Developmental speech disorder
+238,1150009,Congenital microcheilia
+239,1151008,Generalized constriction of visual field
+240,1152001,Skin reaction negative
+241,1155004,EKG hypertrophy
+242,1156003,Cavitary prostatitis
+243,1168007,Allotype
+244,1184008,Glasgow coma scale 10
+245,1192004,Familial amyloid neuropathy and Finnish type
+246,1194003,Disease condition determination and well controlled
+247,1196001,Chronic bipolar II disorder and most recent episode major depressive
+248,1197005,Carbuncle of heel
+249,1201005,Benign essential hypertension
+250,1203008,Deep third degree burn of forehead AND/OR cheek with loss of body part
+251,1207009,Glaucomatous atrophy of optic disc
+252,1208004,Gastroptosis
+253,1212005,Childhood type dermatomyositis
+254,1214006,Infection by Strongyloides
+255,1230003,No diagnosis on Axis I
+256,1232006,Congenital articular rigidity with myopathy
+257,1239002,Congenital anteversion of femur
+258,1240000,Prone body position
+259,1259003,Schistosis
+260,1261007,Fracture of multiple ribs
+261,1264004,Injury of descending left colon without open wound into abdominal cavity
+262,1271009,Knuckle pads and deafness AND leukonychia syndrome
+263,1280009,Isologous chimera
+264,1282001,Perichondritis of larynx
+265,1283006,Visual acuity less than .02 (1/60 count fingers 1 meter) or visual field less than 5 degrees but better than 5.
+266,1284000,Abnormal jaw closure
+267,1286003,Vitamin K deficiency coagulation disorder
+268,1287007,Congenital absence of bile duct
+269,1297003,Infection by Cladosporium carrionii
+270,1308001,Complication of reimplant
+271,1310004,Impaired glucose tolerance associated with genetic syndrome
+272,1317001,Injury of ovary without open wound into abdominal cavity
+273,1318006,Post-translational genetic protein processing
+274,1323006,Poisoning by kanamycin
+275,1332008,Conjugated visual deviation
+276,1335005,Induratio penis plastica
+277,1343000,Deep transverse arrest
+278,1345007,Hang nail
+279,1351002,Injury of iliac artery
+280,1356007,Calculus of common duct with obstruction
+281,1361009,Leukocoria
+282,1363007,Fetal or neonatal effect of chronic maternal respiratory disease
+283,1367008,Injury of superior mesenteric artery
+284,1370007,Open fracture of metacarpal bone
+285,1372004,Uterus unicornis
+286,1376001,Obsessive compulsive personality disorder
+287,1378000,Supination-eversion injury of ankle
+288,1380006,Agoraphobia without history of panic disorder with limited symptom attacks
+289,1383008,Hallucinogen mood disorder
+290,1384002,Diffuse cholesteatosis of middle ear
+291,1386000,Intracranial hemorrhage
+292,1387009,Solanum nigrum poisoning
+293,1388004,Metabolic alkalosis
+294,1393001,Lenz-Majewski hyperostosis syndrome
+295,1395008,Complication of ultrasound therapy
+296,1402001,Frightened
+297,1412008,Anterior subcapsular polar cataract
+298,1415005,Lymphangitis
+299,1418007,Hypoplastic chondrodystrophy
+300,1419004,Injury of prostate without open wound into abdominal cavity
+301,1426004,Necrotizing glomerulonephritis
+302,1427008,Intraspinal abscess
+303,1430001,Intracranial hemorrhage following injury without open intracranial wound AND with prolonged loss of consciousness (more than 24 hours) without return to pre-existing level
+304,1447000,Icthyoparasitism
+305,1469007,Spontaneous abortion with urinary tract infection
+306,1474004,Hypertensive heart AND renal disease complicating AND/OR reason for care during childbirth
+307,1475003,Herpes labialis
+308,1478001,Obliteration of lymphatic vessel
+309,1479009,20q partial trisomy syndrome
+310,1482004,Chalazion
+311,1486001,Orbital congestion
+312,1488000,Postoperative nausea and vomiting
+313,1489008,Hordeolum externum
+314,1492007,Congenital anomaly of large intestine
+315,1493002,Acute endophthalmitis
+316,1499003,Bipolar I disorder and single manic episode with postpartum onset
+317,1512006,Congenital stricture of bile duct
+318,1515008,Gorham's disease
+319,1518005,Splenitis
+320,1519002,Congenital phlebectasia
+321,1521007,Blister of buttock without infection
+322,1523005,Clinical stage IV B
+323,1525003,Blister of foot without infection
+324,1531000,Poisoning by nitrofuran derivatives
+325,1532007,Viral pharyngitis
+326,1534008,Palsy of conjugate gaze
+327,1538006,Central nervous system malformation in fetus affecting obstetrical care
+328,1539003,Acquired trigger finger
+329,1542009,Omphalocele with obstruction
+330,1544005,Open dislocation of knee
+331,1551001,Osteomyelitis of femur
+332,1556006,Clark melanoma level 4
+333,1563006,Protein S deficiency disease
+334,1567007,Chronic gastric ulcer without hemorrhage and without perforation AND without obstruction
+335,1588003,Heterosexual precocious puberty
+336,1592005,Failed attempted abortion with uremia
+337,1593000,Infantile hemiplegia
+338,1606009,Infection by Macracanthorhynchus hirudinaceus
+339,1608005,Increased capillary permeability
+340,1639007,Abnormality of organs AND/OR soft tissues of pelvis affecting pregnancy
+341,1647007,Poisoning by primaquine
+342,1648002,Lymphocytic pseudotumor of lung
+343,1654001,Corticosteroid-induced glaucoma
+344,1657008,Mevinphos poisoning
+345,1658003,Closed fracture of acromial end of clavicle
+346,1663004,G2 stage
+347,1667003,Early fontanel closure
+348,1670004,Cerebral hemiparesis
+349,1671000,Sago spleen
+350,1674008,Juvenile epithelial corneal dystrophy
+351,1679003,Arthritis associated with another disorder
+352,1682008,Transitory amino acid metabolic disorder
+353,1685005,Rat bite fever
+354,1686006,Sedative and hypnotic AND/OR anxiolytic-induced anxiety disorder
+355,1694004,Accessory lobe of lung
+356,1698001,Ulcer of bile duct
+357,1703007,Increased leg circumference
+358,1705000,Closed fracture of base of neck of femur
+359,1708003,Open dislocation of clavicle
+360,1714005,Photokeratitis
+361,1717003,Idiopathic guttate hypomelanosis
+362,1723008,Urethral stricture due to schistosomiasis
+363,1724002,Infection by Crenosoma
+364,1734006,Fracture of vertebral column with spinal cord injury
+365,1735007,Thrill
+366,1739001,Fracture of occipital bone
+367,1742007,Female hypererotism
+368,1744008,Fusion of teeth
+369,1748006,Thrombophlebitis of deep femoral vein
+370,1755008,Old myocardial infarction
+371,1761006,Biliary cirrhosis
+372,1763009,Interstitial keratitis
+373,1767005,Fisher's syndrome
+374,1769008,Thoracodidymus
+375,1771008,Insulin biosynthesis defect
+376,1776003,Renal tubular acidosis
+377,1777007,Increased molecular dissociation
+378,1778002,Malocclusion due to abnormal swallowing
+379,1779005,Mohr syndrome
+380,1794009,Idiopathic corneal edema
+381,1816003,Panic disorder with agoraphobia and severe agoraphobic avoidance AND mild panic attacks
+382,1821000,Chemoreceptor apnea
+383,1822007,Impaired glucose tolerance associated with pancreatic disease
+384,1824008,Allergic gastritis
+385,1826005,Granuloma of lip
+386,1828006,Infestation by Gasterophilus haemorrhoidalis
+387,1829003,Microcephalus
+388,1833005,Phacoanaphylactic endophthalmitis
+389,1835003,Necrosis of pancreas
+390,1837006,Poisoning by metaproterenol
+391,1845001,Paraparesis
+392,1847009,Endophthalmitis
+393,1848004,Poisoning by gaseous anesthetic
+394,1852004,Traumatic injury of sixth cranial nerve
+395,1855002,Developmental academic disorder
+396,1856001,Accessory nose
+397,1857005,Gestational rubella syndrome
+398,1858000,Infection by Stilesia globipunctata
+399,1860003,Fluid volume disorder
+400,1865008,Impaired intestinal protein absorption
+401,1869002,Rupture of sphincter of pupil
+402,1881003,Increased nutritional requirement
+403,1892002,Star figure at the macula
+404,1896004,Ectopic breast tissue
+405,1897008,Amsinckia species poisoning
+406,1899006,Autosomal hereditary disorder
+407,1903004,Infestation by Psorergates ovis
+408,1908008,von Willebrand disease and type IIC
+409,1909000,Impairment level: better eye: severe impairment: lesser eye: near-total impairment
+410,1922008,Congenital absence of urethra
+411,1926006,Osteopetrosis
+412,1938002,Emotional AND/OR mental disease in mother complicating pregnancy and childbirth AND/OR puerperium
+413,1939005,Abnormal vascular flow
+414,1943009,Left-right confusion
+415,1953005,Congenital deficiency of pigment of skin
+416,1954004,Dilated cardiomyopathy secondary to toxic reaction
+417,1955003,Preauricular dimple
+418,1959009,Encephalartos species poisoning
+419,1961000,Chronic polyarticular juvenile rheumatoid arthritis
+420,1963002,Paroxysmal nocturnal hemoglobinuria
+421,1965009,Normal skin pH
+422,1967001,Longitudinal absence of radius AND ulna
+423,1973000,Sedative and hypnotic AND/OR anxiolytic-induced psychotic disorder with delusions
+424,1977004,Poisoning by oxymetholone
+425,1979001,Focal choroiditis
+426,1980003,Seromucinous otitis media
+427,1981004,Urhidrosis
+428,1988005,Late effect of injury to nerve roots and spinal plexus AND/OR other nerves of trunk
+429,1989002,Burn of vagina AND/OR uterus
+430,2004005,Normal blood pressure
+431,2012002,Fracture of lunate bone of wrist
+432,2024009,Dilated cardiomyopathy secondary to metazoal myocarditis
+433,2028007,Erythema induratum
+434,2032001,Cerebral edema
+435,2036003,Acquired factor VII deficiency disease
+436,2040007,Neurogenic thoracic outlet syndrome
+437,2041006,Eunuchoid gigantism
+438,2043009,Alcoholic gastritis
+439,2053005,Late effect of injury to blood vessels of thorax and abdomen AND/OR pelvis
+440,2055003,Recurrent erosion of cornea
+441,2058001,Bilateral loss of labyrinthine reactivity
+442,2061000,Conductive hearing loss of combined sites
+443,2065009,Dominant hereditary optic atrophy
+444,2066005,Gastric ulcer with hemorrhage AND perforation but without obstruction
+445,2070002,Burning sensation in eye
+446,2073000,Delusions
+447,2087000,Pulmonary nocardiosis
+448,2089002,Osteitis deformans
+449,2091005,Pharyngeal diverticulitis
+450,2094002,Toxic effect of carbon disulfide
+451,2102007,Deep vascularization of cornea
+452,2103002,Shoulder-hand syndrome
+453,2107001,Anisomelia
+454,2109003,Isolated somatotropin deficiency
+455,2114004,Infection by Cysticercus pisiformis
+456,2116002,Intramembranous bone formation
+457,2120003,Weak cry
+458,2121004,Poisoning by ethopropazine
+459,2128005,Disease of pharyngeal tonsil
+460,2129002,Edema of pharynx
+461,2132004,Meconium in amniotic fluid noted before labor in liveborn infant
+462,2134003,Diffuse pain
+463,2136001,Open wound of jaw with complication
+464,2138000,LSP - Left sacroposterior position
+465,2145000,Anal intercourse
+466,2149006,Decreased hormone production
+467,2158004,Infection by Contracaecum
+468,2167004,Retinal hemangioblastomatosis
+469,2169001,Thoracic radiculitis
+470,2170000,Gallop rhythm
+471,2176006,Halogen acne
+472,2177002,Postherpetic neuralgia
+473,2186007,Compensated metabolic alkalosis
+474,2198002,Visceral epilepsy
+475,2202000,Open posterior dislocation of distal end of femur
+476,2204004,Acquired deformity of pinna
+477,2213002,Congenital anomaly of vena cava
+478,2216005,Nocturnal emission
+479,2217001,Superficial injury of perineum without infection
+480,2219003,Disability evaluation,disability 100%
+481,2224000,Selenium poisoning
+482,2228002,Scintillating scotoma
+483,2229005,Chimera
+484,2231001,Nerve plexus disorder
+485,2237002,Pleurodynia
+486,2239004,Previous pregnancies 6
+487,2241003,X-linked absence of thyroxine-binding globulin
+488,2243000,Hypercalcemia due to hyperthyroidism
+489,2245007,Foreign body in nasopharynx
+490,2251002,Primary hypotony of eye
+491,2256007,Monozygotic twins
+492,2261009,Obstetrical pulmonary fat embolism
+493,2268003,Victim of homosexual aggression
+494,2284002,Pulsating exophthalmos
+495,2295008,Closed fracture of upper end of forearm
+496,2296009,Iron dextran toxicity
+497,2298005,Goltz syndrome
+498,2301009,Psychosomatic factor in physical condition and psychological component of unknown degree
+499,2303007,Inguinal hernia with gangrene
+500,2304001,Discitis
+501,2307008,Fat necrosis of pancreas
+502,2308003,Silent alleles
+503,2312009,Reactive attachment disorder of infancy OR early childhood and inhibited type
+504,2314005,Unprotected sexual intercourse
+505,2326000,Marriage annulment
+506,2339001,Sexual overexposure
+507,2341000,Infection by Moniliformis
+508,2351004,Genetic transduction
+509,2355008,Rud's syndrome
+510,2359002,Hyper-beta-alaninemia
+511,2365002,Chronic granular pharyngitis
+512,2366001,Late effect of dislocation
+513,2367005,Acute hemorrhagic gastritis
+514,2374000,Monofascicular block
+515,2385003,Cellulitis of pectoral region
+516,2388001,Normal variation in translucency
+517,2390000,Acute gonococcal vulvovaginitis
+518,2391001,Achondrogenesis
+519,2396006,Malignant pyoderma
+520,2398007,Quinidine toxicity by EKG
+521,2403008,Psychoactive substance dependence
+522,2415007,Lumbosacral root lesion
+523,2418009,Toxic effect of polyester fumes
+524,2419001,Open wound of forehead with complication
+525,2420007,Third degree burn of multiple sites of upper limb
+526,2432006,Cerebrospinal fluid circulation disorder
+527,2435008,Ascariasis
+528,2437000,Placenta circumvallata
+529,2438005,Iniencephaly
+530,2439002,Purulent endocarditis
+531,2443003,Hydrogen sulfide poisoning
+532,2452007,Fetal rotation
+533,2463005,Acquired heterochromia of iris
+534,2469009,Onychomalacia
+535,2470005,Brain damage
+536,2471009,Postoperative intra-abdominal abscess
+537,2472002,Anuria
+538,2473007,Intermittent vertical heterotropia
+539,2477008,Superficial thrombophlebitis
+540,2492009,Nutritional disorder
+541,2495006,Congenital cerebral arteriovenous aneurysm
+542,2496007,Acalculia
+543,2506003,Early onset dysthymia
+544,2513003,Tinea capitis due to Trichophyton
+545,2518007,Cryptogenic sexual precocity
+546,2521009,Bone conduction better than air
+547,2523007,Salmonella pneumonia
+548,2526004,Noninflammatory disorder of the female genital organs
+549,2528003,Viremia
+550,2532009,Choroidal rupture
+551,2534005,Congenital absence of vena cava
+552,2538008,Ketosis
+553,2541004,Compulsive buying
+554,2554006,Acute purulent pericarditis
+555,2556008,Periodontal disease
+556,2560006,Syndactyly of fingers with fusion of bones
+557,2562003,Athanasia trifurcata poisoning
+558,2576002,Trachoma
+559,2581006,Clasp-knife effect
+560,2582004,Deep third degree burn of multiple sites of lower limb
+561,2583009,Chiari's network
+562,2584003,Cerebral degeneration in childhood
+563,2585002,Pneumococcal pleurisy
+564,2589008,Acute dacryoadenitis
+565,2591000,Crushing injury of shoulder region
+566,2593002,Dubowitz's syndrome
+567,2602008,Hemarthrosis of shoulder region
+568,2606006,Furuncle of perineum
+569,2615004,Follicular cyst of ovary
+570,2618002,Chronic recurrent major depressive disorder
+571,2622007,Infected ulcer of skin
+572,2624008,Prepubertal periodontitis
+573,2625009,Senter syndrome
+574,2630008,Open wound of finger without complication
+575,2634004,Decreased blood erythrocyte volume
+576,2638001,Hypercalcemia due to a drug
+577,2640006,Clinical stage IV
+578,2651006,Closed traumatic dislocation of elbow joint
+579,2655002,Invalidism
+580,2657005,Overflow proteinuria
+581,2663001,Palpatory proteinuria
+582,2665008,Coordinate convulsion
+583,2683000,Nonvenomous insect bite of axilla without infection
+584,2689001,Dominant dystrophic epidermolysis bullosa with absence of skin
+585,2694001,Myelophthisic anemia
+586,2704003,Acute disease
+587,2707005,Necrotizing enterocolitis in fetus OR newborn
+588,2713001,Closed pneumothorax
+589,2724004,Recruitment
+590,2725003,Previous abnormality of glucose tolerance
+591,2733002,Heel pain
+592,2736005,Atrophoderma vermiculatum
+593,2740001,Gouty proteinuria
+594,2749000,Congenital deformity of hip joint
+595,2751001,Fibrocalculous pancreatic diabetes
+596,2761008,Decreased stool caliber
+597,2764000,Articular crepitation
+598,2770006,Fetal or neonatal effect of antibiotic transmitted via placenta and/or breast milk
+599,2772003,Acquired epidermolysis bullosa
+600,2775001,Loose body in joint
+601,2776000,Delirium
+602,2781009,Spontaneous abortion complicated by delayed AND/OR excessive hemorrhage
+603,2782002,Temporomandibular dysplasia
+604,2783007,Gastrojejunal ulcer without hemorrhage AND without perforation
+605,2786004,Epithelial ovarian tumor and FIGO stage III
+606,2790002,Impairment level: one eye: total impairment: other eye: not specified
+607,2805007,Phosmet poisoning
+608,2806008,Impaired psychomotor development
+609,2807004,Chronic gastrojejunal ulcer with perforation
+610,2808009,Infection by Prosthenorchis elegans
+611,2815001,Sexual pyromania
+612,2816000,Dilated cardiomyopathy secondary to myotonic dystrophy
+613,2818004,Congenital vascular anomaly of eye
+614,2819007,Poisoning by magnesium sulfate
+615,2825006,Abrasion AND/OR friction burn of gum without infection
+616,2828008,Congenital stenosis of nares
+617,2829000,Uhl's disease
+618,2831009,Pyloric antral vascular ectasia
+619,2835000,Traumatic cardiac hemolytic anemia
+620,2836004,Toxic effect of butane
+621,2838003,Piblokto
+622,2840008,Open fracture of vault of skull with cerebral laceration AND/OR contusion
+623,2850009,Infection by Schistosoma incognitum
+624,2853006,Macular keratitis
+625,2856003,Vitamin A-responsive dermatosis
+626,2858002,Puerperal septicemia
+627,2884008,Weill-Marchesani syndrome
+628,2893009,Anomaly of chromosome pair 10
+629,2897005,Thrombocytopenia due to immune destruction
+630,2899008,Thought block
+631,2900003,Hyperplasia of renal artery
+632,2901004,Melena
+633,2902006,Decreased lymphocyte life span
+634,2904007,Male infertility
+635,2910007,Discharge from penis
+636,2912004,Cystic-bullous disease of the lung
+637,2917005,Transient hypothyroidism
+638,2918000,Infection due to Bacteroides
+639,2919008,Nausea and vomiting and diarrhea
+640,2929001,Occlusion of artery
+641,2935001,Poisoning by antiasthmatic
+642,2940009,Intrabasal vesicular dermatitis
+643,2946003,Osmotic diarrhea
+644,2951009,Atopic cataract
+645,2955000,Chronic ulcerative pulpitis
+646,2965006,Congenital alopecia
+647,2967003,Non-comitant strabismus
+648,2972007,Anterior spinal artery occlusion syndrome
+649,2973002,Pelvic organ injury without open wound into abdominal cavity
+650,2978006,Aneurysm of conjunctiva
+651,2981001,Abdominal pulsatile mass
+652,2989004,Complication following molar AND/OR ectopic pregnancy
+653,2990008,Lymphocytic leukemoid reaction
+654,2992000,Pigmentary pallidal degeneration
+655,2994004,Brain fag
+656,2999009,Injury of ear
+657,3002002,Hemorrhage of thyroid
+658,3004001,Congenital dilatation of esophagus
+659,3006004,Disturbance of consciousness
+660,3009006,Solanum malacoxylon poisoning
+661,3013004,Open wound of ear drum without complication
+662,3014005,Id reaction
+663,3018008,Penetration of eyeball with magnetic foreign body
+664,3019000,Closed anterior dislocation of elbow
+665,3021005,Normal gastric acidity
+666,3023008,Acute peptic ulcer without hemorrhage and without perforation AND without obstruction
+667,3032005,Nonvenomous insect bite of cheek without infection
+668,3033000,Bone AND/OR joint disorder of pelvis in mother complicating pregnancy and childbirth AND/OR puerperium
+669,3038009,Acute lymphangitis of umbilicus
+670,3044008,Vitreous prolapse
+671,3053001,Poisoning by nitroglycerin
+672,3059002,Acute lymphangitis of thigh
+673,3067005,Blood group antigen C^u^
+674,3071008,Widow
+675,3072001,Hormone-induced hypopituitarism
+676,3073006,Ruvalcaba syndrome
+677,3084004,Nonvenomous insect bite of gum without infection
+678,3089009,Disability evaluation and impairment class 7
+679,3094009,Vomiting in infants AND/OR children
+680,3095005,Induced malaria
+681,3097002,Superficial injury of lip with infection
+682,3098007,Rupture of interventricular septum
+683,3105002,Intron
+684,3109008,Secondary dysthymia early onset
+685,3110003,Acute otitis media
+686,3119002,Brain stem laceration with open intracranial wound AND loss of consciousness
+687,3129009,Infarction of ovary
+688,3135009,Swimmer's ear
+689,3140001,Citrullinemia and subacute type
+690,3144005,Staphylococcal pleurisy
+691,3158007,Panic disorder with agoraphobia and agoraphobic avoidance in partial remission AND panic attacks in partial remission
+692,3160009,Female infertility of cervical origin
+693,3163006,Acute adenoviral follicular conjunctivitis
+694,3168002,Thrombophlebitis of intracranial venous sinus
+695,3185000,Mood-congruent delusion
+696,3199001,Sprain of shoulder
+697,3200003,Sacrocoxalgia
+698,3208005,Open wound of ossicles without complication
+699,3214003,Invasive pulmonary aspergillosis
+700,3217005,Open dislocation of sixth cervical vertebra
+701,3218000,Mycosis
+702,3219008,Disease type AND/OR category unknown
+703,3228009,Closed fracture of shaft of radius
+704,3229001,Ulcer of trachea
+705,3230006,Illegal abortion with afibrinogenemia
+706,3238004,Pericarditis
+707,3239007,Lymphocyte disorder
+708,3253007,Discoloration of skin
+709,3254001,Infection by Strongyloides westeri
+710,3259006,Homeria species poisoning
+711,3261002,Migratory osteolysis
+712,3263004,Verumontanitis
+713,3272007,Stomatocytosis
+714,3274008,Flat chest
+715,3275009,Behcet's syndrome and vascular type
+716,3276005,Toad poisoning
+717,3277001,Terminal mood insomnia
+718,3282008,Welders' keratitis
+719,3283003,Feeling of sand or foreign body in eye
+720,3286006,Patient status determination and greatly improved
+721,3289004,Anisometropia
+722,3291007,Closed fracture of two ribs
+723,3298001,Amnestic disorder
+724,3303004,Disease due to Arenavirus
+725,3304005,Bronchial compression
+726,3305006,Disorder of lymphatics
+727,3308008,Atrophic-hyperplastic gastritis
+728,3310005,Foreign body granuloma of skin
+729,3321001,Renal abscess
+730,3323003,Leukoplakia of penis
+731,3327002,Jerk nystagmus
+732,3331008,Open fracture of neck of metacarpal bone
+733,3344003,Toxic labyrinthitis
+734,3345002,Idiopathic osteoporosis
+735,3355003,Poisoning by anti-common cold drug
+736,3358001,Lichen ruber moniliformis
+737,3368006,Dull chest pain
+738,3376008,Pseudoptyalism
+739,3381004,Open fracture of astragalus
+740,3387000,Auditory discrimination aphasia
+741,3391005,Negative for tumor cells
+742,3393008,Phlebitis following infusion and perfusion AND/OR transfusion
+743,3398004,Cadmium poisoning
+744,3401001,Cercopithecus herpesvirus 1 disease
+745,3415004,Cyanosis
+746,3419005,Faucial diphtheria
+747,3421000,Open fracture of orbital floor (blow-out)
+748,3424008,Tachycardia
+749,3426005,Retained magnetic intraocular foreign body
+750,3427001,Nonglucosuric melituria
+751,3434004,Myotonia
+752,3439009,SCID due to absent peripheral T cell maturation
+753,3441005,Disease of sebaceous glands
+754,3446000,Open fracture of T7-T12 level with spinal cord injury
+755,3449007,Finger agnosia
+756,3456001,Chronic progressive non-hereditary chorea
+757,3458000,Polymyositis ossificans
+758,3461004,Deep third degree burn of thumb
+759,3464007,Infection by Oesophagostomum dentatum
+760,3468005,Neonatal infective mastitis
+761,3469002,Second degree burn of thumb
+762,3472009,Spondylolisthesis grade 4
+763,3474005,Glycine max poisoning
+764,3480002,Burn of wrist
+765,3482005,Postoperative esophagitis
+766,3483000,Chronic peptic ulcer with perforation
+767,3487004,Candidiasis of lung
+768,3500002,Open wound of ossicles with complication
+769,3502005,Cervical lymphadenitis
+770,3503000,Gender identity disorder of adolescence and previously asexual
+771,3505007,Nonallopathic lesion of upper extremities
+772,3506008,Stenosis of retinal artery
+773,3507004,Abscess of thigh
+774,3511005,Infectious thyroiditis
+775,3514002,Peribronchial fibrosis of lung
+776,3519007,Disorder of synovium
+777,3528008,Restricted carbohydrate fat controlled diet
+778,3529000,Infection by Sanguinicola
+779,3530005,Bipolar I disorder and single manic episode and in full remission
+780,3531009,Intrapsychic conflict
+781,3533007,Pustular bacterid
+782,3539006,Enteromenia
+783,3542000,Laceration extending into parenchyma of spleen with open wound into abdominal cavity
+784,3544004,Hair-splitting
+785,3545003,Diastolic dysfunction
+786,3548001,Brachial plexus lesion
+787,3549009,Pancreatic acinar atrophy
+788,3558002,Mesenteric infarction
+789,3560000,Bilateral recurrent inguinal hernia
+790,3570003,Increased blood erythrocyte volume
+791,3571004,Megaloblastic anemia due to pancreatic insufficiency
+792,3577000,Retinal lattice degeneration
+793,3585009,Blinking
+794,3586005,Psychogenic fugue
+795,3589003,Syphilitic pericarditis
+796,3590007,Enteroenteric fistula
+797,3591006,Metabolic acidosis and NAG and bicarbonate losses
+798,3598000,Partial recent retinal detachment with single defect
+799,3611003,Demeton poisoning
+800,3633001,Abscess of hand
+801,3634007,Legal abortion complicated by metabolic disorder
+802,3639002,Glossoptosis
+803,3640000,Late effect of traumatic amputation
+804,3641001,Infection by Coenurosis serialis
+805,3642008,Deficiency of steryl-sulfatase
+806,3644009,Macerated skin
+807,3649004,Contusion of multiple sites of trunk
+808,3650004,Congenital absence of liver
+809,3652007,Overproduction of growth hormone
+810,3657001,Osteospermum species poisoning
+811,3660008,Lethal glossopharyngeal defect
+812,3662000,Paraesophageal hernia
+813,3677008,Academic problem
+814,3680009,Monocephalus tripus dibrachius
+815,3681008,Thrombophlebitis of torcular Herophili
+816,3696007,Nonulcer dyspepsia
+817,3699000,Transverse deficiency of upper limb
+818,3703002,Ischiatic hernia with gangrene
+819,3704008,Diffuse endocapillary proliferative glomerulonephritis
+820,3705009,Congenital anomaly of anterior chamber of eye
+821,3712000,Degenerated eye
+822,3716002,Goiter
+823,3720003,Abnormal presence of hemoglobin
+824,3723001,Arthritis
+825,3733009,Congenital eventration of right crus of diaphragm
+826,3736001,Open wound of thumbnail with tendon involvement
+827,3738000,Viral hepatitis
+828,3744001,Hyperlipoproteinemia
+829,3745000,Sleep-wake schedule disorder
+830,3747008,Ejection click
+831,3750006,Arteriospasm
+832,3751005,Contusion of labium
+833,3752003,Trichuriasis
+834,3754002,Dysplasia of vagina
+835,3755001,Pityriasis rubra pilaris
+836,3756000,Static ataxia
+837,3759007,Injury of heart with open wound into thorax
+838,3760002,Familial multiple factor deficiency syndrome and type V
+839,3762005,Bilateral recurrent femoral hernia with gangrene
+840,3763000,Expected bereavement
+841,3783004,Enamel pearls
+842,3797007,Periodontal cyst
+843,3798002,Premature birth of identical twins and both stillborn
+844,3815005,Crohn's disease of rectum
+845,3820005,Inner ear conductive hearing loss
+846,3827008,Aneurysm of artery of neck
+847,3830001,Subcutaneous emphysema
+848,3841004,Blister of cheek with infection
+849,3845008,Congenital duplication of intestine
+850,3855007,Disorder of pancreas
+851,3859001,Late effect of open wound of extremities without tendon injury
+852,3873005,Failed attempted abortion with acute yellow atrophy of liver
+853,3885002,ABO isoimmunization affecting pregnancy
+854,3886001,Congenital fecaliths
+855,3899003,Neutropenic typhlitis
+856,3900008,Mixed sensory-motor polyneuropathy
+857,3902000,Non dose-related drug-induced neutropenia
+858,3903005,Traumatic pneumothorax without open wound into thorax
+859,3908001,Infestation by Haematopinus
+860,3909009,Coeur en sabot
+861,3913002,Injury of gastrointestinal tract with open wound into abdominal cavity
+862,3914008,Mental disorder in childhood
+863,3928002,Zika virus disease
+864,3939004,Bacterial colony density and transparent
+865,3944006,Steroid sulfatase deficiency
+866,3947004,High oxygen affinity hemoglobin polycythemia
+867,3950001,Birth
+868,3951002,Proctitis
+869,3972004,Primary insomnia
+870,3975002,Deep third degree burn of lower limb
+871,3978000,Hemolytic anemia due to warm antibody
+872,3987009,Congenital absence of trachea
+873,3993001,Infection by Muellerius
+874,3999002,Acute pyelitis without renal medullary necrosis
+875,4003003,Disease due to Alphavirus
+876,4004009,Monster with cranial anomalies
+877,4006006,Fetal tachycardia affecting management of mother
+878,4009004,Lower urinary tract infectious disease
+879,4016003,Empyema of mastoid
+880,4017007,Increased stratum corneum adhesiveness
+881,4022007,Vulvitis circumscripta plasmacellularis
+882,4026005,Interstitial mastitis associated with childbirth
+883,4030008,Le Dantec virus disease
+884,4038001,Myrotheciotoxicosis
+885,4039009,Multiple vitamin deficiency disease
+886,4040006,Hassall-Henle bodies
+887,4041005,Congenital anomaly of macula
+888,4046000,Degenerative spondylolisthesis
+889,4062006,Lumbosacral plexus lesion
+890,4063001,Achillodynia
+891,4069002,Anoxic brain damage during AND/OR resulting from a procedure
+892,4070001,Palinphrasia
+893,4075006,Peganum harmala poisoning
+894,4082005,Syphilitic myocarditis
+895,4088009,Acquired hydrocephalus
+896,4089001,Meningococcemia
+897,4092002,Nonallopathic lesion of costovertebral region
+898,4103001,Complex partial seizures with consciousness impaired
+899,4106009,Rotator cuff syndrome
+900,4107000,Infertile male syndrome
+901,4113009,Arrested hydrocephalus
+902,4120002,Bronchiolitis
+903,4124006,Nonvenomous insect bite of vagina with infection
+904,4127004,Prostatic obstruction
+905,4129001,Argyll-Robertson pupil
+906,4135001,11p partial monosomy syndrome
+907,4136000,Macrodactylia of toes
+908,4142001,Muscular asthenopia
+909,4152002,Acquired hypoprothrombinemia
+910,4160001,Congenital anomaly of upper respiratory system
+911,4168008,Tibial plateau chondromalacia
+912,4170004,Ehlers-Danlos syndrome and procollagen proteinase resistant
+913,4174008,Placenta tripartita
+914,4175009,Oestrosis
+915,4178006,Partial recent retinal detachment with multiple defects
+916,4181001,Normal peak expiratory flow rate
+917,4183003,Charcot-Marie-Tooth disease and type IC
+918,4184009,Congenital anomaly of endocrine gland
+919,4191007,Scaphocephaly
+920,4195003,Congenital duplication of anus
+921,4197006,Disability evaluation and impairment class 5
+922,4199009,18p partial trisomy syndrome
+923,4208000,Closed multiple fractures of both lower limbs
+924,4210003,Ocular hypertension
+925,4223005,Parkinsonism due to drug
+926,4224004,Complication of infusion
+927,4225003,Tuberculosis of nose
+928,4229009,Atrophy of globe
+929,4232007,Chronic vulvitis
+930,4237001,Suppurative pulpitis
+931,4240001,Rupture of aorta
+932,4241002,Listeriosis
+933,4242009,18q partial monosomy syndrome
+934,4244005,Urticaria neonatorum
+935,4248008,Synovitis AND/OR tenosynovitis associated with another disease
+936,4249000,Poor peripheral circulation
+937,4251001,Internal eye sign
+938,4260009,Sacral spinal cord injury without bone injury
+939,4262001,Phlebitis of superior sagittal sinus
+940,4264000,Chronic pericoronitis
+941,4269005,Chronic gastrojejunal ulcer without hemorrhage AND without perforation
+942,4273008,Closed posterior dislocation of elbow
+943,4275001,Spasm of conjugate gaze
+944,4278004,Superficial foreign body of axilla without major open wound but with infection
+945,4283007,Mirizzi's syndrome
+946,4287008,Chordee
+947,4294006,Isosexual precocious puberty
+948,4300009,Deep third degree burn of forearm
+949,4301008,Autoimmune state
+950,4306003,Cluster B personality disorder
+951,4307007,Pregestational diabetes mellitus AND/OR impaired glucose tolerance and modified White class F
+952,4308002,Repetitive strain injury
+953,4310000,Third degree burn of wrist AND/OR hand
+954,4313003,Acardiacus anceps
+955,4316006,Myometritis
+956,4320005,Factor V deficiency
+957,4324001,Subacute cystitis
+958,4325000,11q partial monosomy syndrome
+959,4332009,Subarachnoid hemorrhage following injury without open intracranial wound AND with concussion
+960,4338008,Arnold's nerve reflex cough syndrome
+961,4340003,Acrodermatitis atrophicans chronica
+962,4349002,Open fracture of multiple sites of metacarpus
+963,4354006,Open dislocation of scapula
+964,4356008,Gingival recession
+965,4359001,Early congenital syphilis (less than 2 years)
+966,4364002,Structure of associations
+967,4367009,Hoover's sign
+968,4373005,Hippocratic nails
+969,4374004,Congenital anomaly of tricuspid valve
+970,4381006,Verbal paraphasia
+971,4386001,Bronchospasm
+972,4390004,Lithium nephropathy
+973,4397001,Partial congenital duodenal obstruction
+974,4399003,Acute hemorrhagic pancreatitis
+975,4403007,Exclamation point hair
+976,4406004,Congenital anomaly of male genital system
+977,4409006,Adenosylcobalamin and methylcobalamin synthesis defect
+978,4410001,Retroperitoneal hernia with obstruction
+979,4412009,Injury of digital nerve
+980,4414005,Infection by Setaria
+981,4416007,Heerfordt's syndrome
+982,4418008,Gangrenous ergotism
+983,4426000,Abortion number 10
+984,4434006,Bloom syndrome
+985,4439001,Cyclic oculomotor paralysis
+986,4441000,Severe bipolar disorder with psychotic features
+987,4445009,Tuberculosis of genitourinary system
+988,4448006,Allergic headache
+989,4451004,Illegal abortion with renal tubular necrosis
+990,4461006,Complication of administrative procedure
+991,4463009,Familial amyloid polyneuropathy and type II
+992,4464003,Rocio virus disease
+993,4465002,Spherophakia
+994,4468000,Oppenheim's gait
+995,4470009,Blanching of skin
+996,4473006,Migraine with aura
+997,4477007,Juvenile myopathy AND lactate acidosis
+998,4478002,Multiple fractures of upper AND lower limbs
+999,4481007,Abnormal gastric secretion regulation
+1000,4483005,Syphilitic punched out ulcer

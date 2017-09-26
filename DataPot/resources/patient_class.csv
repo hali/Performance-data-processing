@@ -1,0 +1,10 @@
+id,class_id,description
+1,B,Obstetrics
+2,C,Commercial Account
+3,E,Emergency
+4,I,Inpatient
+5,N,Not Applicable
+6,O,Outpatient
+7,P,Preadmit
+8,R,Recurring patient
+9,U,Unknown

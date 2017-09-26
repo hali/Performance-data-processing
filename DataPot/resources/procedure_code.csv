@@ -1,0 +1,1001 @@
+id,code,description
+1,104001,Excision of lesion of patella
+2,115006,Removable appliance therapy
+3,119000,Thoracoscopic partial lobectomy of lung
+4,121005,Retrobulbar injection of therapeutic agent
+5,128004,Hand microscope examination of skin
+6,133000,Percutaneous implantation of neurostimulator electrodes into neuromuscular component
+7,135007,Arthrotomy of wrist joint with exploration and biopsy
+8,142007,Excision of tumor from shoulder area and deep and intramuscular
+9,146005,Repair of nonunion of metatarsal with bone graft
+10,153001,Cystourethroscopy with resection of ureterocele
+11,160007,Removal of foreign body of tendon and/or tendon sheath
+12,166001,Behavioral therapy
+13,170009,Special potency disk identification and vancomycin test
+14,174000,Harrison-Richardson operation on vagina
+15,176003,Anastomosis of rectum
+16,189009,Excision of lesion of artery
+17,197002,Mold to yeast conversion test
+18,230009,Miller operation and urethrovesical suspension
+19,243009,Replacement of cerebral ventricular tube
+20,245002,Division of nerve ganglion
+21,262007,Percutaneous aspiration of renal pelvis
+22,267001,Anal fistulectomy and multiple
+23,285008,Incision and drainage of vulva
+24,294002,Excisional biopsy of joint structure of spine
+25,295001,Nonexcisional destruction of cyst of ciliary body
+26,306005,Echography of kidney
+27,316002,Partial dacryocystectomy
+28,334003,Panorex examination of mandible
+29,342002,Amobarbital interview
+30,346004,Periodontal scaling and root planing and per quadrant
+31,348003,Radionuclide dynamic function study
+32,351005,Urinary undiversion of ureteral anastomosis
+33,352003,Reagent RBC and preparation antibody sensitized pool
+34,353008,IV/irrigation monitoring
+35,374009,Costosternoplasty for pectus excavatum repair
+36,388008,Blepharorrhaphy
+37,389000,Tobramycin measurement
+38,401004,Distal subtotal pancreatectomy
+39,406009,Fulguration of stomach lesion
+40,417005,Hospital re-admission
+41,435001,Pulmonary inhalation study
+42,445004,Repair of malunion of tibia
+43,456004,Total abdominal colectomy with ileostomy
+44,459006,Closed condylotomy of mandible
+45,463004,Closed reduction of coxofemoral joint dislocation with splint
+46,468008,Glutathione measurement
+47,474008,Esophagoenteric anastomosis and intrathoracic
+48,489004,Ferritin measurement
+49,493005,Urobilinogen measurement and 48-hour and feces
+50,494004,Excision of lesion of tonsil
+51,497006,Replacement of cochlear prosthesis and multiple channels
+52,503003,Corneal gluing
+53,531007,Open pulmonary valve commissurotomy with inflow occlusion
+54,533005,Repair of vesicocolic fistula
+55,535003,Closure of ureterovesicovaginal fistula
+56,540006,Antibody to single and double stranded DNA measurement
+57,543008,Choledochostomy with transduodenal sphincteroplasty
+58,545001,Operative procedure on lower leg
+59,549007,Incision of intracranial vein
+60,550007,Excision of lesion of adenoids
+61,559008,Excision of varicose vein
+62,570001,Vaccination for arthropod-borne viral encephalitis
+63,574005,Benzodiazepine measurement
+64,603006,Synchondrotomy
+65,617002,Bone graft to mandible
+66,618007,Frontal sinusectomy
+67,625000,Removal of supernumerary digit
+68,628003,Steinman test
+69,629006,Lysis of adhesions of urethra
+70,633004,Chart review by physician
+71,637003,Lysis of adhesions of nose
+72,642006,Cerebral thermography
+73,645008,Diagnostic procedure on vitreous
+74,647000,Excision of cervix by electroconization
+75,657004,Operation on bursa
+76,665001,Partial meniscectomy of temporomandibular joint
+77,670008,Electrosurgical epilation of eyebrow
+78,671007,Transplantation of testis
+79,673005,Indirect laryngoscopy
+80,674004,Abduction test
+81,676002,Peritoneal dialysis including cannulation
+82,680007,Radiation physics consultation
+83,687005,Albumin/Globulin ratio
+84,695009,Destructive procedure of lesion on skin of trunk
+85,697001,Hepatitis A virus antibody measurement
+86,710006,Thromboendarterectomy with graft of mesenteric artery
+87,712003,Closed chest suction
+88,721002,Medical procedure on periurethral tissue
+89,722009,Fine needle biopsy of thymus
+90,726007,Pathology consultation and comprehensive and records and specimen with report
+91,730005,Incision of subcutaneous tissue
+92,741007,Operation on prostate
+93,746002,Chiropractic adjustment of coccyx subluxation
+94,753006,Manipulation of ankle AND foot
+95,754000,Total urethrectomy
+96,759005,Intracerebral electroencephalogram
+97,762008,Computerized axial tomography of cervical spine with contrast
+98,764009,Arthrodesis of interphalangeal joint of great toe
+99,767002,White blood cell count
+100,789003,Cranial decompression and subtemporal and supratentorial
+101,791006,Dressing and fixation procedure
+102,807005,Excision of brain
+103,814007,Electrophoresis measurement
+104,817000,Excision of cyst of spleen
+105,831000,Drawer test
+106,851001,Root canal therapy and molar and excluding final restoration
+107,853003,Fecal fat measurement and 72-hour collection
+108,867007,Facial-hypoglossal nerve anastomosis
+109,870006,Carbamazepine measurement
+110,879007,Special blood coagulation test and explain by report
+111,881009,Cyclodialysis
+112,893000,Tumor antigen measurement
+113,897004,Radical maxillary antrotomy
+114,910002,MHPG measurement and urine
+115,911003,Removal of subarachnoid-ureteral shunt
+116,913000,Chiropractic patient education and instruction
+117,926001,Embolectomy with catheter of radial artery by arm incision
+118,935008,Excision of bulbourethral gland
+119,941001,Endoscopy of pituitary gland
+120,945005,Excision of tibia and fibula for graft
+121,948007,Phlebectomy of intracranial varicose vein
+122,951000,Ultrasonic guidance for endomyocardial biopsy
+123,956005,Anesthesia for procedure on thoracic esophagus
+124,967006,Medication education
+125,969009,Incision and exploration of larynx
+126,971009,Prosthetic construction and fitting
+127,1001000,Cauterization of Bartholin's gland
+128,1008006,Operation on nerve ganglion
+129,1019009,Removal of corneal epithelium
+130,1021004,Repair of scrotum
+131,1029002,Fetoscopy
+132,1032004,Enucleation of parotid gland cyst
+133,1035002,Minimum bactericidal concentration test and microdilution method
+134,1036001,Insertion of intravascular device in common iliac vein and complete
+135,1041009,Debridement of open fracture of phalanges of foot
+136,1042002,Paternity testing
+137,1043007,Doppler color flow velocity mapping
+138,1044001,Diagnostic ultrasound of abdomen and retroperitoneum
+139,1048003,Capillary specimen collection
+140,1054002,Incision of sphincter of Oddi
+141,1071001,Proximal splenorenal anastomosis
+142,1084005,Excision of perinephric cyst
+143,1093006,Excision of abdominal varicose vein
+144,1103000,Transcrural mobilization of stapes
+145,1104006,Triad knee repair
+146,1115001,Decortication
+147,1119007,Closed reduction of dislocation of foot and toe
+148,1121002,Kinetic activities for range of motion
+149,1127003,Interstitial radium application
+150,1133007,Removal of intact mammary implant and bilateral
+151,1163003,Ureteroenterostomy
+152,1176009,Incision of inguinal region
+153,1181000,Excision of tendon for graft
+154,1186005,Anesthesia for procedure on bony pelvis
+155,1198000,Excisional biopsy of bone of scapula
+156,1209007,Arthroscopy of knee with lateral meniscus repair
+157,1225002,Radiography of humerus
+158,1227005,Incision of subvalvular tissue for discrete subvalvular aortic stenosis
+159,1235008,Muscle transfer
+160,1237000,Application of cast and sugar tong
+161,1238005,Epiphyseal arrest by stapling of distal radius
+162,1251000,Incisional biopsy of testis
+163,1253002,Refusion of spine
+164,1258006,Excision of meniscus of wrist
+165,1266002,Closure of fistula of ear drum
+166,1267006,Electrocoagulation of lesion of vagina
+167,1278003,Open reduction of closed shoulder dislocation with fracture of greater tuberosity
+168,1279006,Repair of cardiac pacemaker pocket in skin AND/OR subcutaneous tissue
+169,1292009,Magnetic resonance imaging of urinary bladder
+170,1299000,Excision of appendiceal stump
+171,1315009,Reconstruction of eyebrow
+172,1316005,Upper partial denture and cast metal base without resin saddles and including any conventional clasps and rests and teeth
+173,1324000,Cerebrospinal fluid IgG ratio and IgG index
+174,1327007,Procedure on Meckel's diverticulum
+175,1328002,Ilioiliac shunt
+176,1329005,Division of congenital web of larynx
+177,1337002,Colosigmoidostomy
+178,1339004,Removal of impacted feces
+179,1347004,Medical procedure on palate
+180,1352009,Anterior spinal rhizotomy
+181,1358008,Anti-human globulin test and enzyme technique and titer
+182,1366004,Inhalation therapy procedure
+183,1385001,Echography and scan B-mode for fetal age determination
+184,1390003,Laparoscopic-assisted sigmoid colectomy
+185,1398005,Direct thrombectomy of iliac vein by leg incision
+186,1399002,Incision and exploration of ureter
+187,1407007,Application of long leg cast and brace type
+188,1410000,Anesthesia for tympanotomy
+189,1411001,Operation on papillary muscle of heart
+190,1413003,Penetrating keratoplasty with homograft
+191,1414009,Angiography of arteriovenous shunt
+192,1417002,Operation on face
+193,1431002,Fixation
+194,1440003,Repair with resection-recession
+195,1449002,Epilation
+196,1453000,Biofeedback and galvanic skin response
+197,1455007,Cerclage
+198,1457004,Truncal vagotomy with pyloroplasty and gastrostomy
+199,1494008,Osmolarity measurement
+200,1500007,Bilateral epididymovasostomy with anastomosis of epididymis to vas deferens
+201,1501006,Altemeier operation and perineal rectal pull-through
+202,1505002,Hospital admission for isolation
+203,1529009,Aspiration of soft tissue
+204,1533002,Ureteroplication
+205,1550000,Amikacin measurement
+206,1555005,Brief group psychotherapy
+207,1559004,IL-2 assay
+208,1576000,Repair of uteroenteric fistula
+209,1577009,Implantation of cardiac single-chamber device replacement and rate-responsive
+210,1578004,Reconstruction of ossicles with stapedectomy
+211,1583007,Tractotomy of mesencephalon
+212,1585000,Lengthening of gastrocnemius muscle
+213,1596008,Anesthesia for total elbow replacement
+214,1597004,Skeletal X-ray of ankle and foot
+215,1602006,Social service interview with planning
+216,1614003,Bilateral repair of inguinal hernia and direct
+217,1615002,Reline upper partial denture and chairside
+218,1616001,Galactosylceramide beta-galactosidase measurement and leukocytes
+219,1636000,Injection of sclerosing agent in varicose vein
+220,1638004,Cineplasty with cineplastic prosthesis of extremity
+221,1640009,History and physical examination and insurance
+222,1645004,Transduodenal sphincterotomy
+223,1651009,Excision of tendon sheath
+224,1653007,Internal fixation of bone without fracture reduction
+225,1669000,Making occupied bed
+226,1677001,Haagensen test
+227,1678006,Endoscopic procedure of nerve
+228,1680000,Secondary chemoprophylaxis
+229,1683003,Direct closure of laceration of conjunctiva
+230,1689004,Local excision of ovary
+231,1691007,Drainage of abscess of tonsil
+232,1699009,Special dosimetry
+233,1702002,Labial veneer and resin laminate and laboratory
+234,1704001,Repair of congenital pseudoarthrosis of tibia
+235,1709006,Breast reconstruction and bilateral and with bilateral pedicle TRAM flaps
+236,1712009,Immunoglobulin typing and IgG
+237,1713004,Hypothermia and total body and induction and maintenance
+238,1730002,Suture of skin wound of hindfoot
+239,1746005,Scleral buckling with implant
+240,1747001,Replacement of skeletal muscle stimulator
+241,1753001,Resection of uveal tissue
+242,1757000,Arthroscopy of wrist with partial synovectomy
+243,1759002,Assessment of nutritional status
+244,1770009,Mitral valvotomy
+245,1774000,Nasopharyngeal rehabilitation
+246,1775004,Submaxillary incision with drainage
+247,1784004,Fecal stercobilin and qualitative
+248,1787006,Ultrasonic guidance for pericardiocentesis
+249,1788001,Blood unit collection for directed donation and donor
+250,1801001,Endoscopic biopsy of duodenum
+251,1805005,Surgical closure of stoma
+252,1811008,Aspiration of bursa of hand
+253,1813006,Cryotherapy of genital warts
+254,1820004,Alcohol measurement and breath
+255,1830008,Open reduction of open sacral fracture
+256,1836002,Excision of diverticulum of ventricle of heart
+257,1844002,Plication of ligament
+258,1854003,Incision of nose
+259,1859008,Removal of foreign body from tendon of hand
+260,1861004,Anesthesia for closed procedure on humerus and elbow
+261,1862006,Thoracic phlebectomy
+262,1866009,Bilateral nephrectomy
+263,1868005,Removal of foreign body from brain
+264,1870001,Insertion of halo device of skull with synchronous skeletal traction
+265,1871002,Repair of aneurysm of coronary artery
+266,1872009,Suture of male perineum
+267,1876007,Recession of prognathic jaw
+268,1879000,Fluorescent antigen measurement
+269,1889001,Patient transfer and in-hospital and unit-to-unit
+270,1906007,Insertion of prosthesis or prosthetic device of arm and bioelectric or cineplastic
+271,1907003,Bifurcation of bone
+272,1917008,Patient discharge and deceased and medicolegal case
+273,1924009,Hepaticotomy with drainage
+274,1950008,Drainage of abscess of nasal septum
+275,1958001,Grafting of bone of thumb with transfer of skin flap
+276,1966005,Central block anesthesia
+277,1983001,Total urethrectomy including cystostomy in female
+278,1995001,Stripping of cerebral meninges
+279,1999007,Psychologic test
+280,2002009,Construction of subcutaneous tunnel without esophageal anastomosis
+281,2021001,Internal fixation of radius and ulna without fracture reduction
+282,2051007,Red cell iron utilization study
+283,2054004,Barbiturates measurement and quantitative and qualitative
+284,2067001,Implantation of electromagnetic hearing aid
+285,2069003,Dental subperiosteal implant
+286,2078009,Puncture of bursa of hand
+287,2079001,Reimplantation of anomalous pulmonary artery
+288,2080003,Angiectomy with anastomosis of lower limb artery
+289,2098004,Open reduction of open mandibular fracture with external fixation
+290,2115003,Dental prophylaxis and children
+291,2119009,Repair of blood vessel
+292,2127000,Reduction of closed sacral fracture
+293,2137005,Excision of pericardial tumor
+294,2153008,Cardiac catheterization education
+295,2161003,Operation on vulva
+296,2164006,Injection of aorta
+297,2166008,Bicuspidization of aortic valve
+298,2171001,Excision of tonsil tags
+299,2178007,Ureterocentesis
+300,2181002,Operation for bone injury of tarsals and metatarsals
+301,2188008,Suture of tendon to skeletal attachment
+302,2193006,Repair of ruptured aneurysm with graft of celiac artery
+303,2196003,Gas liquid chromatography and electron capture type
+304,2199005,Excision of lesion of cul-de-sac
+305,2214008,Curette test of skin
+306,2220009,Complement component assay
+307,2225004,Sensititer system test
+308,2234009,Proctosigmoidopexy
+309,2238007,Stone operation and anoplasty
+310,2242005,Reconstruction of eyelid
+311,2244006,Arthroscopy of wrist with internal fixation for instability
+312,2250001,Resection of ascending aorta with anastomosis
+313,2252009,Hospital admission and urgent and 48 hours
+314,2266004,Venography of adrenal and bilateral
+315,2267008,Changing tracheostomy tube
+316,2270007,Repair of cleft hand
+317,2276001,Exploration of popliteal artery
+318,2278000,Urinalysis and automated
+319,2279008,Antibody detection and RBC and enzyme and 1 stage technique and including anti-human globulin
+320,2290003,Microbial culture and anaerobic and initial isolation
+321,2315006,Operation on cerebral meninges
+322,2318008,Anesthesia for cast procedure on forearm and wrist or hand
+323,2321005,Delivery by Ritgen maneuver
+324,2322003,Suture of recent wound of eyelid and direct closure and full-thickness
+325,2337004,Adductor tenotomy of hip
+326,2344008,Complicated cystorrhaphy
+327,2347001,Diagnostic model construction
+328,2364003,Radical resection of tumor of soft tissue of wrist area
+329,2371008,Tympanoplasty type II with graft against incus or malleus
+330,2373006,Buffy coat smear evaluation
+331,2382000,Application of manual or electric breast pump
+332,2386002,Reduction of closed patellar dislocation
+333,2393003,Ligation of vein of lower limb
+334,2406000,Periodontic dental consultation and report
+335,2407009,Excision of mediastinal tumor
+336,2408004,Hexosaminidase A and total hexosaminidase measurement and serum
+337,2409007,Reattachment of extremity of foot
+338,2425002,Epstein-Barr virus serologic test
+339,2442008,Incision of lacrimal canaliculus
+340,2448007,Cell count of synovial fluid with differential count
+341,2455009,Revision of lumbosubarachnoid shunt
+342,2457001,Blind rehabilitation therapy
+343,2458006,Educational therapy
+344,2459003,Destructive procedure of artery of upper extremity
+345,2461007,Tennis elbow test
+346,2474001,Repair of malunion of metatarsal bones
+347,2475000,Urine specimen collection and 24 hours
+348,2480009,Debridement of skin and subcutaneous tissue and muscle and bone
+349,2486003,Destruction of tissue of breast
+350,2488002,Prescription and fitting and dispensing of contact lens
+351,2494005,Nursing conference
+352,2498008,Rebase of upper partial denture
+353,2507007,5' Nucleotidase measurement
+354,2508002,Retrograde urography with KUB
+355,2514009,Reduction of closed humeral supracondylar fracture with manipulation and traction
+356,2517002,Stroke rehabilitation
+357,2530001,Chiropractic visit
+358,2531002,Mononuclear cell function assay
+359,2535006,Pulpectomy
+360,2536007,Injection of medication in anterior chamber of eye
+361,2547000,Excision of keloid
+362,2552005,Incision of cerebral subarachnoid space
+363,2564002,Creation of lumbar shunt including laminectomy
+364,2566000,Osteoplasty of radius
+365,2567009,Resection of rib by transaxillary approach
+366,2580007,Transplant of hair follicles to scalp
+367,2598006,Open heart surgery
+368,2601001,Removal of bone flap of skull
+369,2607002,Operation on uterus supporting structures
+370,2613006,Implantation of prosthesis or prosthetic device of joint of hand
+371,2614000,Removal of ligature from fallopian tube
+372,2616003,Repair of bifid digit of hand
+373,2619005,Psychiatric interpretation to family or parents of patient
+374,2629003,Intracranial/cerebral perfusion pressure monitoring
+375,2632000,Incision and drainage of infected bursa of upper arm
+376,2642003,Prefabricated post and core in addition to crown
+377,2643008,Ligation of varicose vein of head and neck
+378,2644002,Cauterization of liver
+379,2645001,Intelligence test/WB1
+380,2646000,Incision and exploration of vas deferens
+381,2658000,Social service interview of patient
+382,2659008,Suture of ligament of lower extremity
+383,2668005,Recementation of space maintainer
+384,2670001,Diagnostic procedure on cornea
+385,2673004,Incision and drainage of masticator space by extraoral approach
+386,2677003,Stripping
+387,2690005,Magnetic resonance imaging of pelvis
+388,2693007,Stool fat and quantitative measurement
+389,2696004,Hepatic venography with hemodynamic evaluation
+390,2697008,Stripping and ligation of saphenous vein
+391,2716009,Dermal-fat-fascia graft
+392,2722000,IL-3 assay
+393,2731000,Serologic test for influenza virus A
+394,2732007,Recession of tendon of hand
+395,2737001,Exploratory craniotomy and infratentorial
+396,2742009,Destruction of Bartholin's gland or cyst
+397,2743004,Operative endoscopy of ileum
+398,2745006,Omentopexy
+399,2752008,Incudopexy
+400,2780005,Osteoplasty of facial bones
+401,2794006,Cauterization of navel
+402,2802005,Manual dilation and stretching
+403,2811005,Cineradiography of pharynx
+404,2813008,Nephroureterocystectomy
+405,2837008,Transposition of ulnar nerve at elbow
+406,2842000,Gas chromatography measurement
+407,2843005,Revision of urinary conduit
+408,2847006,Cervical myelography
+409,2851008,Arthrotomy for synovectomy of sternoclavicular joint
+410,2854000,Bursectomy of hand
+411,2857007,Pinealectomy
+412,2866006,Obliteration of lymphatic structure
+413,2875008,Implantation of prosthesis or prosthetic device of elbow joint
+414,2876009,Hospital admission and type unclassified and explain by report
+415,2885009,Intradermal skin test
+416,2891006,Arthroscopy of elbow with partial synovectomy
+417,2898000,DNA analysis and antenatal and blood
+418,2903001,Diagnostic procedure on anterior chamber of eye
+419,2908005,Destruction of hemorrhoids by cryotherapy
+420,2914003,Anterior sclerotomy
+421,2915002,Suture of capsule of ankle
+422,2933008,Pneumogynecography
+423,2945004,Suprapubic diverticulectomy of bladder
+424,2947007,Therapeutic compound measurement
+425,2960001,Repair of fistula of cervix
+426,2968008,Craniectomy with treatment of penetrating wound of brain
+427,2970004,Metacarpal lengthening and transfer of local flap
+428,2971000,Closure of urethrovaginal fistula
+429,2977001,Thrombectomy of lower limb vein
+430,3001009,Total lobectomy with bronchoplasty
+431,3010001,Removal of silastic tubes from ear
+432,3016007,Removal of Crutchfield tongs from skull
+433,3025001,Calcitonin measurement
+434,3026000,Tibiotalar arthrodesis
+435,3029007,Peripheral nervous system disease rehabilitation
+436,3041000,Repair of stomach
+437,3047001,Kowa fundus photography
+438,3060007,Forequarter amputation and right
+439,3061006,Complete avulsion of nail
+440,3063009,Gastroscopy through artificial stoma
+441,3075004,Nonoperative removal of prosthesis of bile duct
+442,3078002,Embolectomy with catheter of renal artery by abdominal incision
+443,3083005,Removal of device from thorax
+444,3088001,Anesthesia for endoscopic procedure on upper extremity
+445,3090000,Aneurysmectomy with graft replacement of lower limb artery
+446,3112006,Restraint removal
+447,3116009,Blood coagulation panel
+448,3130004,Monitoring of cardiac output by ECG
+449,3133002,Patient discharge and deceased and autopsy
+450,3137001,Reimplantation
+451,3143004,Visual field examination and evaluation and intermediate
+452,3162001,Gadolinium measurement
+453,3164000,Open reduction of closed mandibular fracture with interdental fixation
+454,3165004,Irrigation of muscle of hand
+455,3166003,Repair of salivary gland fistula
+456,3177009,Internal obstetrical version
+457,3183007,Closure of colostomy
+458,3186004,Excision of Skene's gland
+459,3190002,Epilation by forceps
+460,3204007,Destructive procedure of nerve
+461,3241008,Correction of chordee with mobilization of urethra
+462,3249005,Surgical construction of filtration bleb
+463,3251009,Mayo operation and herniorrhaphy
+464,3256004,Cervical lymphangiogram
+465,3257008,Empty and measure peritoneal dialysis fluid
+466,3258003,Arteriography of cerebral arteries
+467,3268008,Transplantation of tissue of pelvic region
+468,3270004,Implantation of neurostimulator in spine
+469,3278006,Lysis of adhesions of bursa of hand
+470,3287002,Cholecystogastrostomy
+471,3320000,Autotransfusion
+472,3324009,Laser beam photocoagulation
+473,3326006,Excision of bunionette
+474,3328007,Incision of vein of head and neck
+475,3333006,Application of short arm splint and forearm to hand and static
+476,3338002,Open reduction of open radial shaft fracture
+477,3352000,Parathyroid hormone measurement
+478,3357006,Iron kinetics study
+479,3360004,Anastomosis of bile ducts
+480,3390006,Verification routine
+481,3399007,Reduction of torsion of omentum
+482,3407002,Creation of lesion of spinal cord by percutaneous method
+483,3413006,Blood cell morphology
+484,3418002,Chondrectomy of spine
+485,3432000,Preventive dental service
+486,3443008,Pulp cap and direct and excluding final restoration
+487,3448004,Fixation of contralateral testis
+488,3450007,Lymphocytes and T & B cell evaluation
+489,3457005,Patient referral
+490,3479000,Removal of heart assist system with replacement
+491,3498003,Total excision of pituitary gland by transsphenoidal approach
+492,3499006,Aspiration of vitreous with replacement
+493,3509001,Streptococcus vaccination
+494,3512003,Angiography of arteries of extremity
+495,3515001,Replacement of electronic heart device and pulse generator
+496,3517009,Removal of foreign body of pelvis from subcutaneous tissue
+497,3518004,Aversive psychotherapy
+498,3527003,Antibody measurement
+499,3546002,Aortocoronary artery bypass graft with saphenous vein graft
+500,3559005,Insertion of ureteral stent with ureterotomy
+501,3562008,Rodney Smith operation and radical subtotal pancreatectomy
+502,3564009,Removal of foreign body from fallopian tube
+503,3575008,Repair of fascia with graft of fascia
+504,3580004,Removal of calculus of pharynx
+505,3605001,Reduction of ciliary body
+506,3607009,Transplantation of mesenteric tissue
+507,3620007,Red cell survival study with hepatic sequestration
+508,3625002,Anesthesia for brachial arteriograms and retrograde
+509,3651000,Morphometric analysis and nerve
+510,3654008,Lingulectomy of lung
+511,3659003,Incision of inner ear
+512,3664004,Repair of scleral fistula
+513,3666002,Peripheral neurorrhaphy
+514,3669009,Fitting of prosthesis or prosthetic device of upper arm
+515,3673007,Leadbetter urethral reconstruction
+516,3683006,Selenium measurement and urine
+517,3686003,Zancolli operation for tendon transfer of biceps
+518,3688002,Anesthesia for lens surgery
+519,3690001,Shunt of left subclavian to descending aorta by Blalock-Park operation
+520,3691002,Wedge osteotomy of tarsals and metatarsals
+521,3697003,Tissue processing technique and routine and embed and cut and stain and per autopsy
+522,3700004,Erysiphake extraction of cataract by intracapsular approach
+523,3701000,Removal of foreign body of hip from subcutaneous tissue
+524,3713005,Release for de Quervain's tenosynovitis of hand
+525,3717006,Dilute Russell viper venom time
+526,3734003,Partial-thickness skin graft
+527,3735002,Coproporphyrin III measurement
+528,3740005,Removal of foreign body of canthus by incision
+529,3748003,Biopsy of perirenal tissue
+530,3749006,Reduction of closed ischial fracture
+531,3758004,Thrombectomy with catheter of subclavian artery by neck incision
+532,3770000,Ward urine dip stick testing
+533,3778007,Manipulation of scrotal tissue
+534,3780001,Routine patient disposition and no follow-up planned
+535,3784005,Delayed hypersensitivity skin test for SK-SD
+536,3786007,Excision of lesion of pharynx
+537,3787003,Ultrasonic guidance for needle biopsy
+538,3794000,Pregnanetriol measurement
+539,3796003,Excision of redundant mucosa from jejunostomy
+540,3799005,Radiography of adenoids
+541,3802001,Dental application of desensitizing medicament
+542,3819004,Embolization of thoracic artery
+543,3826004,Blepharotomy with drainage of abscess of eyelid
+544,3828003,Open biopsy of vertebral body of thoracic region
+545,3831002,Chiropractic application of ice
+546,3843001,Removal of foreign body from fascia
+547,3858009,Echography of thyroid and A-mode
+548,3861005,Aneurysmectomy with anastomosis of lower limb artery
+549,3862003,Total vital capacity measurement
+550,3864002,Excisional biopsy of scrotum
+551,3880007,Excision of lesion of fibula
+552,3881006,Incision and drainage of submental space by extraoral approach
+553,3887005,Ligation of wart
+554,3889008,Suture of lip
+555,3891000,Comprehensive orthodontic treatment and permanent dentition and for class I malocclusion
+556,3895009,Application of dressing
+557,3907006,Incision and drainage of retroperitoneal abscess
+558,3911000,Muscle transplantation
+559,3915009,Excision of artery of thorax and abdomen
+560,3917001,Excisional biopsy of phalanges of foot
+561,3918006,Plastic repair with lengthening
+562,3926003,Lactic acid measurement
+563,3929005,Patient transfer and in-hospital and bed-to-bed
+564,3936006,Making Foster bed
+565,3938007,Cerclage for retinal reattachment
+566,3942005,Cystopexy
+567,3955006,Antibody elution and RBC
+568,3957003,Arteriectomy of thoracoabdominal aorta
+569,3963007,Operation on submaxillary gland
+570,3967008,Fluorescence polarization immunoassay
+571,3968003,Facetectomy of vertebra
+572,3969006,Removal of osteocartilagenous loose body from joint structures
+573,3971006,Duchenne muscular dystrophy carrier detection
+574,3980006,Subtotal resection of esophagus
+575,3981005,Carrier detection and molecular genetics
+576,3985001,Anesthesia for procedure on arteries of lower leg with bypass graft
+577,3991004,Magnetic resonance imaging of pelvis and prostate and bladder
+578,3998005,Bone imaging of limited area
+579,4007002,Anti-human globulin test and indirect and titer and non-gamma
+580,4008007,Phlebography of neck
+581,4010009,Oophorectomy of remaining ovary with tube
+582,4027001,Implantation of electronic stimulator into phrenic nerve
+583,4034004,Closed reduction of facial fracture and except mandible
+584,4035003,Restoration and resin and two surfaces and posterior and permanent
+585,4036002,Arthroscopy of elbow with extensive debridement
+586,4037006,Removal of vascular graft or prosthesis
+587,4044002,Permanent colostomy
+588,4045001,Drainage of cerebral ventricle by incision
+589,4052004,Percutaneous aspiration of spinal cord cyst
+590,4064007,Specimen aliquoting
+591,4068005,Removal of ventricular reservoir with synchronous replacement
+592,4083000,Fitting of prosthesis or prosthetic device of lower arm
+593,4084006,Repair of tendon of hand by graft or implant of muscle
+594,4090005,Replacement of transvenous atrial and ventricular pacemaker electrode leads
+595,4094001,Reduction of retroversion of uterus by suppository
+596,4101004,Revision of spinal pleurothecal shunt
+597,4102006,Root canal therapy and anterior and excluding final restoration
+598,4114003,Parenteral chemotherapy for malignant neoplasm
+599,4116001,Fenestration procedure
+600,4119008,Intracranial phlebectomy with anastomosis
+601,4131005,Implantation into pelvic region
+602,4134002,Operative block anesthesia
+603,4139007,Posterior spinal cordotomy
+604,4143006,Injection of anterior chamber of eye
+605,4149005,Bone histomorphometry and aluminum stain
+606,4154001,Incision and drainage of penis
+607,4165006,Delayed hypersensitivity skin test for staphage lysate
+608,4176005,Fothergill operation on uterus
+609,4192000,Toxicology testing for organophosphate insecticide
+610,4213001,Implantation of Ommaya reservoir
+611,4214007,Intracardiac injection for cardiac resuscitation
+612,4226002,Excision of lesion of thoracic vein
+613,4252008,Aneurysmectomy with graft replacement by interposition
+614,4263006,Biopsy of soft tissue of elbow area and superficial
+615,4266003,Patient referral for drug addiction rehabilitation
+616,4285000,Insertion of bone growth stimulator into femur
+617,4293000,Reduction of intussusception by laparotomy
+618,4304000,Excision of cusp of tricuspid valve
+619,4319004,Rebase of complete lower denture
+620,4321009,Angiography of lower extremity arteries and bilateral
+621,4323007,Destruction of lesion of sclera
+622,4331002,Anesthesia for hernia repair in lower abdomen
+623,4333004,Incision and drainage of perisplenic space
+624,4336007,Lloyd-Davies operation and abdominoperineal resection
+625,4337003,Homogentisic acid measurement
+626,4339000,Repair of nasolabial fistula
+627,4341004,Complete submucous resection of turbinate
+628,4344007,Cryopexy
+629,4348005,Musculoplasty of hand
+630,4350002,Removal of implant of cornea
+631,4363008,Endoscopic brush biopsy of trachea
+632,4365001,Surgical repair
+633,4380007,Transposition of vulvar tissue
+634,4387005,Valvuloplasty of pulmonary valve in total repair of tetralogy of Fallot
+635,4388000,Repair of splenocolic fistula
+636,4407008,Slitting of lacrimal canaliculus for passage of tube
+637,4411002,Removal of device from female genital tract
+638,4420006,Incision and drainage of parapharyngeal abscess by external approach
+639,4424002,Making orthopedic bed
+640,4436008,MCP receptor measurement
+641,4438009,Venography of vena cava
+642,4443002,Decortication of ovary
+643,4447001,Autopsy and gross and microscopic examination and stillborn or newborn without CNS
+644,4449003,Manipulation of spinal meninges
+645,4450003,Application of Kirschner wire
+646,4455008,Open reduction of open elbow dislocation
+647,4457000,Insertion of mold into vagina
+648,4466001,Exploration of artery of upper limb
+649,4467005,Excision of tumor of ankle area and deep and intramuscular
+650,4475004,Cyanide measurement
+651,4487006,Norepinephrine measurement and supine
+652,4489009,Neurolysis of trigeminal nerve
+653,4496006,Special care of mouth
+654,4503005,Removal of foreign body of sclera without use of magnet
+655,4504004,Potter's obstetrical version with extraction
+656,4505003,Tenolysis of flexor tendon of forearm
+657,4507006,Decompression fasciotomy of wrist and flexor and extensor compartment
+658,4511000,Restoration and inlay and composite/resin and one surface and laboratory processed
+659,4516005,Iridencleisis and iridotasis
+660,4520009,Anastomosis of esophagus and antesternal or antethoracic and with insertion of prosthesis
+661,4525004,Emergency department patient visit
+662,4533003,Ligation of artery of lower limb
+663,4535005,Incision of pelvirectal tissue
+664,4539004,Excision of bronchogenic cyst
+665,4542005,Closed reduction of fracture of foot
+666,4544006,Excision of subcutaneous tumor of extremities
+667,4558008,Anterior resection of rectum
+668,4563007,Hospital admission and transfer from other hospital or health care facility
+669,4570007,Chemopallidectomy
+670,4579008,Creation of ventriculo-atrial shunt
+671,4581005,Coreoplasty
+672,4585001,Decompression of tendon of hand
+673,4587009,Epiphysiodesis of distal radius
+674,4589007,Medical procedure related to reproduction
+675,4593001,Cauterization of sclera with iridectomy
+676,4594007,Coproporphyrin isomers and series I & III and urine
+677,4613005,Radioimmunoassay
+678,4625008,Apical pulse taking
+679,4626009,Take-down of arterial anastomosis
+680,4636001,Denker operation for radical maxillary antrotomy
+681,4640005,Ligation of fallopian tubes by abdominal approach
+682,4642002,Removal of inflatable penile prosthesis and with pump and reservoir and cylinders
+683,4660002,Diagnostic procedure on phalanges of foot
+684,4670000,Catheterization of bronchus
+685,4671001,Excision of lesion from sphenoid sinus
+686,4672008,Medical procedure on the nervous system
+687,4691008,Identification of rotavirus antigen in feces
+688,4692001,Transplantation of artery of upper extremity
+689,4694000,Percutaneous needle biopsy of muscle
+690,4699005,Alpha naphthyl butyrate stain method and blood or bone marrow
+691,4701005,Colony forming unit-granulocyte-monocyte-erythroid-megakaryocyte assay
+692,4707009,Partial excision of calcaneus
+693,4712005,Removal of Gardner Wells tongs from skull
+694,4713000,Endoscopy and photography
+695,4719001,Psychologic cognitive testing and assessment
+696,4727005,Lipoprotein electrophoresis
+697,4734007,Irrigation of wound catheter of integument
+698,4737000,Mycobacteria culture
+699,4756005,Cryotherapy of subcutaneous tissue
+700,4758006,Incudostapediopexy
+701,4764004,Jet ventilation procedure
+702,4765003,Insertion of ocular implant following or secondary to enucleation
+703,4770005,Colporrhaphy for repair of urethrocele
+704,4772002,Reduction of torsion of spermatic cord
+705,4784000,Operation on sublingual gland
+706,4804005,Microbial identification test
+707,4811009,Reconstruction of diaphragm
+708,4815000,Antibody identification and RBC antibody panel and enzyme and 2 stage technique including anti-human globulin
+709,4820000,Incision of labial frenum
+710,4827002,Shower hydrotherapy
+711,4829004,Excision of small intestine for interposition
+712,4847005,Anesthesia for cesarean section
+713,4849008,Biopsy of ovary
+714,4862007,Revision of anastomosis of large intestine
+715,4877004,Extracapsular extraction of lens with iridectomy
+716,4891005,Proctostomy
+717,4895001,Construction of sigmoid bladder
+718,4902005,Ethchlorvynol measurement
+719,4903000,Serum protein electrophoresis
+720,4904006,Dilation of anal sphincter under nonlocal anesthesia
+721,4914002,Treatment planning for teletherapy
+722,4929000,Local perfusion of kidney
+723,4930005,Repair of thoracogastric fistula
+724,4934001,Salpingography
+725,4957007,Cervical spinal fusion for pseudoarthrosis
+726,4966006,Extracorporeal perfusion
+727,4970003,Venography
+728,4974007,Operation on liver
+729,4976009,Anesthesia for endoscopic procedure on lower extremity
+730,4987001,Osteoplasty of cranium with flap of bone
+731,4992004,Cardiac catheterization and left heart and retrograde and percutaneous
+732,4993009,Ischemic limb exercise with EMG and lactic acid determination
+733,5016005,Pontic and resin with high noble metal
+734,5019003,Direct laryngoscopy with biopsy
+735,5021008,Aldosterone measurement and standing and normal salt diet
+736,5022001,Lysergic acid diethylamide measurement
+737,5025004,Semen analysis and presence and motility of sperm
+738,5032008,Labial veneer and porcelain laminate and laboratory
+739,5034009,Graft to hair-bearing skin
+740,5048009,External cephalic version with tocolysis
+741,5055006,Uniscept system test
+742,5057003,Radical orbitomaxillectomy
+743,5065000,Reduction of closed traumatic hip dislocation with anesthesia
+744,5091004,Peripheral vascular disease study
+745,5105000,Endoscopy of renal pelvis
+746,5110001,Ultrasound peripheral imaging and real time scan
+747,5113004,T4 free measurement
+748,5119000,Epiglottidectomy
+749,5121005,Wedge osteotomy of pelvic bone
+750,5123008,Anesthesia for procedure on pericardium with pump oxygenator
+751,5130002,Extraction of primary membranous cataract by discission
+752,5131003,Radiography of chest wall
+753,5135007,Diagnostic procedure on scapula
+754,5147001,Excision of lesion of ankle joint
+755,5151004,Manual reduction of hemorrhoids
+756,5154007,Speech therapy
+757,5161006,Specialty clinic admission
+758,5162004,Excision of pressure ulcer
+759,5165002,Division of thoracic artery
+760,5176003,Thromboendarterectomy with graft of renal artery
+761,5182000,Total body perfusion
+762,5184004,Osteotomy of shaft of femur with fixation
+763,5186002,Arthrotomy for synovectomy of glenohumeral joint
+764,5190000,Cell fusion
+765,5191001,Surgical treatment of missed abortion of second trimester
+766,5212002,Excision of lesion of lacrimal gland by frontal approach
+767,5216004,Three dimensional ultrasound imaging of heart
+768,5233006,Lateral fasciotomy
+769,5243009,Suture of adenoid fossa
+770,5245002,Transplantation of peripheral vein
+771,5246001,Breakpoint cluster region analysis
+772,5264008,Total bile acids measurement
+773,5267001,Ligation of adrenal artery
+774,5270002,Bilateral destruction of fallopian tubes
+775,5273000,Reduction of closed fracture of proximal end of ulna with manipulation
+776,5282006,Operation on oropharynx
+777,5290006,Incision and drainage of Ludwig's angina
+778,5298004,Incision and drainage of deep hematoma of thigh region
+779,5304008,Deep radiation therapy and 200-300 KVP
+780,5316002,Closed osteotomy of mandibular ramus
+781,5317006,Radical amputation of penis with bilateral pelvic lymphadenectomy
+782,5326009,Administration of dermatologic formulation
+783,5328005,Shortening of Achilles tendon
+784,5337005,Trocar biopsy
+785,5338000,Nicotine measurement
+786,5342002,Prophylactic treatment of tibia with methyl methacrylate
+787,5348003,Repair of endocardial cushion defect
+788,5357009,Leukocyte poor blood preparation
+789,5373003,Stress breaker
+790,5384005,Excision of part of frontal cortex
+791,5391008,Artificial voice rehabilitation
+792,5393006,Exploration of parathyroid with mediastinal exploration by sternal split approach
+793,5402006,Manipulation of thoracic artery
+794,5407000,Injection of fallopian tube
+795,5415002,Destruction of lesion of liver
+796,5419008,Lysis of adhesions of tendon of hand
+797,5422005,Amylase measurement and peritoneal fluid
+798,5429001,Diagnostic procedure on nipple
+799,5431005,Percutaneous transluminal angioplasty
+800,5433008,Skeletal X-ray of lower limb
+801,5446003,Excision of cervical rib for outlet compression syndrome with sympathectomy
+802,5447007,Transfusion
+803,5452002,Core needle biopsy of thymus
+804,5456004,Graft of lymphatic structure
+805,5457008,Serologic test for Rickettsia conorii
+806,5460001,Removal of prosthesis from fallopian tube
+807,5479003,Select picture audiometry
+808,5482008,Serologic test for Blastomyces
+809,5486006,Delayed suture of tendon of hand
+810,5489004,Diagnostic procedure on radius
+811,5506006,Incision and exploration of abdominal wall
+812,5517007,Restoration and inlay and porcelain/ceramic and per tooth and in addition to inlay
+813,5521000,Open reduction of fracture of phalanges of foot
+814,5536002,Arthrodesis of carpometacarpal joint of digits and other than thumb
+815,5545001,Repair of carotid body
+816,5551006,Direct laryngoscopy with arytenoidectomy with operating microscope
+817,5556001,Manually assisted spontaneous delivery
+818,5570001,Arthrotomy for infection with exploration and drainage of carpometacarpal joint
+819,5571002,Excision of lesion of aorta with end-to-end anastomosis
+820,5572009,Incision of kidney pelvis
+821,5586008,Aminolevulinic acid dehydratase measurement
+822,5608002,Excretion measurement
+823,5616006,Osteoplasty of tibia
+824,5621009,Excision of malignant lesion of skin of extremities
+825,5632009,Open biopsy of bronchus
+826,5636007,Fistulectomy of bone
+827,5638008,Carbohydrate measurement
+828,5648005,Surgical repair and revision of shunt
+829,5651003,Arylsulfatase A measurement
+830,5663008,Phlebectomy of varicose vein of head and neck
+831,5669007,Portable electroencephalogram awake and asleep with stimulation
+832,5671007,Magnet extraction of foreign body from ciliary body
+833,5687005,Removal of foreign body from ovary
+834,5690004,Incision of seminal vesicle
+835,5694008,Crisis intervention with follow-up
+836,5721002,Repair of eyebrow
+837,5722009,Surgical reanastomosis of colon
+838,5726007,Removal of epicardial electrodes
+839,5728008,Anoscopy for removal of foreign body
+840,5731009,Hemosiderin and quantitative measurement
+841,5733007,Fluorescent identification of anti-nuclear antibody
+842,5738003,Biopsy of cul-de-sac
+843,5745003,Excision ampulla of Vater with reimplantation of common duct
+844,5760000,Osteoplasty of radius and ulna and shortening
+845,5771004,Blepharotomy
+846,5777000,Flexorplasty of elbow
+847,5781000,Operation on nasal septum
+848,5785009,Forensic autopsy
+849,5787001,Elevation of bone fragments of orbit of skull with debridement
+850,5789003,Lysis of adhesions of intestines
+851,5796001,Excision of external thrombotic hemorrhoid
+852,5806001,Revision of tracheostomy scar
+853,5807005,Fenestration of inner ear and initial
+854,5809008,Selective vagotomy with pyloroplasty and gastrostomy
+855,5812006,Laboratory reporting and fax
+856,5818005,Flocculation test
+857,5821007,Ligation and division and complete stripping of long and short saphenous veins
+858,5823005,Diagnostic radiography and left
+859,5832007,Partial ostectomy of thorax and ribs or sternum
+860,5845006,Emulsification procedure
+861,5846007,Diagnostic radiography of toes
+862,5857002,Complement mediated cytotoxicity assay
+863,5865004,Open reduction of dislocation of toe
+864,5870006,Tertiary closure of abdominal wall
+865,5880005,Clinical examination
+866,5892005,Mastoid antrotomy
+867,5894006,Methyl red test
+868,5897004,Removal of Scribner shunt
+869,5902003,History and physical examination and complete
+870,5925002,Incision and drainage of hematoma of wrist
+871,5930003,Cardiac monitor removal
+872,5947002,Consultation for hearing and/or speech problem
+873,5961007,Division of blood vessels of cornea
+874,5966002,Removal of foreign body from elbow area and deep
+875,5971009,Incision and drainage of axilla
+876,5983006,Repair of spermatic cord
+877,5986003,Non-sensitized spontaneous sheep erythrocyte binding and E-rosette
+878,5992009,Midtarsal arthrodesis and multiple
+879,5995006,Gas liquid chromatography and flame photometric type
+880,5997003,Drainage of cerebral subarachnoid space by aspiration
+881,5998008,Radical dissection of groin
+882,6005008,Transplantation of vitreous by anterior approach
+883,6007000,Magnetic resonance imaging of chest
+884,6019008,Endoscopy of large intestine
+885,6025007,Laparoscopic appendectomy
+886,6026008,Removal of coronary artery obstruction by percutaneous transluminal balloon with thrombolytic agent
+887,6029001,Augmentation of outflow tract of pulmonary valve
+888,6035001,Chart abstracting
+889,6063004,Kanamycin measurement
+890,6069000,Panniculotomy
+891,6082008,Perforation of footplate
+892,6092000,Aspiration of nasal sinus by puncture
+893,6100001,Fenestration of stapes footplate with vein graft
+894,6108008,Subdural tap through fontanel and infant and initial
+895,6119006,Local destruction of lesion of bony palate
+896,6125005,Change of gastrostomy tube
+897,6126006,Fitzgerald factor assay
+898,6127002,Diagnostic radiography of abdomen and oblique standard
+899,6130009,Surgical exposure of impacted or unerupted tooth to aid eruption
+900,6133006,Lymphokine assay
+901,6143009,Diabetic education
+902,6146001,Repair of heart septum with prosthesis
+903,6148000,Chondrectomy of semilunar cartilage of knee
+904,6157006,Endoscopic retrograde cholangiopancreatography with biopsy
+905,6159009,Galactose measurement
+906,6161000,Excision of lesion of capsule of toes
+907,6164008,Osteoclasis of clavicle
+908,6166005,Nephropyeloureterostomy
+909,6177004,Southern blot assay
+910,6187000,Repair of aneurysm with graft of common femoral artery
+911,6188005,Arthrotomy of knee
+912,6189002,Excision of aberrant tissue of breast
+913,6190006,Colopexy
+914,6195001,Transurethral drainage of prostatic abscess
+915,6198004,Repair of fracture with Sofield type procedure
+916,6200005,Excision of lesion of female perineum
+917,6205000,Fluorescent antigen and titer
+918,6213004,Prescribing corneoscleral contact lens
+919,6221005,Suture of colon
+920,6225001,Antibody detection and RBC and enzyme and 2 stage technique and including anti-human globulin
+921,6226000,Visual rehabilitation and eye motion defect
+922,6227009,Relationship psychotherapy
+923,6231003,Graft of palate
+924,6238009,Diagnostic radiography of sacroiliac joints
+925,6240004,Operative procedure on knee
+926,6255008,Resection of abdominal artery with replacement
+927,6271008,Echography and immersion B-scan
+928,6274000,Excision of aural glomus tumor and extended and extratemporal
+929,6286002,Destructive procedure on ovaries and fallopian tubes
+930,6289009,White blood cell histogram evaluation
+931,6295005,Sequestrectomy of pelvic bone
+932,6307005,Keratophakia
+933,6309008,Fecal fat differential and quantitative
+934,6319002,Beta lactamase and chromogenic cephalosporin susceptibility test
+935,6337001,Ligation of aortic arch
+936,6339003,Conditioning play audiometry
+937,6343004,Forensic bite mark comparison technique
+938,6353003,Mitsuda reaction to lepromin
+939,6354009,Sedimentation rate and Westergren
+940,6355005,Removal of internal fixation device of radius
+941,6358007,Capsulorrhaphy of joint
+942,6361008,Anesthesia for popliteal thromboendarterectomy
+943,6363006,Dilation of lacrimal punctum with irrigation
+944,6370006,Chemosurgery of stomach lesion
+945,6384001,Removal of device from digestive system
+946,6385000,Exploration of disc space
+947,6388003,TdT stain
+948,6396008,Galactokinase measurement
+949,6397004,Muscular strength development exercise
+950,6399001,Division of arteriovenous fistula with ligation
+951,6402000,Excision of common bile duct
+952,6403005,Lengthening of muscle of hand
+953,6419003,Excision of tumor from elbow area and deep and subfascial
+954,6429005,Heteroautogenous transplantation
+955,6433003,Closed heart valvotomy of mitral valve
+956,6434009,Seminal fluid detection
+957,6438007,Exploration of ciliary body
+958,6439004,Destruction of lesion of peripheral nerve
+959,6443000,Pontic and porcelain fused to predominantly base metal
+960,6444006,Enlargement of eye socket
+961,6465000,Arthrotomy of glenohumeral joint for infection with drainage
+962,6466004,Administration of Rh immune globulin
+963,6470007,Laparoamnioscopy
+964,6473009,Suture of old obstetrical laceration of uterus
+965,6480006,Urinary bladder residual urine study
+966,6486000,Curettage of sclera
+967,6487009,Hand tendon pulley reconstruction with tendon prosthesis
+968,6491004,Protein S and free assay
+969,6499002,Tsuge operation on finger for macrodactyly repair
+970,6502003,Complete lower denture
+971,6506000,Placing a patient on a bedpan
+972,6519001,Operation on multiple extraocular muscles with temporary detachment from globe
+973,6521006,Polytomography
+974,6527005,Uchida fimbriectomy with tubal ligation by endoscopy
+975,6535008,Excision of cyst of hand
+976,6536009,Implantation of tricuspid valve with tissue graft
+977,6543003,Complicated catheterization of bladder
+978,6547002,Repair with closure of non-surgical wound
+979,6555009,Insertion of infusion pump beneath skin
+980,6556005,Reticulin antibody measurement
+981,6562000,Destruction of lesion of tongue
+982,6563005,Transposition of muscle of hand
+983,6567006,Pulmonary valve commissurotomy by transvenous balloon method
+984,6568001,Diagnostic procedure on eyelid
+985,6585004,Closed reduction of fracture of tarsal or metatarsal
+986,6589005,Antibody titration and high protein
+987,6601003,Removal of foreign body from skin of axilla
+988,6614002,Antibody to single stranded DNA measurement
+989,6615001,Electroretinography with medical evaluation
+990,6622009,Add clasp to existing partial denture
+991,6634001,Destruction of hemorrhoids and internal
+992,6639006,Replacement of obstructed valve in shunt system
+993,6650009,Radionuclide lacrimal flow study
+994,6656003,Acoustic stimulation test
+995,6657007,Maintenance drug therapy for mental disorder
+996,6658002,Removal of foreign body from alveolus
+997,6661001,King-Steelquist hindquarter operation
+998,6665005,Restoration and crown and porcelain fused to noble metal
+999,6668007,Fibrinogen assay and quantitative
+1000,6670003,Closure of external fistula of trachea

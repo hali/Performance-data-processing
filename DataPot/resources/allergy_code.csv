@@ -1,0 +1,1582 @@
+1,DF-112A3,4-quinolones allergy
+2,DF-10F67,5-HT3-receptor antagonist allergy
+3,DF-111C0,A series prostaglandin allergy
+4,DF-113A0,Acarbose allergy
+5,DF-110A5,Acebutolol allergy
+6,DF-10F27,Acemetacin allergy
+7,DF-10054,Acenocoumarol allergy
+8,DF-10F0C,Acetaminophen allergy
+9,DF-10CF7,Acetaminophen and dextropropoxyphene allergy
+10,DF-100E2,Acetazolamide allergy
+11,DF-11255,Acetic acid allergy
+12,DF-11393,Acetohexamide allergy
+13,DF-110D1,Acetylcholine chloride allergy
+14,DF-11128,Acetylcysteine allergy
+15,DF-11241,Aciclovir allergy
+16,DF-1009B,Acipimox allergy
+17,DF-11197,Acitretin allergy
+18,DF-10FBD,Aclarubicin allergy
+19,DF-1127E,Acridine azo disinfectant dye allergy
+20,DF-11138,Acrivastine allergy
+21,DF-112A4,Acrosoxacin allergy
+22,DF-1003E,Activated factor VII products allergy
+23,DF-100AB,Adenosine allergy
+24,DF-100E4,Adrenergic neurone blocking drug allergy
+25,DF-1128B,Albendazole allergy
+26,DF-10039,Albumin solution allergy
+27,DF-1136E,Alclometasone allergy
+28,DF-110A0,Alcohol metabolism modifier allergy
+29,DF-11264,Alcoholic disinfectant allergy
+30,DF-111A9,Alcuronium allergy
+31,DF-11267,Aldehyde disinfectant allergy
+32,DF-10F9F,Aldesleukin allergy
+33,DF-100CB,Aldosterone antagonists allergy
+34,DF-10F20,Alfentanil allergy
+35,DF-110BB,Alfuzosin allergy
+36,DF-11153,Alimemazine allergy
+37,DF-1118A,Alkali metal soap allergy
+38,DF-10FA6,Alkylating drug allergy
+39,DF-10F44,Allergen extract vaccine allergy
+40,F-C3158,Allergy to alpha glucoside inhibitor
+41,DF-11462,Allergy to angiotensin II receptor antagonist
+42,DF-10070,Allergy to anti-infective agent
+43,DF-1140B,Allergy to biocide
+44,DF-1144C,Allergy to caffeine
+45,DF-11469,Allergy to chloroprocaine
+46,DF-11467,Allergy to ertapenem
+47,DF-10077,Allergy to erythromycin
+48,DF-1144D,Allergy to ethanol
+49,DF-11470,Allergy to imipenem
+50,DF-11168,Allergy to inhaled corticosteroids
+51,DF-10076,Allergy to macrolide antibiotic
+52,DF-1146E,Allergy to meropenem
+53,DF-11473,Allergy to Myroxylon pereirae
+54,DF-10074,Allergy to penicillin
+55,DF-1146D,Allergy to remifentanil
+56,DF-1146B,Allergy to sevoflurane
+57,DF-1146C,Allergy to sufentanil
+58,DF-11459,Allergy to sulfonamide antibiotic
+59,DF-10072,Allergy to sulfonamides
+60,F-C315A,Allergy to thiazolidinedione
+61,DF-111A2,Allopurinol allergy
+62,DF-113A3,Allylestrenol allergy
+63,DF-110E1,Alpha-adrenoceptor agonist allergy
+64,DF-110BA,Alpha-adrenoceptor blocking drug allergy
+65,DF-1007B,Alpha-tocopheryl allergy
+66,DF-1103B,Alprazolam allergy
+67,DF-111C4,Alprostadil allergy
+68,DF-10135,Alteplase allergy
+69,DF-1118C,Aluminum astringent allergy
+70,DF-10F5D,Aluminum hydroxide allergy
+71,DF-10F76,Alverine allergy
+72,DF-10FEC,Amantadine allergy
+73,DF-1126C,Amidine disinfectant allergy
+74,DF-10F9E,Amifostine allergy
+75,DF-1128F,Amikacin allergy
+76,DF-100CE,Amiloride allergy
+77,DF-100D0,Amiloride and loop diuretic allergy
+78,DF-100D1,Amiloride and thiazide diuretic allergy
+79,DF-10FD4,Aminoglutethimide allergy
+80,DF-1128E,Aminoglycosides allergy
+81,DF-11164,Aminophylline allergy
+82,DF-11246,Aminoquinoline antimalarial allergy
+83,DF-100B8,Amiodarone allergy
+84,DF-10FFD,Amitriptyline allergy
+85,DF-110CB,Amlodipine allergy
+86,DF-11247,Amodiaquine allergy
+87,DF-1121C,Amorolfine allergy
+88,DF-10FFC,Amoxapine allergy
+89,DF-112CA,Amoxicillin + clavulanate potassium allergy
+90,DF-112B8,Amoxycillin allergy
+91,DF-1109E,Amphetamine group allergy
+92,DF-1121F,Amphotericin allergy
+93,DF-112CB,Ampicillin + flucloxacillin allergy
+94,DF-112B9,Ampicillin allergy
+95,DF-112C9,Ampicillin and cloxacillin allergy
+96,DF-10FCB,Amsacrine allergy
+97,DF-1102F,Amylobarbitone allergy
+98,DF-11032,Amylobarbitone sodium allergy
+99,DF-113AD,Anabolic steroids allergy
+100,DF-10F0A,Analgesic allergy
+101,DF-1004A,Ancrod allergy
+102,DF-113BD,Androgen allergy
+103,DF-10F82,Anesthetics and medical gases allergy
+104,DF-100E8,Angiotensin-converting-enzyme inhibitor allergy
+105,DF-1009C,Anion exchange resins allergy
+106,DF-11189,Anionic surfactant allergy
+107,DF-10136,Anistreplase allergy
+108,DF-10F5B,Antacid allergy
+109,DF-11144,Antazoline allergy
+110,DF-11283,Anthelmintics allergy
+111,DF-10F6F,Anthraquinone laxative allergy
+112,DF-1133E,Anthrax vaccine allergy
+113,DF-113B6,Anti-androgens allergy
+114,DF-11339,Anti-D (Rh) immunoglobulin allergy
+115,DF-11253,Anti-infective nasal preparations allergy
+116,DF-11132,Antiallergenic drug allergy
+117,DF-100AA,Antiarrhythmic drug allergy
+118,DF-1128D,Antibacterial drug allergy
+119,DF-1131E,Antibiotic antituberculosis drug allergy
+120,DF-11108,Anticholinergic allergy
+121,DF-110D3,Anticholinesterase parasympathomimetic allergy
+122,DF-10048,Anticoagulant allergy
+123,DF-10FF1,Antidepressant drug allergy
+124,DF-10F5E,Antidiarrheal drug allergy
+125,DF-113DE,Antidiuretic hormone allergy
+126,DF-111CC,Antidote allergy
+127,DF-111DC,Antidotes for pesticides allergy
+128,DF-10F63,Antiemetic allergy
+129,DF-11018,Antiepileptic allergy
+130,DF-11217,Antifungal drug allergy
+131,DF-100E3,Antihypertensive allergy
+132,DF-11326,Antileprotic drug allergy
+133,DF-11244,Antimalarial drug allergy
+134,DF-10FC2,Antimetabolite allergy
+135,DF-11313,Antimony antiprotozoal allergy
+136,DF-11109,Antimuscarinic allergy
+137,DF-1131B,Antimycobacterial agent allergy
+138,DF-10FA5,Antineoplastic allergy
+139,DF-11311,Antiprotozoal drug allergy
+140,DF-112C0,Antipseudomonal penicillins allergy
+141,DF-11356,Antisera allergy
+142,DF-10F73,Antispasmodic allergy
+143,DF-1003A,Antithrombin III allergy
+144,DF-1135B,Antithyroid drug allergy
+145,DF-1131C,Antituberculous drug allergy
+146,DF-1012F,Antivaricose agent allergy
+147,DF-11230,Antiviral drug allergy
+148,DF-10FED,Apomorphine allergy
+149,DF-11100,Apraclonidine allergy
+150,DF-1005D,Aprotinin allergy
+151,DF-11200,Arachis oil allergy
+152,DF-111FD,Artificial saliva allergy
+153,DF-10089,Ascorbic acid allergy
+154,DF-11182,Aserbine allergy
+155,DF-10F0E,Aspirin allergy
+156,DF-11136,Astemizole allergy
+157,DF-1118B,Astringent allergy
+158,DF-110A6,Atenolol allergy
+159,DF-11312,Atovaquone allergy
+160,DF-111AA,Atracurium allergy
+161,DF-11113,Atropine allergy
+162,DF-111B6,Auranofin allergy
+163,DF-10F28,Azapropazone allergy
+164,DF-11146,Azatadine allergy
+165,DF-10FE0,Azathioprine allergy
+166,DF-1117A,Azelaic acid allergy
+167,DF-1113A,Azelastine allergy
+168,DF-11298,Azithromycin allergy
+169,DF-112C3,Azlocillin allergy
+170,DF-11222,Azole antifungal allergy
+171,DF-112F3,Aztreonam allergy
+172,DF-112BE,Bacampicillin allergy
+173,DF-111B0,Baclofen allergy
+174,DF-110EE,Bambuterol allergy
+175,DF-10124,Bamethan sulfate allergy
+176,DF-1101E,Barbiturate antiepileptic allergy
+177,DF-1102E,Barbiturate sedative allergy
+178,DF-11205,Base allergy
+179,DF-11019,Beclamide allergy
+180,DF-1136F,Beclomethasone allergy
+181,DF-1110A,Belladonna alkaloids allergy
+182,DF-100BC,Bendroflumethiazide allergy
+183,DF-112AD,Benethamine penicillin allergy
+184,DF-11057,Benperidol allergy
+185,DF-111DE,Bentonite powder allergy
+186,DF-11277,Benzalkonium allergy
+187,DF-112AE,Benzathine penicillin allergy
+188,DF-11289,Benzimidazole anthelmintic allergy
+189,DF-10F97,Benzocaine allergy
+190,DF-111D3,Benzodiazepine antagonist allergy
+191,DF-11034,Benzodiazepine sedative allergy
+192,DF-11180,Benzoic acid allergy
+193,DF-11191,Benzoyl peroxide allergy
+194,DF-11115,Benztropine allergy
+195,DF-1132A,Benzyl benzoate allergy
+196,DF-112B2,Benzylpenicillin allergy
+197,DF-11287,Bephenium allergy
+198,DF-1112E,Beractant allergy
+199,DF-110E9,Beta-adrenoceptor agonist allergy
+200,DF-110A3,Beta-adrenoceptor blocking drug allergy
+201,DF-1012E,Betahistine allergy
+202,DF-11361,Betamethasone allergy
+203,DF-110A7,Betaxolol allergy
+204,DF-110DB,Bethanechol allergy
+205,DF-100E5,Bethanidine allergy
+206,DF-100A0,Bezafibrate allergy
+207,DF-113B9,Bicalutamide allergy
+208,DF-1139D,Biguanide allergy
+209,DF-1124C,Biguanide antimalarial allergy
+210,DF-1126F,Biguanide disinfectant allergy
+211,DF-10F7D,Bile agent allergy
+212,DF-1110C,Biperiden allergy
+213,DF-11386,Biphasic insulin allergy
+214,DF-1138C,Biphasic isophane insulin allergy
+215,DF-113F8,Biphosphonates allergy
+216,DF-10F69,Bisacodyl allergy
+217,DF-10F48,Bismuth chelate allergy
+218,DF-1125C,Bismuth subnitrate and iodoform paste impregnated gauze allergy
+219,DF-110A8,Bisoprolol allergy
+220,DF-10FBA,Bleomycin allergy
+221,DF-1003B,Blood clotting factor allergy
+222,DF-10038,Blood derivative allergy
+223,DF-11272,Borate allergy
+224,DF-11273,Boric acid allergy
+225,DF-11358,Botulism antitoxin allergy
+226,DF-100B6,Bretylium allergy
+227,DF-11281,Brilliant green allergy
+228,DF-112B7,Broad spectrum penicillins allergy
+229,DF-1103C,Bromazepam allergy
+230,DF-10137,Bromelains allergy
+231,DF-11125,Bromhexine hydrochloride allergy
+232,DF-1117B,Bromine complexes allergy
+233,DF-10FF0,Bromocriptine allergy
+234,DF-11147,Brompheniramine allergy
+235,DF-11167,Bronchodilator preparations allergy
+236,DF-11382,Budesonide allergy
+237,DF-11172,Bufexamac allergy
+238,DF-10F6E,Bulk-forming laxative allergy
+239,DF-100C5,Bumetanide allergy
+240,DF-10F92,Bupivacaine allergy
+241,DF-10F18,Buprenorphine allergy
+242,DF-113E9,Buserelin allergy
+243,DF-1104E,Buspirone allergy
+244,DF-10FA8,Busulfan allergy
+245,DF-11030,Butobarbitone allergy
+246,DF-10FF6,Butriptyline allergy
+247,DF-11056,Butyrophenone allergy
+248,DF-113D8,Cabergoline allergy
+249,DF-1116E,Calamine allergy
+250,DF-11178,Calcipotriol allergy
+251,DF-11400,Calcitonin (pork) allergy
+252,DF-113FE,Calcitonin allergy
+253,DF-1008D,Calcium polystyrene sulfonate allergy
+254,DF-113F7,Calcium regulating agent allergy
+255,DF-113FD,Calcium regulating hormone allergy
+256,DF-112F8,Calcium sulfaloxate allergy
+257,DF-110C3,Calcium-channel blocker allergy
+258,DF-1117F,Camouflaging preparations allergy
+259,DF-1131F,Capreomycin allergy
+260,DF-100E9,Captopril allergy
+261,DF-110DC,Carbachol allergy
+262,DF-1132C,Carbamate pesticide allergy
+263,DF-11048,Carbamate sedative allergy
+264,293867002,Carbamazepine allergy
+265,DF-11022,Carbamazepine allergy
+266,DF-112D2,Carbapenem allergy
+267,DF-1132D,Carbaryl allergy
+268,DF-112BD,Carbenicillin allergy
+269,DF-10F54,Carbenoxolone allergy
+270,DF-1135D,Carbimazole allergy
+271,DF-11126,Carbocisteine allergy
+272,DF-11210,Carbomer-940 allergy
+273,DF-100E0,Carbonic anhydrase inhibitor allergy
+274,DF-10FCC,Carboplatin allergy
+275,DF-111C7,Carboprost allergy
+276,DF-100F8,Cardiac glycoside allergy
+277,DF-100F7,Cardiac inotropic agent allergy
+278,DF-111F4,Cardioplegia solution allergy
+279,DF-110A4,Cardioselective beta-blocker allergy
+280,DF-112C5,Carfecillin allergy
+281,DF-111B1,Carisoprodol allergy
+282,DF-11216,Carmellose allergy
+283,DF-10FB4,Carmustine allergy
+284,DF-110B1,Carteolol allergy
+285,DF-110AF,Carvedilol allergy
+286,DF-10F70,Cascara allergy
+287,DF-11201,Castor oil allergy
+288,DF-1008B,Cation exchange resin allergy
+289,DF-11274,Cationic surfactant allergy
+290,DF-112DC,Cefaclor allergy
+291,DF-112D5,Cefadroxil allergy
+292,DF-112E3,Cefixime allergy
+293,DF-112E4,Cefodizime allergy
+294,DF-112E0,Cefotaxime allergy
+295,DF-112EC,Cefoxitin allergy
+296,DF-112EA,Cefpirome allergy
+297,DF-112E5,Cefpodoxime allergy
+298,DF-112E8,Cefsulodin allergy
+299,DF-112E1,Ceftazidime allergy
+300,DF-112E7,Ceftibuten allergy
+301,DF-112E2,Ceftizoxime allergy
+302,DF-112E6,Ceftriaxone allergy
+303,DF-112DD,Cefuroxime allergy
+304,DF-110A9,Celiprolol allergy
+305,DF-11211,Cellulose-derived viscosity modifier allergy
+306,DF-110FD,Central alpha-adrenoceptor agonist allergy
+307,DF-1109A,Central stimulant allergy
+308,DF-10FE2,Centrally acting appetite suppressant allergy
+309,DF-112D6,Cephalexin allergy
+310,DF-112D3,Cephalosporin allergy
+311,DF-112D7,Cephalothin allergy
+312,DF-112DE,Cephamandole allergy
+313,DF-112EB,Cephamycin allergy
+314,DF-112D8,Cephazolin allergy
+315,DF-112D9,Cephradine allergy
+316,DF-1113B,Cetirizine allergy
+317,DF-11276,Cetrimide allergy
+318,DF-1127A,Cetylpyridinium allergy
+319,DF-111CE,Charcoal-activated allergy
+320,DF-111DF,Chelating agent allergy
+321,DF-111CB,Chelating agents and antidotes allergy
+322,DF-10F7E,Chenodeoxycholic acid allergy
+323,DF-10F81,Chenodeoxycholic and ursodeoxycholic acid allergy
+324,DF-1104B,Chloral hydrate allergy
+325,DF-1104A,Chloral sedative allergy
+326,DF-10FAC,Chlorambucil allergy
+327,DF-1130F,Chloramphenicol allergy
+328,DF-1103D,Chlordiazepoxide allergy
+329,DF-11270,Chlorhexidine allergy
+330,DF-11271,Chlorhexidine hydrochloride and neomycin sulfate allergy
+331,DF-1132E,Chlorinated pesticide allergy
+332,DF-1125F,Chlorinated phenol disinfectant allergy
+333,DF-1125A,Chlorinated solutions allergy
+334,DF-1104F,Chlormethiazole allergy
+335,DF-10FB2,Chlormethine allergy
+336,DF-1102B,Chlormezanone allergy
+337,DF-1124B,Chloroquine allergy
+338,DF-100BD,Chlorothiazide allergy
+339,DF-11260,Chloroxylenol allergy
+340,DF-11148,Chlorphenamine allergy
+341,DF-11066,Chlorpromazine allergy
+342,DF-11394,Chlorpropamide allergy
+343,DF-1106E,Chlorprothixene allergy
+344,DF-1130C,Chlortetracycline allergy
+345,DF-100DB,Chlorthalidone allergy
+346,DF-1009E,Cholestyramine allergy
+347,DF-11165,Choline theophyllinate allergy
+348,DF-111D5,Cholinesterase reactivator allergy
+349,DF-1013B,Chymotrypsin allergy
+350,DF-112BA,Ciclacillin allergy
+351,DF-100ED,Cilazapril allergy
+352,DF-10F4D,Cimetidine allergy
+353,DF-10F93,Cinchocaine allergy
+354,DF-1124E,Cinchona antimalarial allergy
+355,DF-11149,Cinnarizine allergy
+356,DF-112A5,Cinoxacin allergy
+357,DF-100A3,Ciprofibrate allergy
+358,DF-112A7,Ciprofloxacin allergy
+359,DF-10F62,Cisapride allergy
+360,DF-10FCD,Cisplatin allergy
+361,DF-11010,Citalopram allergy
+362,DF-111F7,Citrate allergy
+363,DF-11297,Clarithromycin allergy
+364,DF-100AC,Class I antiarrhythmic allergy
+365,DF-100B5,Class II antiarrhythmic allergy
+366,DF-100B7,Class III antiarrhythmic allergy
+367,DF-100B9,Class IV antiarrhythmic allergy
+368,DF-1113D,Clemastine allergy
+369,DF-112EF,Clindamycin allergy
+370,DF-1131A,Clioquinol allergy
+371,DF-1103E,Clobazam allergy
+372,DF-11370,Clobetasol allergy
+373,DF-11371,Clobetasone allergy
+374,DF-11328,Clofazimine allergy
+375,DF-100A1,Clofibrate allergy
+376,DF-113D6,Clomiphene allergy
+377,DF-10FFE,Clomipramine allergy
+378,DF-11306,Clomocycline sodium allergy
+379,DF-11026,Clonazepam allergy
+380,DF-11101,Clonidine allergy
+381,DF-11357,Clostridium botulinum toxin allergy
+382,DF-11225,Clotrimazole allergy
+383,DF-112B4,Cloxacillin allergy
+384,DF-11053,Clozapine allergy
+385,DF-10FEA,Co-beneldopa allergy
+386,DF-10FEB,Co-careldopa allergy
+387,DF-10106,Co-dergocrine allergy
+388,DF-1116F,Coal tar allergy
+389,DF-11171,Coal tar bath preparations allergy
+390,DF-11170,Coal tar scalp preparations allergy
+391,DF-10F96,Cocaine allergy
+392,DF-10F19,Codeine allergy
+393,DF-1119D,Colchicine allergy
+394,DF-1119C,Colchicum alkaloid allergy
+395,DF-1009D,Colestipol allergy
+396,DF-11131,Colfosceril allergy
+397,DF-112D0,Colistin allergy
+398,DF-1005C,Collagen allergy
+399,DF-11185,Collodion allergy
+400,DF-10FA0,Colony stimulating factors allergy
+401,DF-113BC,Combined oral contraceptive allergy
+402,DF-112C8,Combined penicillin preparation allergy
+403,DF-11303,Combined sulfonamides allergy
+404,DF-11009,Compound antidepressants allergy
+405,DF-11160,Compound cough suppressant allergy
+406,DF-10064,Compound iron preparations allergy
+407,DF-1130B,Compound tetracycline preparations allergy
+408,DF-113D3,Conjugated estrogens allergy
+409,DF-10F41,Contrast media allergy
+410,DF-11360,Corticosteroids allergy
+411,DF-113E3,Corticotrophic hormone allergy
+412,DF-11372,Cortisone allergy
+413,DF-1115A,Cough suppressant allergy
+414,DF-11159,Cough/decongestant preparation allergy
+415,DF-10053,Coumarin anticoagulant allergy
+416,DF-11186,Counter irritants allergy
+417,DF-10FD1,Crisantaspase allergy
+418,DF-11154,Cromoglycate and related antiallergenic allergy
+419,DF-1118E,Crotamiton allergy
+420,DF-11280,Crystal violet allergy
+421,DF-10083,Cyanocobalamin allergy
+422,DF-10126,Cyclandelate allergy
+423,DF-11141,Cyclizine allergy
+424,DF-11031,Cyclobarbitone allergy
+425,DF-113B3,Cyclofenil allergy
+426,DF-100BE,Cyclopenthiazide allergy
+427,DF-11116,Cyclopentolate allergy
+428,DF-10FAD,Cyclophosphamide allergy
+429,DF-11320,Cycloserine allergy
+430,DF-10FDF,Cyclosporin allergy
+431,DF-1114A,Cyproheptadine allergy
+432,DF-113BA,Cyproterone acetate and ethinylestradiol allergy
+433,DF-113BB,Cyproterone allergy
+434,DF-10FC8,Cytarabine allergy
+435,DF-10FB8,Cytotoxic antibiotic allergy
+436,DF-10FB7,Dacarbazine allergy
+437,DF-10FB9,Dactinomycin allergy
+438,DF-1004D,Dalteparin allergy
+439,DF-10051,Danaparoid sodium allergy
+440,DF-113B4,Danazol allergy
+441,DF-10F6A,Danthron allergy
+442,DF-111B3,Dantrolene allergy
+443,DF-11327,Dapsone allergy
+444,DF-100E6,Debrisoquine allergy
+445,DF-11098,Decarboxylase inhibitor allergy
+446,DF-10F7F,Dehydrocholic acid allergy
+447,DF-110D5,Demecarium allergy
+448,DF-1130D,Demeclocycline allergy
+449,DF-10138,Deoxyribonuclease allergy
+450,DF-111A5,Depolarizing muscle relaxant allergy
+451,DF-1127C,Dequalinium allergy
+452,DF-111E1,Desferrioxamine allergy
+453,DF-10F90,Desflurane allergy
+454,DF-10FFF,Desipramine allergy
+455,DF-11181,Desloughing agents allergy
+456,DF-113DF,Desmopressin allergy
+457,DF-11368,Desonide allergy
+458,DF-11369,Desoxymethasone allergy
+459,DF-11379,Dexamethasone allergy
+460,DF-1109F,Dexamphetamine allergy
+461,DF-10FE5,Dexfenfluramine allergy
+462,DF-10033,Dextran allergy
+463,DF-1115D,Dextromethorphan hydrobromide allergy
+464,DF-10F13,Dextromoramide allergy
+465,DF-10F14,Dextropropoxyphene allergy
+466,DF-10098,Dextrothyroxine sodium allergy
+467,DF-10F3E,Diagnostic agent allergy
+468,DF-10F45,Diagnostic dye allergy
+469,DF-111F0,Dialysis fluid allergy
+470,DF-11315,Diamidine antiprotozoal allergy
+471,DF-10F1A,Diamorphine allergy
+472,DF-11045,Diazepam allergy
+473,DF-1010F,Diazoxide allergy
+474,DF-1126E,Dibromopropamidine isethionate allergy
+475,DF-1104C,Dichloralphenazone allergy
+476,DF-11317,Dichloroacetamide antiprotozoal allergy
+477,DF-100E1,Dichlorphenamide allergy
+478,DF-10F29,Diclofenac allergy
+479,DF-111E3,Dicobalt edetate allergy
+480,DF-10F78,Dicycloverine allergy
+481,DF-11235,Didanosine allergy
+482,DF-113CD,Dienestrol allergy
+483,DF-11288,Diethylcarbamazine allergy
+484,DF-10FE6,Diethylpropion allergy
+485,DF-11373,Diflucortolone allergy
+486,DF-100FA,Digitoxin allergy
+487,DF-100F9,Digoxin allergy
+488,DF-111D1,Digoxin-specific-antibody allergy
+489,DF-10F1B,Dihydrocodeine allergy
+490,DF-10108,Dihydroergotamine mesylate allergy
+491,DF-11318,Diloxanide allergy
+492,DF-110CC,Diltiazem allergy
+493,DF-11142,Dimenhydrinate allergy
+494,DF-111E0,Dimercaprol allergy
+495,DF-1120C,Dimethicone allergy
+496,DF-1114B,Dimethindene allergy
+497,DF-10FDD,Dimethyl sulfoxide allergy
+498,DF-111F6,Dimethyl-ether propane allergy
+499,DF-111C6,Dinoprost allergy
+500,DF-111C2,Dinoprostone allergy
+501,DF-1114C,Diphenhydramine allergy
+502,DF-1105C,Diphenylbutylpiperidine allergy
+503,DF-1114D,Diphenylpyraline allergy
+504,DF-11342,Diphtheria and tetanus and pertussis vaccine allergy
+505,DF-11341,Diphtheria and tetanus vaccine allergy
+506,DF-11359,Diphtheria antitoxin allergy
+507,DF-11340,Diphtheria single antigen vaccine allergy
+508,DF-1133F,Diphtheria vaccines allergy
+509,DF-10F15,Dipipanone allergy
+510,DF-11103,Dipivefrine allergy
+511,DF-10113,Dipyridamole allergy
+512,DF-10049,Direct acting anticoagulant allergy
+513,DF-1127D,Disinfectant dye allergy
+514,DF-11254,Disinfectants and cleansers allergy
+515,DF-111E6,Disodium edetate allergy
+516,DF-113F9,Disodium etidronate allergy
+517,DF-113FC,Disodium etidronate and calcium carbonate allergy
+518,DF-113FA,Disodium pamidronate allergy
+519,DF-100AD,Disopyramide allergy
+520,DF-110D6,Distigmine allergy
+521,DF-110A1,Disulfiram allergy
+522,DF-11173,Dithranol allergy
+523,DF-11175,Dithranol cream allergy
+524,DF-11174,Dithranol ointment allergy
+525,DF-11176,Dithranol paste allergy
+526,DF-100BA,Diuretic allergy
+527,DF-110F7,Dobutamine allergy
+528,DF-10F72,Docusate allergy
+529,DF-11278,Domiphen allergy
+530,DF-10F65,Domperidone allergy
+531,DF-11104,Dopamine allergy
+532,DF-10FE8,Dopaminergic drug used in parkinsonism allergy
+533,DF-110F8,Dopexamine allergy
+534,DF-11122,Dornase alfa allergy
+535,DF-11000,Dosulepin allergy
+536,DF-1112C,Doxapram allergy
+537,DF-110BC,Doxazosin allergy
+538,DF-10FF7,Doxepin allergy
+539,DF-10FBF,Doxorubicin allergy
+540,DF-11307,Doxycycline allergy
+541,DF-1105A,Droperidol allergy
+542,DF-113AF,Drostanolone propionate allergy
+543,DF-1116D,Dusting powders allergy
+544,DF-113A4,Dydrogesterone allergy
+545,DF-111C1,E series prostaglandin allergy
+546,DF-111F9,Ear wax removal preparation allergy
+547,DF-11228,Econazole allergy
+548,DF-110D7,Ecothiopate allergy
+549,DF-111E2,Edetate allergy
+550,DF-110D8,Edrophonium allergy
+551,DF-10092,Electrolyte anion allergy
+552,DF-1110D,Emepronium bromide allergy
+553,DF-11187,Emollient allergy
+554,DF-1116C,Emollient bath additives allergy
+555,DF-100EF,Enalapril allergy
+556,DF-11184,Enbucrilate allergy
+557,DF-10F8B,Enflurane allergy
+558,DF-112A8,Enoxacin allergy
+559,DF-1004C,Enoxaparin allergy
+560,DF-100FF,Enoximone allergy
+561,DF-11105,Ephedrine allergy
+562,DF-10FC0,Epirubicin allergy
+563,DF-11403,Epoetin alfa allergy
+564,DF-11404,Epoetin beta allergy
+565,DF-111C9,Epoprostenol allergy
+566,DF-113D7,Ergoline drug allergy
+567,DF-10109,Ergometrine allergy
+568,DF-10107,Ergot alkaloid allergy
+569,DF-11402,Erythropoietin allergy
+570,DF-110AA,Esmolol allergy
+571,DF-113C6,Estradiol allergy
+572,DF-113C8,Estradiol implant allergy
+573,DF-10FB1,Estramustine allergy
+574,DF-113D2,Estriol allergy
+575,DF-113C5,Estrogen allergy
+576,DF-113D5,Estrogen and progestogen preparation allergy
+577,DF-10FD5,Estrogen antagonist allergy
+578,DF-100C6,Ethacrynic acid allergy
+579,DF-11325,Ethambutolol allergy
+580,DF-1112B,Ethamivan allergy
+581,DF-10059,Ethamsylate allergy
+582,DF-10131,Ethanolamine allergy
+583,DF-10F8C,Ether anesthetic allergy
+584,DF-113D1,Ethinylestradiol allergy
+585,DF-10FAE,Ethoglucid allergy
+586,DF-11025,Ethosuximide allergy
+587,DF-113AA,Ethynodiol diacetate allergy
+588,DF-10F2A,Etodolac allergy
+589,DF-10F85,Etomidate allergy
+590,DF-10FCA,Etoposide allergy
+591,DF-11196,Etretinate allergy
+592,DF-11162,Expectorant allergy
+593,DF-111C5,F series prostaglandin allergy
+594,DF-10041,Factor IX by-passing fraction products allergy
+595,DF-1003D,Factor IX fraction products allergy
+596,DF-10042,Factor V concentrate products allergy
+597,DF-10043,Factor VII concentrate products allergy
+598,DF-10044,Factor VIII by-passing fraction products allergy
+599,DF-1003C,Factor VIII fraction products allergy
+600,DF-10045,Factor XI products allergy
+601,DF-10046,Factor XIII products allergy
+602,DF-11234,Famciclovir allergy
+603,DF-10F4E,Famotidine allergy
+604,DF-10075,Fat soluble vitamin allergy
+605,DF-10F2B,Felbinac allergy
+606,DF-110C8,Felodipine allergy
+607,DF-10F2C,Fenbufen allergy
+608,DF-10FE7,Fenfluramine allergy
+609,DF-100A2,Fenofibrate allergy
+610,DF-10F2D,Fenoprofen allergy
+611,DF-110EF,Fenoterol allergy
+612,DF-10F21,Fentanyl allergy
+613,DF-11226,Fenticonazole allergy
+614,DF-10067,Ferrous fumarate allergy
+615,DF-10068,Ferrous gluconate allergy
+616,DF-10069,Ferrous glycine sulfate allergy
+617,DF-1006C,Ferrous phosphate allergy
+618,DF-10066,Ferrous salt allergy
+619,DF-1006A,Ferrous succinate allergy
+620,DF-1006B,Ferrous sulfate allergy
+621,DF-11445,Fibrate antihyperlipidemic allergy
+622,DF-10FA3,Filgrastim allergy
+623,DF-113B7,Finasteride allergy
+624,DF-112D4,First generation cephalosporin allergy
+625,DF-111FF,Fixed oil allergy
+626,DF-111B9,Flavoxate allergy
+627,DF-100AF,Flecainide allergy
+628,DF-1010E,Flosequinan allergy
+629,DF-11374,Fluclorolone allergy
+630,DF-112B5,Flucloxacillin allergy
+631,DF-1122E,Fluconazole allergy
+632,DF-11218,Flucytosine allergy
+633,DF-10FD3,Fludarabine allergy
+634,DF-11375,Fludrocortisone allergy
+635,DF-1136C,Fludroxycortide allergy
+636,DF-111D4,Flumazenil allergy
+637,DF-11367,Flunisolide allergy
+638,DF-11035,Flunitrazepam allergy
+639,DF-11376,Fluocinolone allergy
+640,DF-1136A,Fluocinonide allergy
+641,DF-1136B,Fluocortolone allergy
+642,DF-10094,Fluoride allergy
+643,DF-11366,Fluorometholone allergy
+644,DF-10FC9,Fluorouracil allergy
+645,DF-11011,Fluoxetine allergy
+646,DF-11095,Flupenthixol allergy
+647,DF-1106F,Flupenthixol decanoate allergy
+648,DF-11065,Fluphenazine allergy
+649,DF-11062,Fluphenazine decanoate allergy
+650,DF-11063,Fluphenazine enanthate allergy
+651,DF-11036,Flurazepam allergy
+652,DF-10F2E,Flurbiprofen allergy
+653,DF-1105E,Fluspirilene allergy
+654,DF-113B8,Flutamide allergy
+655,DF-11377,Fluticasone allergy
+656,DF-100A8,Fluvastatin allergy
+657,DF-11012,Fluvoxamine allergy
+658,DF-1007F,Folic acid allergy
+659,DF-10080,Folinic acid allergy
+660,DF-1126B,Formaldehyde allergy
+661,DF-10FD8,Formestane allergy
+662,DF-1123F,Foscarnet allergy
+663,DF-113CF,Fosfestrol allergy
+664,DF-112ED,Fosfomycin allergy
+665,DF-100F0,Fosinopril allergy
+666,DF-112E9,Fourth generation cephalosporin allergy
+667,DF-11293,Framycetin allergy
+668,DF-111DD,Fullers earth powder allergy
+669,DF-100C4,Furosemide allergy
+670,DF-112A2,Fusidic acid allergy
+671,DF-1101C,Gabapentin allergy
+672,DF-111AB,Gallamine allergy
+673,DF-11194,Gamolenic acid allergy
+674,DF-11233,Ganciclovir allergy
+675,DF-100F2,Ganglion-blocking drug allergy
+676,DF-111C3,Gemeprost allergy
+677,DF-10099,Gemfibrozil allergy
+678,DF-10F83,General anesthetic drug allergy
+679,DF-11295,Gentamicin allergy
+680,DF-113B5,Gestrinone allergy
+681,DF-113A6,Gestronol allergy
+682,DF-11395,Glibenclamide allergy
+683,DF-11396,Glibornuride allergy
+684,DF-11397,Gliclazide allergy
+685,DF-11398,Glipizide allergy
+686,DF-11399,Gliquidone allergy
+687,F-C3115,Glucagon allergy
+688,DF-11268,Glutaraldehyde allergy
+689,DF-11203,Glycerol allergy
+690,DF-11202,Glycerol/glycol/macrogol allergy
+691,DF-10115,Glyceryl trinitrate allergy
+692,DF-1011A,Glyceryl trinitrate spray allergy
+693,DF-111EF,Glycine allergy
+694,DF-11117,Glycopyrronium allergy
+695,DF-1139A,Glymidine allergy
+696,DF-111B4,Gold allergy
+697,DF-113E6,Gonad regulating hormone allergy
+698,DF-113E7,Gonadorelin allergy
+699,DF-113EC,Gonadotrophic hormone allergy
+700,DF-113EA,Goserelin allergy
+701,DF-1121E,Griseofulvin allergy
+702,DF-100E7,Guanethidine allergy
+703,DF-1139F,Guar gum allergy
+704,DF-11134,H1 antihistamine allergy
+705,DF-10F4C,H2 receptor antagonist allergy
+706,DF-11354,Haemophilus influenzae Type B vaccine allergy
+707,DF-1136D,Halcinonide allergy
+708,DF-11250,Halofantrine allergy
+709,DF-1105B,Haloperidol allergy
+710,DF-11059,Haloperidol decanoate allergy
+711,DF-10F8D,Halothane allergy
+712,DF-11401,Hematological agents allergy
+713,DF-111F2,Hemodialysis fluid allergy
+714,DF-111F3,Hemofiltration solution allergy
+715,DF-111F8,Hemorrhoid preparation allergy
+716,DF-10058,Hemostatic allergy
+717,DF-1004B,Heparin allergy
+718,DF-1004F,Heparinoid allergy
+719,DF-11353,Hepatitis A vaccine allergy
+720,DF-1133A,Hepatitis B immunoglobulin allergy
+721,DF-11343,Hepatitis B vaccine allergy
+722,DF-10031,Hetastarch allergy
+723,DF-11261,Hexachlorophane allergy
+724,DF-1129F,Hexamine hippurate allergy
+725,DF-11258,Hexetidine allergy
+726,DF-100A6,HMG COA reductase inhibitor allergy
+727,DF-11118,Homatropine allergy
+728,DF-111EA,Homeopathic medicine allergy
+729,DF-1135A,Hormones synthetic substitutes and antagonists allergy
+730,F-C3114,Human immunoglobulin allergy
+731,DF-11239,Human interferon gamma-1b allergy
+732,DF-1138D,Humulin insulin allergy
+733,DF-10139,Hyaluronidase allergy
+734,DF-11256,Hydragaphen allergy
+735,DF-10111,Hydralazine allergy
+736,DF-11323,Hydrazide antituberculosis drug allergy
+737,DF-100BF,Hydrochlorothiazide allergy
+738,DF-11362,Hydrocortisone allergy
+739,DF-100C0,Hydroflumethiazide allergy
+740,DF-111D7,Hydrofluoric acid burn antidote allergy
+741,DF-11282,Hydrogen peroxide allergy
+742,DF-10082,Hydroxocobalamin allergy
+743,DF-10FCE,Hydroxycarbamide allergy
+744,DF-1124A,Hydroxychloroquine allergy
+745,DF-11214,Hydroxyethylcellulose allergy
+746,DF-113A7,Hydroxyprogesterone allergy
+747,DF-11319,Hydroxyquinoline antiprotozoal allergy
+748,DF-1114E,Hydroxyzine allergy
+749,DF-11111,Hyoscine allergy
+750,DF-10F74,Hyoscine butylbromide allergy
+751,DF-11112,Hyoscine hydrobromide allergy
+752,DF-113DD,Hypothalamic/pituitary hormone allergy
+753,DF-11212,Hypromellose allergy
+754,DF-11213,Hypromellose eye drops allergy
+755,DF-111C8,I series prostaglandin allergy
+756,DF-10F2F,Ibuprofen allergy
+757,DF-11177,Ichthammol allergy
+758,DF-10FC1,Idarubicin allergy
+759,DF-11242,Idoxuridine allergy
+760,DF-11243,Idoxuridine in dimethylsulfoxide allergy
+761,DF-10FAF,Ifosfamide allergy
+762,DF-11224,Imidazole antifungal allergy
+763,DF-11001,Imipramine allergy
+764,DF-11336,Immunoglobulin products allergy
+765,DF-10F9D,Immunostimulant allergy
+766,DF-10FDE,Immunosuppressant allergy
+767,DF-10056,Indanedione anticoagulant allergy
+768,DF-100DC,Indapamide allergy
+769,DF-10052,Indirect acting anticoagulant allergy
+770,DF-10F30,Indomethacin allergy
+771,DF-110BD,Indoramin allergy
+772,DF-11266,Industrial methylated spirit allergy
+773,DF-11345,Influenza split virion vaccine allergy
+774,DF-11346,Influenza surface antigen vaccine allergy
+775,DF-11344,Influenza vaccine allergy
+776,DF-10F8A,Inhalational anesthetics allergy
+777,DF-110FB,Inhaled isoprenaline allergy
+778,DF-11231,Inosine pranobex allergy
+779,DF-10086,Inositol allergy
+780,DF-10128,Inositol nicotinate allergy
+781,DF-11384,Insulin allergy
+782,DF-11388,Insulin zinc suspension (amorphous) allergy
+783,DF-11389,Insulin zinc suspension (crystalline) allergy
+784,DF-11387,Insulin zinc suspension allergy
+785,DF-1123A,Interferon-A-2a allergy
+786,DF-1123B,Interferon-A-2b allergy
+787,DF-1123C,Interferon-A-N1 allergy
+788,DF-11238,Interferons allergy
+789,DF-11337,Intramuscular immunoglobulin allergy
+790,DF-113C2,Intramuscular testosterone allergy
+791,DF-10F84,Intravenous anesthetics allergy
+792,DF-11338,Intravenous immunoglobulin allergy
+793,DF-1006F,Iodine allergy
+794,DF-1006E,Iodine compounds allergy
+795,DF-10071,Iodophore allergy
+796,DF-1008A,Ion exchange resin allergy
+797,DF-111CD,Ipecacuanha allergy
+798,DF-11119,Ipratropium allergy
+799,DF-10FF8,Iprindole allergy
+800,DF-11005,Iproniazid allergy
+801,DF-1005F,Iron allergy
+802,DF-10061,Iron and folic acid allergy
+803,DF-10065,Iron sorbitol allergy
+804,DF-1115B,Isoaminile allergy
+805,DF-11006,Isocarboxazid allergy
+806,DF-11229,Isoconazole allergy
+807,DF-110DE,Isoetharine hydrochloride allergy
+808,DF-10F8E,Isoflurane allergy
+809,DF-11324,Isoniazid allergy
+810,DF-1138A,Isophane insulin allergy
+811,DF-110F9,Isoprenaline allergy
+812,DF-1011B,Isosorbide dinitrate allergy
+813,DF-1011F,Isosorbide mononitrate allergy
+814,DF-11199,Isotretinoin allergy
+815,DF-10129,Isoxsuprine allergy
+816,DF-110C7,Isradipine allergy
+817,DF-1122F,Itraconazole allergy
+818,DF-11290,Kanamycin allergy
+819,DF-10F60,Kaolin allergy
+820,DF-10F86,Ketamine allergy
+821,DF-11040,Ketazolam allergy
+822,DF-1122B,Ketoconazole allergy
+823,DF-10F31,Ketoprofen allergy
+824,DF-10F32,Ketorolac allergy
+825,DF-11157,Ketotifen allergy
+826,DF-1006D,L-Carnitine allergy
+827,DF-110B2,Labetalol allergy
+828,DF-1110F,Lachesine chloride allergy
+829,DF-110C9,Lacidipine allergy
+830,DF-11252,Lactobacill acidophil vaccine allergy
+831,DF-10F6C,Lactulose allergy
+832,DF-1101A,Lamotrigine allergy
+833,DF-100FB,Lanatoside C allergy
+834,DF-10F53,Lansoprazole allergy
+835,DF-112DA,Latamoxef allergy
+836,DF-10F68,Laxative allergy
+837,DF-10FA2,Lenograstim allergy
+838,DF-113ED,Leuprorelin allergy
+839,DF-10FA4,Levamisole allergy
+840,DF-110B3,Levobunolol allergy
+841,DF-10FE9,Levodopa allergy
+842,DF-11060,Levomepromazine allergy
+843,DF-113AB,Levonorgestrel allergy
+844,DF-10F25,Levorphanol allergy
+845,DF-10F95,Lidocaine allergy
+846,DF-110C4,Lidoflazine allergy
+847,DF-112F0,Lincomycin allergy
+848,DF-112EE,Lincomycin and derivatives allergy
+849,DF-1132F,Lindane allergy
+850,DF-113DB,Liothyronine allergy
+851,DF-1120A,Liquid paraffin allergy
+852,DF-100EA,Lisinopril allergy
+853,DF-10FF2,Lithium allergy
+854,DF-10FF3,Lithium carbonate allergy
+855,DF-10FF4,Lithium citrate allergy
+856,DF-10F91,Local anesthetic drug allergy
+857,DF-11158,Lodoxamide allergy
+858,DF-10FF9,Lofepramine allergy
+859,DF-11102,Lofexidine allergy
+860,DF-10FB5,Lomustine allergy
+861,DF-100C3,Loop diuretic allergy
+862,DF-10F5F,Loperamide allergy
+863,DF-11037,Loprazolam allergy
+864,DF-11139,Loratadine allergy
+865,DF-11046,Lorazepam allergy
+866,DF-11038,Lormetazepam allergy
+867,DF-100F5,Losartan allergy
+868,DF-11052,Loxapine allergy
+869,DF-11204,Lubricant allergy
+870,DF-11308,Lymecycline allergy
+871,DF-113E0,Lypressin allergy
+872,DF-10FEE,Lysuride allergy
+873,DF-11301,Mafenide allergy
+874,DF-10F6D,Magnesium sulfate allergy
+875,DF-10F5C,Magnesium trisilicate allergy
+876,DF-10F43,Magnetic resonance imaging contrast media allergy
+877,DF-11331,Malathion allergy
+878,DF-112F1,Mandelic acid allergy
+879,DF-100D7,Mannitol allergy
+880,DF-11014,Maprotiline allergy
+881,DF-10FE3,Mazindol allergy
+882,DF-11352,Measles/mumps/rubella vaccine allergy
+883,DF-1128A,Mebendazole allergy
+884,DF-10F77,Mebeverine allergy
+885,DF-1113E,Mebhydrolin allergy
+886,DF-112C6,Mecillinam allergy
+887,DF-11143,Meclozine hydrochloride allergy
+888,DF-11041,Medazepam allergy
+889,DF-10132,Medicinal enzyme allergy
+890,DF-100FC,Medigoxin allergy
+891,DF-113AC,Medroxyprogesterone allergy
+892,DF-10F33,Mefenamic acid allergy
+893,DF-11249,Mefloquine allergy
+894,DF-100DD,Mefruside allergy
+895,DF-113A8,Megestrol allergy
+896,DF-10FB0,Melphalan allergy
+897,DF-11355,Meningococcal polysaccharide vaccine allergy
+898,DF-11251,Mepacrine allergy
+899,DF-10F79,Mepenzolate allergy
+900,DF-11049,Meprobamate allergy
+901,DF-10F24,Meptazinol allergy
+902,DF-1114F,Mepyramine allergy
+903,DF-1113F,Mequitazine allergy
+904,DF-10FC5,Mercaptopurine allergy
+905,DF-100D8,Mercurial diuretic allergy
+906,DF-10FC3,Mercuric oxide allergy
+907,DF-100D9,Mersalyl allergy
+908,DF-10F57,Mesalazine allergy
+909,DF-111D2,Mesna allergy
+910,DF-113BE,Mesterolone allergy
+911,DF-113D0,Mestranol allergy
+912,DF-110E3,Metaraminol allergy
+913,DF-1139E,Metformin allergy
+914,DF-110D2,Methacholine allergy
+915,DF-10F16,Methadone allergy
+916,DF-10F12,Methadone analog allergy
+917,DF-112B6,Methicillin allergy
+918,DF-1111A,Methixene allergy
+919,DF-111B2,Methocarbamol allergy
+920,DF-10F89,Methohexitone allergy
+921,DF-10FC4,Methotrexate allergy
+922,DF-110E4,Methoxamine allergy
+923,DF-100C1,Methyclothiazide allergy
+924,DF-11127,Methylcysteine allergy
+925,DF-110FE,Methyldopa allergy
+926,DF-110FF,Methyldopa and diuretic allergy
+927,DF-1109C,Methylphenidate allergy
+928,DF-1101F,Methylphenobarbitone allergy
+929,DF-1137C,Methylprednisolone allergy
+930,DF-113BF,Methyltestosterone allergy
+931,DF-1102C,Methyprylone allergy
+932,DF-110B0,Metipranolol allergy
+933,DF-100F4,Metirosine allergy
+934,DF-10F66,Metoclopramide allergy
+935,DF-100DE,Metolazone allergy
+936,DF-110AB,Metoprolol allergy
+937,DF-112F5,Metronidazole allergy
+938,DF-100B0,Mexiletine allergy
+939,DF-112BB,Mezlocillin allergy
+940,DF-11015,Mianserin allergy
+941,DF-1122C,Miconazole allergy
+942,DF-11044,Midazolam allergy
+943,DF-111BB,Mifepristone allergy
+944,DF-10102,Milrinone allergy
+945,DF-11309,Minocycline allergy
+946,DF-1010C,Minoxidil allergy
+947,DF-10F4B,Misoprostol allergy
+948,DF-10FA7,Mitobronitol allergy
+949,DF-10FBB,Mitomycin allergy
+950,DF-10FBE,Mitoxantrone allergy
+951,DF-111A8,Mivacurium allergy
+952,DF-11008,Moclobemide allergy
+953,DF-10117,Modified release glyceryl trinitrate allergy
+954,DF-1011E,Modified release isosorbide dinitrate allergy
+955,DF-10121,Modified release isosorbide mononitrate allergy
+956,DF-10FA1,Molgramostim allergy
+957,DF-11378,Mometasone allergy
+958,DF-11003,Monoamine oxidase inhibitor allergy
+959,DF-112F2,Monobactam allergy
+960,DF-1132B,Monosulfiram allergy
+961,DF-100B1,Moracizine allergy
+962,DF-1115C,Morphinan cough suppressant allergy
+963,DF-10F17,Morphinan opioid allergy
+964,DF-10F1D,Morphine allergy
+965,DF-10F61,Motility stimulant allergy
+966,DF-1012D,Moxisylyte allergy
+967,DF-11123,Mucolytics allergy
+968,DF-11347,Mumps vaccine allergy
+969,DF-112A0,Mupirocin allergy
+970,DF-10F64,Nabilone allergy
+971,DF-10F34,Nabumetone allergy
+972,DF-110AD,Nadolol allergy
+973,DF-113E8,Nafarelin allergy
+974,DF-1012A,Naftidrofuryl allergy
+975,DF-10F1C,Nalbuphine allergy
+976,DF-112A6,Nalidixic acid allergy
+977,DF-111DA,Naloxone allergy
+978,DF-111D9,Naltrexone allergy
+979,DF-113B1,Nandrolone allergy
+980,DF-110E5,Naphazoline allergy
+981,DF-10F35,Naproxen allergy
+982,DF-11220,Natamycin allergy
+983,DF-11155,Nedocromil allergy
+984,DF-1100F,Nefazodone allergy
+985,DF-10F36,Nefopam allergy
+986,DF-11294,Neomycin allergy
+987,DF-11425,Neomycin sulfate allergy
+988,DF-110DA,Neostigmine allergy
+989,DF-11291,Netilmicin allergy
+990,DF-11050,Neuroleptic allergy
+991,DF-111A4,Neuromuscular transmission drug allergy
+992,DF-10084,Niacinamide allergy
+993,DF-110CD,Nicardipine allergy
+994,DF-11286,Niclosamide allergy
+995,DF-10127,Nicofuranose allergy
+996,DF-10112,Nicorandil allergy
+997,DF-110C2,Nicotine allergy
+998,DF-1007E,Nicotinic acid allergy
+999,DF-1012B,Nicotinyl alcohol allergy
+1000,DF-110C5,Nifedipine allergy
+1001,DF-1112A,Nikethamide allergy
+1002,DF-110CA,Nimodipine allergy
+1003,DF-112F7,Nimorazole allergy
+1004,DF-10114,Nitrate vasodilator allergy
+1005,DF-11039,Nitrazepam allergy
+1006,DF-1129E,Nitrofurantoin allergy
+1007,DF-112A1,Nitrofurazone allergy
+1008,DF-10FAB,Nitrogen mustard derivative allergy
+1009,DF-112F4,Nitroimidazole allergy
+1010,DF-1121A,Nitrophenol allergy
+1011,DF-10FB3,Nitrosurea allergy
+1012,DF-10F4F,Nizatidine allergy
+1013,DF-110AC,Non-cardioselective beta-blocker allergy
+1014,DF-111A7,Non-depolarizing muscle relaxant allergy
+1015,DF-111BC,Non-ionic surfactant allergy
+1016,DF-10F0B,Non-opioid analgesic allergy
+1017,DF-11135,Non-sedating antihistamine allergy
+1018,DF-10F26,Non-steroidal anti-inflammatory drug allergy
+1019,DF-111BD,Nonoxinol allergy
+1020,DF-110E6,Norepinephrine allergy
+1021,DF-113A9,Norethisterone allergy
+1022,DF-112AA,Norfloxacin allergy
+1023,DF-10FFA,Nortriptyline allergy
+1024,DF-1115E,Noscapine allergy
+1025,DF-1126A,Noxythiolin allergy
+1026,DF-11221,Nystatin allergy
+1027,DF-111BE,Octoxinol allergy
+1028,DF-113F2,Octreotide allergy
+1029,DF-112A9,Ofloxacin allergy
+1030,DF-10F59,Olsalazine allergy
+1031,DF-100A5,Omega 3-marine triglycerides allergy
+1032,DF-10F52,Omeprazole allergy
+1033,DF-10F0F,Opioid analgesic allergy
+1034,DF-111D8,Opioid antagonist allergy
+1035,DF-10F1E,Opium alkaloid allergy
+1036,DF-113C7,Oral estradiol allergy
+1037,DF-10116,Oral glyceryl trinitrate allergy
+1038,DF-11391,Oral hypoglycemic allergy
+1039,DF-110FA,Oral isoprenaline allergy
+1040,DF-1011D,Oral isosorbide dinitrate allergy
+1041,DF-10090,Oral potassium allergy
+1042,DF-113C3,Oral testosterone allergy
+1043,DF-110F0,Orciprenaline allergy
+1044,DF-11330,Organophosphate pesticide allergy
+1045,DF-111FC,Oropharyngeal preparations allergy
+1046,DF-1111B,Orphenadrine allergy
+1047,DF-1111D,Orphenadrine citrate allergy
+1048,DF-1111C,Orphenadrine hydrochloride allergy
+1049,DF-100D6,Osmotic diuretic allergy
+1050,DF-100FD,Ouabain allergy
+1051,DF-11140,Oxatomide allergy
+1052,DF-11042,Oxazepam allergy
+1053,DF-110E2,Oxedrine tartrate allergy
+1054,DF-10B0D,Oxitropium adverse reaction
+1055,DF-1111E,Oxitropium allergy
+1056,DF-110B4,Oxprenolol allergy
+1057,DF-10F99,Oxybuprocaine allergy
+1058,DF-1111F,Oxybutynin allergy
+1059,DF-11106,Oxymetazoline allergy
+1060,DF-113B0,Oxymetholone allergy
+1061,DF-11096,Oxypertine allergy
+1062,DF-10F37,Oxyphenbutazone allergy
+1063,DF-1130A,Oxytetracycline allergy
+1064,DF-113EF,Oxytocin allergy
+1065,DF-113F0,Oxytocin and ergometrine allergy
+1066,DF-10FD2,Paclitaxel allergy
+1067,DF-10F56,Pancreatin allergy
+1068,DF-111AC,Pancuronium allergy
+1069,DF-111B8,Papaverine allergy
+1070,DF-11207,Paraffin allergy
+1071,DF-11209,Paraffin-white soft allergy
+1072,DF-11208,Paraffin-yellow soft allergy
+1073,DF-1102D,Paraldehyde allergy
+1074,DF-110CF,Parasympathomimetic allergy
+1075,DF-10118,Parenteral glyceryl trinitrate allergy
+1076,DF-110FC,Parenteral isoprenaline allergy
+1077,DF-1011C,Parenteral isosorbide dinitrate allergy
+1078,DF-10091,Parenteral potassium allergy
+1079,DF-1100E,Paroxetine allergy
+1080,DF-1109B,Pemoline allergy
+1081,DF-110B5,Penbutolol allergy
+1082,DF-111E8,Penicillamine allergy
+1083,91936005,Penicillin allergy
+1084,DF-112B3,Penicillinase-resistant penicillins allergy
+1085,DF-112AC,Penicillinase-sensitive penicillins allergy
+1086,DF-10122,Pentaerythritol tetranitrate allergy
+1087,DF-11316,Pentamidine allergy
+1088,DF-10032,Pentastarch allergy
+1089,DF-10F10,Pentazocine allergy
+1090,DF-10FC7,Pentostatin allergy
+1091,DF-10125,Pentoxifylline allergy
+1092,DF-10F75,Peppermint oil allergy
+1093,DF-10035,Perfluorochemical allergy
+1094,DF-10FEF,Pergolide allergy
+1095,DF-11061,Pericyazine allergy
+1096,DF-100F1,Perindopril allergy
+1097,DF-10123,Peripheral/cerebral vasodilator allergy
+1098,DF-111F1,Peritoneal dialysis solution allergy
+1099,DF-11334,Permethrin allergy
+1100,DF-1106A,Perphenazine allergy
+1101,DF-11348,Pertussis vaccine allergy
+1102,DF-11329,Pesticide allergy
+1103,DF-10F22,Pethidine allergy
+1104,DF-10F1F,Pethidine analog allergy
+1105,F-C3129,Pharmaceutical fluid or solution allergy
+1106,DF-10F11,Phenazocine allergy
+1107,DF-11004,Phenelzine allergy
+1108,DF-112AF,Phenethicillin allergy
+1109,DF-11150,Phenindamine allergy
+1110,DF-10057,Phenindione allergy
+1111,DF-11151,Pheniramine allergy
+1112,DF-11020,Phenobarbitone allergy
+1113,DF-11263,Phenol allergy
+1114,DF-1125D,Phenolics allergy
+1115,DF-10F23,Phenoperidine allergy
+1116,DF-1105F,Phenothiazine allergy
+1117,DF-11443,Phenothiazine derivative allergy
+1118,DF-11333,Phenothrin allergy
+1119,DF-110BE,Phenoxybenzamine allergy
+1120,DF-112B0,Phenoxymethylpenicillin allergy
+1121,DF-10FE4,Phentermine allergy
+1122,DF-110BF,Phentolamine allergy
+1123,DF-10F38,Phenylbutazone allergy
+1124,DF-110E7,Phenylephrine allergy
+1125,DF-110DF,Phenylpropanolamine hydrochloride allergy
+1126,DF-11024,Phenytoin allergy
+1127,DF-1115F,Pholcodine allergy
+1128,DF-100FE,Phosphodiesterase inhibitor allergy
+1129,DF-1112F,Phospholipid fraction allergy
+1130,DF-112F9,Phthalylsulfathiazole allergy
+1131,DF-110D4,Physostigmine allergy
+1132,DF-110D0,Pilocarpine allergy
+1133,DF-1105D,Pimozide allergy
+1134,DF-110AE,Pindolol allergy
+1135,DF-10F7A,Pipenzolate allergy
+1136,DF-112C2,Piperacillin allergy
+1137,DF-112CC,Piperacillin and tazobactam allergy
+1138,DF-11284,Piperazine allergy
+1139,DF-113CA,Piperazine estrone sulfate allergy
+1140,DF-1110B,Piperidolate hydrochloride allergy
+1141,DF-11067,Pipothiazine allergy
+1142,DF-1101B,Piracetam allergy
+1143,DF-110EB,Pirbuterol allergy
+1144,DF-10F55,Pirenzepine allergy
+1145,DF-100C7,Piretanide allergy
+1146,DF-10F39,Piroxicam allergy
+1147,DF-112BC,Pivampicillin allergy
+1148,DF-112CD,Pivampicillin and pivmecillinam allergy
+1149,DF-112C7,Pivmecillinam allergy
+1150,DF-10037,Plasma protein solution allergy
+1151,DF-11405,Plasma substitutes allergy
+1152,DF-10FBC,Plicamycin allergy
+1153,DF-11349,Pneumococcal vaccine allergy
+1154,DF-1117D,Podophyllotoxin allergy
+1155,DF-1117C,Podophyllum resin allergy
+1156,DF-10F7B,Poldine allergy
+1157,DF-1134A,Poliomyelitis vaccine allergy
+1158,DF-113CE,Polyestradiol phosphate allergy
+1159,DF-112D1,Polymyxin B allergy
+1160,DF-112CF,Polymyxins allergy
+1161,DF-11257,Polynoxylin allergy
+1162,DF-10062,Polysaccharide iron complex allergy
+1163,DF-100C2,Polythiazide allergy
+1164,DF-1120F,Polyvinyl alcohol allergy
+1165,DF-1008F,Potassium allergy
+1166,DF-100CC,Potassium canrenoate allergy
+1167,DF-1103F,Potassium clorazepate allergy
+1168,DF-1125B,Potassium permanganate allergy
+1169,DF-100CF,Potassium sparing compound diuretic allergy
+1170,DF-100C9,Potassium sparing diuretic allergy
+1171,DF-11188,Poultices allergy
+1172,DF-10073,Povidone iodine allergy
+1173,DF-110B6,Practolol allergy
+1174,DF-111D6,Pralidoxime allergy
+1175,DF-100A9,Pravastatin allergy
+1176,DF-11043,Prazepam allergy
+1177,DF-110C0,Prazosin allergy
+1178,DF-1137D,Prednisolone allergy
+1179,DF-1137F,Prednisolone drops allergy
+1180,DF-11365,Prednisone allergy
+1181,DF-110C6,Prenylamine allergy
+1182,DF-10F94,Prilocaine allergy
+1183,DF-11248,Primaquine allergy
+1184,DF-11021,Primidone allergy
+1185,DF-1119F,Probenecid allergy
+1186,DF-1009A,Probucol allergy
+1187,DF-100B2,Procainamide allergy
+1188,DF-10F9A,Procaine allergy
+1189,DF-112B1,Procaine benzylpenicillin allergy
+1190,DF-10FCF,Procarbazine allergy
+1191,DF-1106B,Prochlorperazine allergy
+1192,DF-11120,Procyclidine allergy
+1193,DF-113A5,Progesterone allergy
+1194,DF-113A2,Progestogen allergy
+1195,DF-1124D,Proguanil allergy
+1196,DF-1109D,Prolintane allergy
+1197,DF-11068,Promazine allergy
+1198,DF-11145,Promethazine allergy
+1199,DF-100B3,Propafenone allergy
+1200,DF-1126D,Propamidine isethionate allergy
+1201,DF-10F7C,Propantheline allergy
+1202,DF-10F87,Propofol allergy
+1203,DF-110B7,Propranolol allergy
+1204,DF-11161,Proprietary decongestant allergy
+1205,DF-1135F,Propylthiouracil allergy
+1206,DF-111BF,Prostaglandin allergy
+1207,DF-111DB,Protamine allergy
+1208,DF-1138B,Protamine zinc insulin allergy
+1209,DF-113F5,Protirelin allergy
+1210,DF-10F51,Proton pump inhibitor allergy
+1211,DF-11002,Protriptyline allergy
+1212,DF-10F9B,Proxymetacaine allergy
+1213,DF-110E0,Pseudoephedrine allergy
+1214,DF-11130,Pumactant allergy
+1215,DF-11285,Pyrantel allergy
+1216,DF-1131D,Pyrazinamide allergy
+1217,DF-11332,Pyrethroid pesticides allergy
+1218,DF-110D9,Pyridostigmine allergy
+1219,DF-10087,Pyridoxine preparation allergy
+1220,DF-11245,Pyrimethamine allergy
+1221,DF-11275,Quaternary ammonium surfactant allergy
+1222,DF-11279,Quaternary pyridinium surfactant allergy
+1223,DF-1127B,Quaternary quinolinium surfactant allergy
+1224,DF-113D9,Quinagolide allergy
+1225,DF-11033,Quinalbarbitone allergy
+1226,DF-100EB,Quinapril allergy
+1227,DF-113CB,Quinestradol allergy
+1228,DF-113CC,Quinestrol allergy
+1229,DF-100AE,Quinidine allergy
+1230,DF-1124F,Quinine allergy
+1231,DF-1134B,Rabies vaccine allergy
+1232,DF-10F40,Radiopharmaceutical allergy
+1233,DF-100EC,Ramipril allergy
+1234,DF-10F50,Ranitidine allergy
+1235,DF-100F6,Rauwolfia antihypertensive allergy
+1236,DF-10FD0,Razoxane allergy
+1237,DF-11380,Rectal prednisolone preparations allergy
+1238,DF-11097,Remoxipride allergy
+1239,DF-110F1,Reproterol allergy
+1240,DF-11129,Respiratory stimulant allergy
+1241,DF-1112D,Respiratory surfactant allergy
+1242,DF-11195,Retinoid allergy
+1243,DF-11322,Rifabutin allergy
+1244,DF-11321,Rifampicin allergy
+1245,DF-110F2,Rimiterol allergy
+1246,DF-11054,Risperidone allergy
+1247,DF-110F3,Ritodrine allergy
+1248,DF-111AF,Rocuronium allergy
+1249,DF-1134C,Rubella vaccine allergy
+1250,DF-110ED,Salbutamol allergy
+1251,DF-10F0D,Salicylate allergy
+1252,DF-110EC,Salmeterol allergy
+1253,DF-113FF,Salmon calcitonin allergy
+1254,DF-112DB,Second generation cephalosporin allergy
+1255,DF-1113C,Sedating antihistamine allergy
+1256,DF-11028,Sedative allergy
+1257,DF-110F6,Selective beta-1 adrenoceptor stimulants allergy
+1258,DF-110EA,Selective beta-2 adrenoceptor stimulants allergy
+1259,DF-1100C,Selective serotonin re-uptake inhibitor allergy
+1260,DF-11099,Selegiline allergy
+1261,DF-10F71,Senna allergy
+1262,DF-1100D,Sertraline allergy
+1263,DF-113A1,Sex hormones allergy
+1264,DF-1120B,Silicone allergy
+1265,DF-11192,Silver nitrate allergy
+1266,DF-11302,Silver sulfadiazine allergy
+1267,DF-100A7,Simvastatin allergy
+1268,DF-111A3,Skeletal muscle relaxant allergy
+1269,DF-1134D,Smallpox vaccine allergy
+1270,DF-111B7,Smooth muscle relaxant allergy
+1271,DF-111B5,Sodium aurothiomalate allergy
+1272,DF-111E4,Sodium calcium edetate allergy
+1273,DF-1008C,Sodium cellulose phosphate allergy
+1274,DF-113FB,Sodium clodronate allergy
+1275,DF-11156,Sodium cromoglycate allergy
+1276,DF-10095,Sodium fluoride allergy
+1277,DF-11299,Sodium fusidate allergy
+1278,DF-111EE,Sodium hyaluronate allergy
+1279,DF-10063,Sodium ironedetate allergy
+1280,DF-111CF,Sodium nitrite allergy
+1281,DF-1010D,Sodium nitroprusside allergy
+1282,DF-11259,Sodium perborate allergy
+1283,DF-10F6B,Sodium picosulfate allergy
+1284,DF-1008E,Sodium polystyrene sulfonate allergy
+1285,DF-11314,Sodium stibogluconate allergy
+1286,DF-10130,Sodium tetradecyl sulfate allergy
+1287,DF-111D0,Sodium thiosulfate allergy
+1288,DF-1101D,Sodium valproate allergy
+1289,DF-11385,Soluble neutral insulin allergy
+1290,DF-113F1,Somatrophic hormone allergy
+1291,DF-110B8,Sotalol allergy
+1292,DF-1129A,Spectinomycin allergy
+1293,DF-100CD,Spironolactone allergy
+1294,DF-100D2,Spironolactone and loop diuretic allergy
+1295,DF-100D3,Spironolactone and thiazide diuretic allergy
+1296,DF-113B2,Stanozolol allergy
+1297,DF-113D4,Stilbestrol allergy
+1298,DF-10133,Streptokinase allergy
+1299,DF-1013A,Streptokinase streptodornase allergy
+1300,DF-11292,Streptomycin allergy
+1301,DF-11423,Streptomycin sulfate allergy
+1302,DF-10F49,Sucralfate allergy
+1303,DF-1122A,Sulconazole allergy
+1304,DF-11304,Sulfacetamide allergy
+1305,DF-112FB,Sulfadiazine allergy
+1306,DF-112FC,Sulfadimethoxine allergy
+1307,DF-112FD,Sulfadimidine allergy
+1308,DF-112FE,Sulfafurazole allergy
+1309,DF-112FF,Sulfaguanidine allergy
+1310,DF-11310,Sulfamethoxazole and trimethoprim allergy
+1311,DF-112FA,Sulfametopyrazine allergy
+1312,DF-10F5A,Sulfasalazine allergy
+1313,DF-11300,Sulfaurea allergy
+1314,DF-111A0,Sulfinpyrazone allergy
+1315,91939003,Sulfonamide allergy
+1316,DF-11442,Sulfonamide diuretic allergy
+1317,DF-11392,Sulfonylurea allergy
+1318,DF-11179,Sulfur allergy
+1319,DF-10F3A,Sulindac allergy
+1320,DF-11051,Sulpiride allergy
+1321,DF-1117E,Sunscreening preparations allergy
+1322,DF-11183,Surgical tissue adhesive allergy
+1323,DF-111A6,Suxamethonium allergy
+1324,DF-110DD,Sympathomimetic allergy
+1325,DF-112BF,Talampicillin allergy
+1326,DF-10FD7,Tamoxifen allergy
+1327,DF-1129C,Teicoplanin allergy
+1328,DF-112AB,Temafloxacin allergy
+1329,DF-11047,Temazepam allergy
+1330,DF-112C1,Temocillin allergy
+1331,DF-10F3B,Tenoxicam allergy
+1332,DF-110C1,Terazosin allergy
+1333,DF-11219,Terbinafine allergy
+1334,DF-110F4,Terbutaline allergy
+1335,DF-11137,Terfenadine allergy
+1336,DF-113E1,Terlipressin allergy
+1337,DF-1110E,Terodiline hydrochloride allergy
+1338,DF-111CA,Terpenes allergy
+1339,DF-113C0,Testosterone allergy
+1340,DF-113C1,Testosterone implant allergy
+1341,DF-113C4,Testosterone patch allergy
+1342,DF-1133B,Tetanus immunoglobulin allergy
+1343,DF-1134E,Tetanus vaccine allergy
+1344,DF-11055,Tetrabenazine allergy
+1345,DF-10F98,Tetracaine allergy
+1346,DF-113E5,Tetracosactrin allergy
+1347,DF-11013,Tetracyclic antidepressant drug allergy
+1348,DF-1130E,Tetracycline allergy
+1349,294592000,Tetracycline allergy
+1350,DF-11424,Tetracycline hydrochloride allergy
+1351,DF-11305,Tetracyclines group allergy
+1352,DF-11166,Theophylline allergy
+1353,DF-1128C,Thiabendazole allergy
+1354,DF-10088,Thiamine preparation allergy
+1355,DF-100BB,Thiazide diuretic allergy
+1356,DF-11064,Thiethylperazine allergy
+1357,DF-10FC6,Thioguanine allergy
+1358,DF-10F88,Thiopentone allergy
+1359,DF-11069,Thioridazine allergy
+1360,DF-10FAA,Thiotepa allergy
+1361,DF-1135E,Thiouracil antithyroid agent allergy
+1362,DF-1135C,Thiourea antithyroid agent allergy
+1363,DF-1106D,Thioxanthene allergy
+1364,DF-112DF,Third generation cephalosporin allergy
+1365,DF-1005A,Thromboplastin allergy
+1366,DF-1125E,Thymol allergy
+1367,DF-113DA,Thyroid agent allergy
+1368,DF-113F4,Thyrotrophic hormone allergy
+1369,DF-113F6,Thyrotrophin allergy
+1370,DF-113DC,Thyroxine allergy
+1371,DF-10F3C,Tiaprofenic acid allergy
+1372,DF-113AE,Tibolone allergy
+1373,DF-112C4,Ticarcillin allergy
+1374,DF-112CE,Ticarcillin and clavulanic acid allergy
+1375,DF-110B9,Timolol allergy
+1376,DF-112F6,Tinidazole allergy
+1377,DF-1004E,Tinzaparin allergy
+1378,DF-11227,Tioconazole allergy
+1379,DF-11296,Tobramycin allergy
+1380,DF-100B4,Tocainide allergy
+1381,DF-1139B,Tolazamide allergy
+1382,DF-1139C,Tolbutamide allergy
+1383,DF-10F3D,Tolmetin allergy
+1384,DF-1121B,Tolnaftate allergy
+1385,DF-11190,Topical abrasive agent allergy
+1386,DF-11133,Topical antihistamine allergy
+1387,DF-11383,Topical budesonide allergy
+1388,DF-1137B,Topical compound dexamethasone preparation allergy
+1389,DF-11364,Topical compound hydrocortisone preparation allergy
+1390,DF-1116A,Topical dermatological preparation allergy
+1391,DF-1137A,Topical dexamethasone allergy
+1392,DF-113C9,Topical estradiol allergy
+1393,DF-11363,Topical hydrocortisone allergy
+1394,DF-111FA,Topical potassium allergy
+1395,DF-1137E,Topical prednisolone allergy
+1396,DF-1118F,Topical salicylic acid allergy
+1397,DF-1118D,Topical selenium allergy
+1398,DF-111FB,Topical zinc allergy
+1399,DF-100C8,Torasemide allergy
+1400,DF-100EE,Trandolapril allergy
+1401,DF-1005B,Tranexamic acid allergy
+1402,DF-10119,Transdermal glyceryl trinitrate allergy
+1403,DF-11007,Tranylcypromine allergy
+1404,DF-11016,Trazodone allergy
+1405,DF-10FA9,Treosulfan allergy
+1406,DF-11198,Tretinoin allergy
+1407,DF-11381,Triamcinolone allergy
+1408,DF-100CA,Triamterene allergy
+1409,DF-100D4,Triamterene and loop diuretic allergy
+1410,DF-100D5,Triamterene and thiazide diuretic allergy
+1411,DF-10FB6,Triazene antineoplastic allergy
+1412,DF-1103A,Triazolam allergy
+1413,DF-1122D,Triazole antifungals allergy
+1414,DF-1123D,Tribavirin allergy
+1415,DF-10F8F,Trichloroethylene allergy
+1416,DF-1104D,Triclofos sodium allergy
+1417,DF-11262,Triclosan allergy
+1418,DF-10FF5,Tricyclic antidepressant drug allergy
+1419,DF-111E7,Trientine allergy
+1420,DF-1106C,Trifluoperazine allergy
+1421,DF-1123E,Trifluorothymidine allergy
+1422,DF-11058,Trifluperidol allergy
+1423,DF-11114,Trihexyphenidyl allergy
+1424,DF-10FD6,Trilostane allergy
+1425,DF-100F3,Trimetaphan allergy
+1426,DF-1129D,Trimethoprim allergy
+1427,DF-10FFB,Trimipramine allergy
+1428,DF-1127F,Triphenylmethane azo disinfectant dye allergy
+1429,DF-11152,Triprolidine allergy
+1430,DF-113EB,Triptorelin allergy
+1431,DF-111E5,Trisodium edetate allergy
+1432,DF-11110,Tropicamide allergy
+1433,DF-1100A,Tryptophan allergy
+1434,DF-10F3F,Tuberculin allergy
+1435,DF-111AD,Tubocurarine allergy
+1436,DF-110F5,Tulobuterol allergy
+1437,DF-11124,Tyloxapol allergy
+1438,DF-11350,Typhoid polysaccharide vaccine allergy
+1439,DF-1134F,Typhoid vaccine allergy
+1440,DF-11351,Typhoid whole cell vaccine allergy
+1441,DF-10F47,Ulcer healing drug allergy
+1442,DF-11223,Undecenoates allergy
+1443,DF-1116B,Urea creams allergy
+1444,DF-1119E,Uricosuric agent allergy
+1445,DF-10134,Urokinase allergy
+1446,DF-10F80,Ursodeoxycholic acid allergy
+1447,DF-11335,Vaccine immunoglobulins and antisera allergy
+1448,DF-1133D,Vaccines allergy
+1449,DF-11237,Valaciclovir allergy
+1450,DF-1129B,Vancomycin allergy
+1451,DF-1133C,Varicella-zoster immunoglobulin allergy
+1452,DF-10104,Vasoconstrictor allergy
+1453,DF-1010A,Vasodilator allergy
+1454,DF-111AE,Vecuronium allergy
+1455,DF-1100B,Venlafaxine allergy
+1456,DF-110CE,Verapamil allergy
+1457,DF-11240,Vidarabine allergy
+1458,DF-11023,Vigabatrin allergy
+1459,DF-11017,Viloxazine allergy
+1460,DF-10FDA,Vinblastine allergy
+1461,DF-10FD9,Vinca alkaloid allergy
+1462,DF-10FDB,Vincristine allergy
+1463,DF-10FDC,Vindesine allergy
+1464,DF-1120E,Viscosity modifier allergy
+1465,DF-10078,Vitamin A allergy
+1466,DF-10085,Vitamin B complex preparations allergy
+1467,DF-1007D,Vitamin B group allergy
+1468,DF-10081,Vitamin B12 preparation allergy
+1469,DF-10079,Vitamin D allergy
+1470,DF-1007A,Vitamin K allergy
+1471,DF-10047,von Willebrand factor products allergy
+1472,DF-10055,Warfarin allergy
+1473,DF-1007C,Water soluble vitamin allergy
+1474,DF-1120D,Wool alcohol allergy
+1475,DF-10F42,X-ray contrast media allergy
+1476,DF-11107,Xamoterol allergy
+1477,DF-11163,Xanthine allergy
+1478,DF-111A1,Xanthine oxidase inhibitor allergy
+1479,DF-100DF,Xipamide allergy
+1480,DF-110E8,Xylometazoline allergy
+1481,DF-11236,Zalcitabine allergy
+1482,DF-11232,Zidovudine allergy
+1483,DF-10093,Zinc allergy
+1484,DF-1102A,Zolpidem allergy
+1485,DF-11029,Zopiclone allergy
+1486,DF-11071,Zuclopenthixol allergy
+1487,DF-11070,Zuclopenthixol decanoate allergy
+1488,D2-02113,Allergic rhinitis due to grass pollens
+1489,D2-02112,Allergic rhinitis due to tree pollens
+1490,D2-02114,Allergic rhinitis due to weed pollens
+1491,D0-10293,Allergic sensitization by patch test
+1492,F-C313C,Allergy to adhesive
+1493,F-C3141,Allergy to adhesive bandage
+1494,F-C3121,Allergy to aluminum
+1495,F-C310F,Allergy to animal hair
+1496,F-C3147,Allergy to bee venom
+1497,F-C3005,Allergy to cat dander
+1498,F-C313D,Allergy to cosmetic
+1499,F-C3014,Allergy to dog dander
+1500,F-C313E,Allergy to dye
+1501,F-C3138,Allergy to grass pollen
+1502,F-C3015,Allergy to horse dander
+1503,F-C3159,Allergy to meglitinide
+1504,F-C313B,Allergy to nickel
+1505,F-C310E,Allergy to pollen
+1506,F-C312D,Allergy to ragweed pollen
+1507,F-C312E,Allergy to rubber
+1508,F-C3148,Allergy to scorpion venom
+1509,F-C312F,Allergy to seed
+1510,F-C314C,Allergy to spider venom
+1511,F-C311C,Allergy to tree resin
+1512,F-C3149,Allergy to wasp venom
+1513,F-C313A,Allergy to weed pollen
+1514,F-C311A,Allergy to wood
+1515,F-C314D,Allergy to wool
+1516,F-C313F,Anesthetic allergy
+1517,F-C3006,Dander (animal) allergy
+1518,F-C300E,Dust allergy
+1519,F-C310A,Feather allergy
+1520,F-C310B,House dust allergy
+1521,F-C30FA,Laboratory animal dander allergy
+1522,F-C3113,Latex allergy
+1523,F-C314E,Medical gas allergy
+1524,F-C3112,Metal allergy
+1525,F-C310D,Perfume allergy
+1526,52566,Allergy to existing dental restorative material
+1527,DF-11265,Alcohol products allergy
+1528,F-C3142,Allergy to almond oil
+1529,D5-00333,Allergy to apple juice
+1530,F-C312A,Allergy to aspartame
+1531,424213003,Allergy to bee venom
+1532,F-C3133,Allergy to carrot
+1533,D5-00334,Allergy to cherry
+1534,F-C3143,Allergy to cinnamon
+1535,D5-00335,Allergy to citrus fruit
+1536,DF-1144E,Allergy to coconut oil
+1537,F-C3144,Allergy to corn
+1538,F-C314B,Allergy to dairy product
+1539,D5-00340,Allergy to eggs
+1540,D5-00322,Allergy to fish
+1541,D5-00330,Allergy to fruit
+1542,F-C3123,Allergy to legumes
+1543,D5-00323,Allergy to lobster
+1544,D5-00310,Allergy to nuts
+1545,F-C3135,Allergy to oats
+1546,D5-00324,Allergy to oyster
+1547,D5-00311,Allergy to peanuts
+1548,F-C312B,Allergy to pork
+1549,F-C3136,Allergy to potato
+1550,F-C312C,Allergy to red meat
+1551,F-C3134,Allergy to rye
+id,code,description
+1552,D5-00320,Allergy to seafood
+1553,D5-00325,Allergy to shrimp
+1554,D5-00331,Allergy to strawberries
+1555,F-C3137,Allergy to sulfite based food preservative
+1556,F-C3131,Allergy to tomato
+1557,D5-00312,Allergy to walnuts
+1558,D5-00332,Allergy to watermelon
+1559,F-C3132,Allergy to wheat
+1560,D5-00305,Cheese allergy
+1561,F-C3111,Chocolate allergy
+1562,D5-00301,Cow's milk protein sensitivity
+1563,D5-00341,Egg protein allergy
+1564,DF-100A4,Fish oils allergy
+1565,D5-000AE,Gastrointestinal food allergy
+1566,F-C3116,Gelatin allergy
+1567,F-C30FF,Intravenous nutrition (amino acids) allergy
+1568,F-C3102,Intravenous nutrition (carbohydrate) allergy
+1569,F-C30FD,Intravenous nutrition (electrolytes/trace elements) allergy
+1570,F-C3103,Intravenous nutrition (fats) allergy
+1571,F-C3104,Intravenous nutrition (ready mixed) allergy
+1572,F-C30FE,Intravenous nutrition (vitamins) allergy
+1573,F-C30FB,Intravenous nutrition allergy
+1574,DF-10F4A,Liquorice allergy
+1575,F-C3109,Multivitamin and mineral preparations allergy
+1576,D5-00304,Olive oil allergy
+1577,F-C314F,Pollen-food allergy
+1578,D5-00321,Shellfish allergy
+1579,D5-00302,Soy protein sensitivity
+1580,F-C30FC,Supplementary preparations for parenteral nutrition allergy
+1581,F-C3108,Vitamin products allergy
