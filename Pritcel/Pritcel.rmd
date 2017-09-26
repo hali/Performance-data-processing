@@ -1,0 +1,368 @@
+---
+title: "Performance Pritcel report"
+output:
+  html_document:
+    toc: TRUE
+    toc_depth: 4
+    theme: journal
+    self_contained: yes
+---
+
+```{r echo=FALSE, warning=FALSE}
+library("properties")
+library("stringr")
+
+#Read properties for report generation
+p <- read.properties("Pritcel.properties")
+testSettings <- data.frame(c("No settings file provided"))
+if (p$testSettings != "none") {
+  testSettings <- read.table(p$testSettings, sep="=")
+  names(testSettings) <- c("Property name", "Value")
+}
+
+passedMessage <- "<b><span style=\"color:green\">PASSED</span></b>"
+failedMessage <- "<b><span style=\"color:red\">FAILED</span></b>"
+message <- "No problems in this area"
+WPTmessage <- "Web Page Test was not used for this test run"
+passed <- TRUE
+
+wptFailedSLAs <- data.frame()
+if (p$webPageTestLog != "none")
+{
+  #do some log processing here
+}
+
+if (p$jmeterReportFName != "none") {
+  jmeterLog <- read.csv(p$jmeterReportFName)
+# Remove user delays from the dataset
+  filterOut <- "Delay"
+  if (p$regexpToExclude != "none") {
+    filterOut <- p$regexpToExclude
+    }
+  s <- grep(filterOut, jmeterLog$label, value=TRUE, invert=TRUE)
+  jmeterLog <- subset(jmeterLog, jmeterLog$label %in% s)
+
+# Find requests/samplers that have response time bigger than allowed in SLAs
+  jmeterLog$elapsed <- as.numeric(as.character(jmeterLog$elapsed))
+  jmeterLogSuccess <- subset(jmeterLog, jmeterLog$success == "true")
+  jmeterAggregated <- aggregate(elapsed ~ label, data=jmeterLogSuccess, FUN=quantile, 0.97)
+  jmeterMin <- aggregate(elapsed ~ label, data=jmeterLogSuccess, FUN=min)
+  jmeterAggregated$min <- jmeterMin$elapsed
+  jmeterMax <- aggregate(elapsed ~ label, data=jmeterLogSuccess, FUN=max)
+  jmeterAggregated$max <- jmeterMax$elapsed
+  jmeterAverage <- aggregate(elapsed ~ label, data=jmeterLogSuccess, FUN=mean)
+  jmeterAggregated$avg <- jmeterAverage$elapsed
+  jmeterAggregated <- jmeterAggregated[order(-jmeterAggregated$elapsed),]
+  jmeterFailedSLAs <- subset(jmeterAggregated, jmeterAggregated$elapsed > as.numeric(p$requestSLA))
+  names(jmeterAggregated) <- c("Request", "97% Response time, in ms", "Min Response time, in ms", 
+                               "Max Response time, in ms", "Average Response time, in ms")
+  names(jmeterFailedSLAs) <- c("Request", "97% Response time, in ms", "Min Response time, in ms", 
+                               "Max Response time, in ms", "Average Response time, in ms")
+  if (length(jmeterFailedSLAs$Request) > 0) 
+      {passed <- FALSE}
+
+# Find requests/samplers which had execution errors
+  jmeterErrors <- data.frame(table(jmeterLog$label, jmeterLog$success))
+  jmeterErrors <- subset(jmeterErrors, Var2 == "false")
+  if (nrow(jmeterErrors) > 0)
+  {
+    jmeterErrors$Perc <- jmeterErrors$Freq / sum(jmeterErrors$Freq) * 100
+    jmeterErrors <- subset(jmeterErrors, Var2 =="false" & Perc > 0.009)
+    jmeterErrors <- jmeterErrors[,c("Var1","Perc")]
+    jmeterErrors <- jmeterErrors[order(-jmeterErrors$Perc),]
+    names(jmeterErrors) <- c("Request", "%Errors")
+    passed <- FALSE
+  }
+  
+# Extract concurrency data  
+  concurrency <- subset(jmeterLog,select=c("threadName","label","timeStamp","elapsed"))
+  concurrency$timeStamp <- as.numeric(as.POSIXct(concurrency$timeStamp, format="%Y/%m/%d %H:%M:%S"))
+  concurrency$timeStamp <- concurrency$timeStamp - concurrency$timeStamp[1]
+  concurrency$elapsed <- concurrency$elapsed/1000
+  
+  concurrency$threadName <- as.numeric(concurrency$threadName)
+  concurrency <- droplevels(concurrency)
+  concurrency[,"concurrency"] <- 1
+  concurrency[,"end"] <- concurrency$timeStamp + concurrency$elapsed
+  concurrency <- concurrency[order(concurrency$timeStamp),]
+  byLabel <- split(concurrency, concurrency$label)
+  n <- nlevels(concurrency$label)
+  for (i in 1:n) {
+    rowsn <- nrow(byLabel[[i]])
+    if (rowsn > 1)
+    {
+      for (j in 1:(rowsn-1)) {
+        y1 <- byLabel[[i]]$end[j]
+        for (k in (j+1):rowsn) {
+          x2 <- byLabel[[i]]$timeStamp[k]
+            if (x2 > y1) {
+              break  
+            }
+            else {
+              byLabel[[i]]$concurrency[k] <- byLabel[[i]]$concurrency[k] + 1
+            }
+        }
+      }
+    }
+  }
+  remerged <- byLabel[[1]] 
+  for (i in 2:n) {
+    remerged <- rbind(remerged, byLabel[[i]])
+  }
+
+concLevels <- aggregate(concurrency ~ label, data=remerged, FUN=mean)
+y <- aggregate(concurrency ~ label, data=remerged, FUN=max)
+concLevels[,"max"] <- y$concurrency
+concLevels <- concLevels[order(concLevels$max),]
+names(concLevels) <- c("label", "Mean concurrency", "Max concurrency")
+}
+
+eventsTopTen <- data.frame()
+if (p$eventsLog != "none") {
+  x <- read.csv(p$eventsLog, header=FALSE, sep=" ", quote="\'", stringsAsFactors = FALSE)
+  x[, "Date"] <- paste(x$V1, x$V2, x$V3, x$V4)
+    
+# Select only the columns of interest and only the rows with the event end
+  x <- x[x$V6 == 'END', !(names(x) %in% c('V1', 'V2', 'V3', 'V4', 'V5', 'V6', 'V8'))]
+  names(x) <- c('Activity', 'Parameters', 'Length', 'Date')
+    
+# Separate data by event type
+  web_request <- x[x$Activity == 'WEB_REQUEST',]
+  web_service_call <- x[x$Activity == 'WEB_SERVICE_CALL',]
+  database_query <- x[x$Activity == 'DATABASE_QUERY',]
+  scalar <- x[x$Activity == 'SCALAR',]
+  domain_adaptor_call <- x[x$Activity == 'DOMAIN_ADAPTOR_CALL',]
+  web_service_request <- x[x$Activity == 'WEB_SERVICE_REQUEST',]
+    
+# Remove dynamic info from web requests and database queries
+  database_query$Parameters <- data.frame(mapply(sub, " [^ ]+", "", database_query$Parameters))
+  web_request$Parameters <- data.frame(mapply(sub, "\\?[^ ]+", "", web_request$Parameters))
+    
+# Calculate 97th percentile per event
+  if (nrow(web_service_call) > 0) {
+    web_service_call <- aggregate(Length ~ Parameters + Activity, data=web_service_call, FUN=quantile, c(0.97))}
+  if(nrow(web_service_request) > 0) {
+    web_service_request <- aggregate(Length ~ Parameters + Activity, data=web_service_request, FUN=quantile, c(0.97))}
+  if (nrow(scalar) > 0) {
+    scalar <- aggregate(Length ~ Parameters + Activity, data=scalar, FUN=quantile, c(0.97)) }
+  if (nrow(domain_adaptor_call) > 0) {
+    domain_adaptor_call <- aggregate(Length ~ Parameters + Activity, data=domain_adaptor_call, FUN=quantile, c(0.97)) }
+  if (nrow(database_query) > 0) {
+    database_query <- aggregate(Length ~ Parameters[[1]] + Activity, data=database_query, FUN=quantile, c(0.97))}
+  if (nrow(web_request) > 0) {
+    web_request <- aggregate(Length ~ Parameters[[1]] + Activity, data=web_request, FUN=quantile, c(0.97))}
+  names(database_query) <- c("Parameters","Activity","Length")
+  names(web_request) <- c("Parameters","Activity","Length")
+    
+# Create one table with all results
+  eventsTopTen <- rbind(web_service_call, web_service_request, scalar, domain_adaptor_call,database_query, web_request)
+    
+# Order by Length of event (aka response time) descending
+  eventsTopTen <- eventsTopTen[with(eventsTopTen, order(-Length)), ]
+  s <- grep("OHP startup|conductor|ohp-admin", eventsTopTen$Parameters, value=TRUE, invert=TRUE)
+  eventsTopTen <- subset(eventsTopTen, eventsTopTen$Parameters %in% s)
+  eventsTopTen <- head(eventsTopTen, 10)
+  eventsTopTen <- subset(eventsTopTen, eventsTopTen$Length > 500)
+  names(eventsTopTen) <- c("", "Type", "97th percentile Time, in ms")
+  if (length(eventsTopTen$Type) > 0) 
+    {passed <- FALSE}
+}
+
+# Create highResourceUtilisation variable in case there are no problems in the snapshot
+# and the variable doesn't get created automatically - it needs to exist so we can 
+# rbind to it later
+highResourceUtilisation <- data.frame()
+
+if (p$snapshotLog != "none") {
+# Check snapshot log for areas of concern
+  x <- read.table(p$snapshotLog, sep="$", header = FALSE)
+  s <- grep("DATASOURCE", x$V1, value=TRUE, invert=FALSE)
+  datasource <- subset(x, V1 %in% s)
+  datasource$V2 <- substr(datasource$V1, 54, nchar(as.character(datasource$V1)))
+  datasource <- str_split_fixed(as.character(datasource$V2), " ",7)
+  datasource[,6] <- as.numeric(substr(datasource[,6],13,nchar(datasource[,6])-1))
+  datasource[,7] <- as.numeric(substr(datasource[,7],15,nchar(datasource[,7])))
+  datasource <- data.frame(datasource)
+  datasource <- datasource[as.numeric(as.character(datasource$X7)) > 0,]
+  if (nrow(datasource) > 0) {
+    datasource$X3 <- gsub('SIZE=',"",datasource$X3) # Pool size
+    datasource$X3 <- gsub(',',"",datasource$X3)
+    y <- aggregate(X3 ~ X2, data=datasource, FUN=max)
+    z <- aggregate(as.numeric(as.character(X6)) ~ X2, data=datasource, FUN=max)
+    names(y) <- c("datasource","size")
+    names(z) <- c("datasource","maxWaiters")
+    y$maxWaiters <- z$maxWaiters
+    highResourceUtilisation <- data.frame("DB POOL", paste(y$maxWaiters, " waiters in the ", y$datasource, " datasource pool with size ", y$size))
+    names(highResourceUtilisation) <- c("Area", "Comment")
+  }
+}
+
+# Check GC logs for long GC pauses
+if (p$gcLog != "none") {
+  gc <- read.csv(p$gcLog, header=FALSE)
+  gc$isTime <- gsub('real=[0-9.]* secs]',"true",gc$V2)
+  gc$time <- gsub('real=',"",gc$V2)
+  gc$time <- gsub(' secs]',"",gc$time)
+  gc_times <- as.numeric(gc[gc$isTime == ' true',c("time")])
+  gc_times <- gc_times[gc_times>p$gcPause]
+  if (length(gc_times) > 0) {
+    x <- data.frame("GC", paste("There have been few GC pauses longer than ", p.gcPause, " seconds: ", paste(gc_times, collapse=', ')))
+    names(x) <- c("Area", "Comment")
+    highResourceUtilisation <- rbind(highResourceUtilisation, x)
+    names(highResourceUtilisation) <- c("Area", "Comment")
+    passed = FALSE
+  }
+}
+
+if (p$ohpLog != "none") {
+# Check OHP application log for errors in general and OutOfMemory specifically
+  ohp <- read.csv(p$ohpLog, header=FALSE, sep="[")
+  ohp$V2 <- as.character(ohp$V2)
+  ohp$error <- substring(ohp$V2,1,5)
+  ohp$V2 <- substring(ohp$V2,8)
+  ohp_errors <- ohp[ohp$error == "ERROR",c("V2")]
+  if (length(ohp_errors) > 0) {
+    x <- data.frame("OHP errors", paste("There have been ", length(ohp_errors), " errors in ohp.log during the test. Investigate to make sure script is not at fault, and OHP is running as expected"))
+    names(x) <- c("Area", "Comment")
+    highResourceUtilisation <- rbind(highResourceUtilisation, x)
+    outOfMemory <- ohp_errors[grep("OutOfMemory", ohp_errors)]
+    if (length(outOfMemory) > 0) {
+      x <- data.grame("OHP errors", "One or more OutOfMemory errors found in ohp.log. Testing is invalid")
+      names(x) <- c("Area", "Comment")
+      highResourceUtilisation <- rbind(highResourceUtilisation, x)
+    }
+    names(highResourceUtilisation) <- c("Area", "Comment")
+    passed = FALSE
+  }
+}
+
+library(XML)
+content <- data.frame()
+if (p$AWRLog != "none") {
+  AWR <- paste(readLines(p$AWRLog), collapse="\n")
+  pagetree <- htmlTreeParse(AWR, error=function(...){}, useInternalNodes = TRUE)
+  results <- xpathSApply(pagetree, "//*/table[@summary='This table displays top SQL by elapsed time']/tr/td", xmlValue)
+  content <- as.data.frame(matrix(results, ncol = 9, byrow = TRUE))
+  content <- content[as.numeric(as.character(content$V3)) > 0.2,]
+  if (nrow(content) > 0) {
+    names(content) <- c("Elapsed Time (s)", "Executions", "Elapsed Time per Exec (s)", "%Total", "%CPU", "%IO", "SQL Id", "SQL Module", "SQL Text")
+  }
+}
+```
+TEST STATUS: `r if (passed) {passedMessage} else {failedMessage}`
+
+TEST SETTINGS:
+```{r results="asis", echo=FALSE, warning=FALSE}
+library(xtable)
+print(xtable(testSettings), type="html", include.rownames=FALSE)
+```
+
+##AREAS OF CONCERN
+####Pages that fail SLAs (WebPageTest)
+```{r results="asis", echo=FALSE, warning=FALSE}
+if (nrow(wptFailedSLAs) > 0) {
+  print(xtable(wptFailedSLAs), type="html", include.rownames=FALSE)
+} else {
+  WPTmessage
+}
+```
+
+####Requests that fail Response Time SLAs (JMeter)
+```{r results="asis", echo=FALSE, warning=FALSE}
+if (nrow(jmeterFailedSLAs) > 0) {
+  print(xtable(jmeterFailedSLAs),type="html", include.rownames=FALSE)
+} else {
+  message
+}
+```
+
+####Requests that have errors (JMeter)
+A small percentage of errors is fine as long as you know the reason behind them (usually, imperfect test data).
+
+```{r results="asis", echo=FALSE, warning=FALSE}
+if (nrow(jmeterErrors) > 0) {
+    print(xtable(jmeterErrors), type="html", include.rownames=FALSE)
+} else {
+  message
+}
+```
+
+####Top 10 slowest things from events.log that were longer than 0.5 second
+```{r results="asis", echo=FALSE, warning=FALSE}
+if (nrow(eventsTopTen) > 0) {
+  print(xtable(eventsTopTen), type="html", include.rownames=FALSE)
+} else {
+  message
+}
+```
+
+####Slow running SQL queries (AWR report)
+```{r results="asis", echo=FALSE, warning=FALSE}
+if (nrow(content) > 0) {
+  print(xtable(content), type="html", include.rownames=FALSE)
+} else {
+  message
+}
+```
+
+####Other areas of concern
+```{r results="asis", echo=FALSE, warning=FALSE}
+if (nrow(highResourceUtilisation) > 0) {
+  print(xtable(highResourceUtilisation), type="html", include.rownames=FALSE)
+} else {
+  message
+}
+```
+
+##ADDITIONAL INFORMATION (JMETER)
+####Response times during the test
+Use it to see whether the load was evenly distributed throughput the test - there should be no areas where response times jump up.
+````{r echo=FALSE, fig.width=17, fig.height=8, out.width=1000, out.height=400}
+library(ggplot2)
+if (p$jmeterReportFName != "none") {
+  jmeterLog$timeStamp <- as.character(jmeterLog$timeStamp)
+  jmeterLog <- jmeterLog[order(jmeterLog$timeStamp),]
+  ggplot(jmeterLog) + geom_point(aes(x=timeStamp, y=elapsed, color=label)) + 
+    theme(legend.position = "none", axis.text.x=element_blank())
+} else {
+  "No JMeter log available to get this info."
+}
+````
+
+####Concurrency graph for top 20 slowest samplers
+Use it to get an idea of what was going on load wise.
+````{r echo=FALSE, fig.width=17, fig.height=8, out.width=1000, out.height=400}
+if (p$jmeterReportFName != "none") {
+  l <- jmeterAggregated$Request[0:20]
+  n <- 20
+  col.par = function(n) sample(seq(0.5, 1, length.out=50),n);
+  cols = rainbow(n, s=col.par(n), v=col.par(n))[sample(1:n,n)]
+  ggplot(concurrency[concurrency$label %in% l,]) + 
+    geom_segment(aes(x=timeStamp, y=as.numeric(threadName), xend=timeStamp+elapsed,
+    yend=as.numeric(threadName), color=label), size=2) +
+    scale_y_reverse() + theme(legend.position = "none") + guides(colour=guide_legend(ncol=1)) + 
+    scale_colour_manual(values=cols) + xlab("Time in seconds since the beginning of the test") +
+    ylab("Thread number") + labs(title = "Concurrency graph")
+} else {
+  "No JMeter log available to get this info."
+}
+````
+
+####Average Concurrency Levels
+If there are any requests with concurrency level 1, you might need to examine the JMeter script and make sure load is representative of production. You would usually want concurrency levels >1 to test the situation when two threads are accessing the same resources on the server.
+````{r results="asis", echo=FALSE, warning=FALSE}
+if (p$jmeterReportFName != "none") {
+  print(xtable(concLevels), type="html", include.rownames=FALSE)
+} else {
+  "No JMeter log available to get this info."
+}
+````
+
+####Aggregated response times per sampler/request
+```{r results="asis", echo=FALSE, warning=FALSE}
+if (p$jmeterReportFName != "none") {
+  print(xtable(jmeterAggregated), type="html", include.rownames=FALSE)
+} else {
+  "No JMeter log available to get this info."
+}
+```
