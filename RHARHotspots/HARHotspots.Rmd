@@ -1,0 +1,74 @@
+---
+title: "HAR hotspots"
+author: "Viktoriia Kuznetcova"
+date: "9/27/2017"
+output:
+  html_document:
+    toc: TRUE
+    toc_depth: 4
+    self_contained: yes
+    theme: null
+---
+```{r echo=FALSE}
+library(jsonlite)
+har <- fromJSON(filename, simplifyDataFrame = TRUE, flatten = TRUE)
+entries <- har$log$entries
+
+# Aggregating timing results per request to understand how are the resources cached
+timings <- aggregate(time ~ request.url, data=entries, FUN=length)
+names(timings) <- c("request", "count")
+timings$total <- aggregate(time ~ request.url, data=entries, FUN=sum)$time
+timings$average <- aggregate(time ~ request.url, data=entries, FUN=mean)$time
+timings$median <- aggregate(time ~ request.url, data=entries, FUN=median)$time
+timings$max <- aggregate(time ~ request.url, data=entries, FUN=max)$time
+timings$min <- aggregate(time ~ request.url, data=entries, FUN=min)$time
+repeatingRequests <- subset(timings, timings$count > 1)
+problemsDetected <- subset(repeatingRequests, min > 0)
+problemsDetected <- problemsDetected[order(-problemsDetected$count),]
+
+# Selecting resources that are cached later than they should be, i.e. they are loaded from the server multiple times
+cachedStats <- aggregate(pageref ~ request.url+time, data=entries, FUN=length)
+cachedStatsFromServer <- aggregate(time ~ request.url, data = cachedStats[cachedStats$time > 0,], FUN=length)
+cachedStatsFail <- subset(cachedStatsFromServer, time > 1)
+cachedStatsFail <- cachedStatsFail[order(-cachedStatsFail$time),]
+names(cachedStatsFail) <- c("Request", "Samples not cached")
+
+# Finding whether there are static resources that are not gzipped
+notCompressed <- subset(entries, entries$response.content.compression == 0 & entries$response.content.mimeType %in% c("text/javascript", "text/css", "image/png", "image/gif"))
+notCompressed <- notCompressed[, c("pageref", "request.url", "response.bodySize", "response._transferSize", "response.content.size")]
+notCompressed <- notCompressed[order(-notCompressed$response.content.size),]
+```
+
+##Hotspots
+Potential problems with caching were identified in the provided har file `r {filename}`.
+
+###Not cached
+These are the requests that were called more than once, yet were not cached at all.
+
+They need to be cached unless they are dynamically generated.
+```{r results="asis", echo=FALSE}
+library(xtable)
+print(xtable(problemsDetected), type="html", include.rownames=FALSE,latex.environments = "left")
+```
+
+###Cached too late
+These are the requests that were called more than once, were eventually cached, but not right away. It usually happens when a few iframes on the page request the same resource.
+
+It might make sense to lazy preload such resources earlier in the user workflow, so they are already in browser cache by the time we hit the page with windowlets.
+```{r results="asis", echo=FALSE}
+library(xtable)
+print(xtable(cachedStatsFail), type="html", include.rownames=FALSE,latex.environments = "left")
+```
+
+###Uncompressed static resources
+All static resources should be compressed to save time on loading them from the server.
+```{r results="asis", echo=FALSE}
+print(xtable(notCompressed), type="html", include.rownames=FALSE,latex.environments = "left")
+```
+
+##Details
+All the requests for detailed analysis
+```{r results="asis", echo=FALSE}
+library(xtable)
+print(xtable(timings), type="html", include.rownames=FALSE,latex.environments = "left")
+```
